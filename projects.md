@@ -1,7 +1,7 @@
 ---
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
-desc: ""
+desc: ''
 updated: 1666400205654
 created: 1666285014870
 ---
