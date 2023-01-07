@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1673055597436
+updated: 1673056052925
 created: 1673052203319
 ---
 
@@ -10,7 +10,7 @@ created: 1673052203319
 
 As I now understand it, there will be a single BigRed infrastructure which will support all production Tenefit DAE tiers in addition to all production PDC tiers. This I believe the first time where Tenefit owns and supports a key piece of infrastructure/data leveraged by all tiers. This represents a significant change in terms of responsibilities and support.
 
-In the current world, the data generally flows from PDC as the source, down to the tiers (be it map services, databases, queues, ...). We (DAE) are primarily a "client" to these services. Thus the support process and chain is very well understood. If we (or PDC) discover an issue, tickets get raised/filed in Asana on the PDC side, and PDC has a process to stay on top of those tickets and responsd to them 24x7. This will be the first instance where we will be hosting (and paying for) key infrastructure where PDC tiers would be a "client".
+In the current world, the data generally flows from PDC as the source, down to the tiers (be it map services, databases, queues, ...). We (DAE) are primarily a "client" to these services. Thus the support process and chain is very well understood. If we (or PDC) discover an issue, tickets get raised/filed in Asana on the PDC side, and PDC has a process to stay on top of those tickets and respond to them 24x7. This will be the first instance where we will be hosting (and paying for) key infrastructure where PDC tiers would be a "client".
 
 It's one thing if this infrastructure impacts our customers, it's a very different issue in my mind if this infrastructure impacts PDC's customers, which I view are more mission critical that our customers.
 
@@ -37,7 +37,7 @@ This raises several questions which I'd like to discuss when we meet.
 - Is the reliability/availability of the MSK cluster mission critical?
   - If there is an issue will PDC expect 24x7 engineer/operations to resolve?
 - Will (initial) front line of support be Development?
-- What's the plan to convey knowledge about the system to Operations and Support for them to asssume front line support?
+- What's the plan to convey knowledge about the system to Operations and Support for them to assume front line support?
 - Does PDC have any new support they are responsible for in 7.4?
 
 ### Configuration / Sizing
