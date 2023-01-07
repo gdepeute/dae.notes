@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1673054448177
+updated: 1673055137204
 created: 1673052203319
 ---
 
@@ -36,6 +36,7 @@ This raises several questions which I'd like to discuss when we meet.
   - If there is an issue will PDC expect 24x7 engineer/operations to resolve?
 - Will (initial) front line of support be Development?
 - What's the plan to convey knowledge about the system to Operations and Support for them to asssume front line support?
+- Does PDC have any new support they are responsible for in 7.4?
 
 ### Configuration / Sizing
 
@@ -48,14 +49,21 @@ This raises several questions which I'd like to discuss when we meet.
 - What set of AZ's will this cluster be deployed in?
 - Are all processors available in multi-AZ's?
 - Do all (or ones where load might be variable) processors support auto-scaling?
+- Should we be pushing all MSK transactions to S3 (at least initially) to have complete transaction backup for disaster recovery?
 
 ### Logging / Monitoring
 
 - What logging/monitoring is still to be implemented on EXISTING infrastructure (specifics)?
 - What logging/monitoring is still to be implemented on NEW infrastructure (new services/containers/code - specifics)?
 - Is something breaks, what is the process to debug/resolve?
+- Should there be separate monitors/tools watching/observing the topic to proactively detect
 
 ### Others?
 
 - What are you guys concerned about?
--
+- What kinds of problems might we expect, and do we have sufficient logging/monitoring/alerting to quickly detect and resolve?
+- Given issues seen during development, do you feel adequately prepared for this infrastructure to go into mission critical production in the coming weeks?
+- Where did the PDC deploying 7.4 date/commitment come from? Given Tenefit is responsible for that infrastructure, don't we have a say as to readiness?
+- Is there a forcing function for PDC wanting/needing to go to 7.4 in a couple weeks?
+- Is there a TestRapids or TestEMOPS tier running 7.4 and using the existing Test infrastructure?
+- Have we done any load/scale testing?
