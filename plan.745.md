@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1673299295821
+updated: 1673300881569
 created: 1673052203319
 ---
 
@@ -40,9 +40,6 @@ This raises several questions which I'd like to discuss when we meet.
 - What's the plan to convey knowledge about the system to Operations and Support for them to assume front line support?
 - Does PDC have any new support they are responsible for in 7.4?
 
-- Next business day is OK?
-- Q: What is our SLA with customers (ping Natalie)?
-
 ### Configuration / Sizing
 
 - What is the specification or requirements for the production cluster?
@@ -73,3 +70,15 @@ This raises several questions which I'd like to discuss when we meet.
 - Is there a TestRapids or TestEMOPS tier running 7.4 and using the existing Test infrastructure?
 - Have we done any load/scale testing?
 - What did I not ask?
+
+---
+
+### Notes from Meeting
+
+- Next business day is OK?
+- Q: What is our SLA with customers (ping Natalie)?
+- Arnaldo will check with Steve/Cassie to see what the support SLA's are
+- What are we going to be expected to "execute" to
+
+- IAEA is in production now, production MSK and services
+- Development owns the deployment responsibility for Test and should be Arnaldo for Production
