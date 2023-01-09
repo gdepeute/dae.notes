@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673291768570
+updated: 1673292191306
 created: 1673230030238
 ---
 
@@ -49,7 +49,9 @@ created: 1673230030238
   - PDC license may NOT go with one of the other companies
   - Moshen helping to get the deal with IQgeo completed into NewCo
   - Payroll for Tenefit will be a bridge loan to NewCo
-  - "Believes" he has funding committed for NewCo
+  - "Believes" he has funding committed for NewCo, but should know before payroll date
+  - Trying to get IQgeo to invest in NewCo at up to $1M
+  - Potential deal with USVP, asking for customer references, and talk to Ray
 
   - Friday meeting with Ray - took him thru the investor deck
   - Discussed the ABC process, claims he was knodding/smiling - perhaps this is simply getting Dana out of our hair
