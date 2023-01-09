@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673230290583
+updated: 1673291768570
 created: 1673230030238
 ---
 
@@ -32,3 +32,24 @@ created: 1673230030238
   - Frustrating...
 
 - Review of 7.4 and readiness happening this afternoon
+
+- Live Updates
+
+  - ABC process - received shareholder and board approacl
+  - Assign all assets to assignee - we give list of 10 companies to sell the comapny to
+  - We are putting in a bid as the management organization (assume SQN debt $4M, 200k promisory note paid back in a year)
+    - Hence our offer is effectively $4.2M
+    - Any other competitive offer would need to exceed the $4.2M to even be considered
+  - Have money for next payroll, but not the one at the end of the month
+  - Who are the other 10 companies
+  - Will pay Tenefit payroll this week as scheduled the employees out of Tenefit, NewCo would pay the estaff
+  - Will need new employment contracts with NewCo
+  - 50% ownership NewCo, 50% Dana - new stock issued equally from NewCo/Dana
+  - Ravix is the assignee we just paid $50k to in order to try and sell the company
+  - PDC license may NOT go with one of the other companies
+  - Moshen helping to get the deal with IQgeo completed into NewCo
+  - Payroll for Tenefit will be a bridge loan to NewCo
+  - "Believes" he has funding committed for NewCo
+
+  - Friday meeting with Ray - took him thru the investor deck
+  - Discussed the ABC process, claims he was knodding/smiling - perhaps this is simply getting Dana out of our hair
