@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673292848732
+updated: 1673293692827
 created: 1673230030238
 ---
 
@@ -56,6 +56,7 @@ created: 1673230030238
   - $230k AllScripts receivable by 2/6.
   - $70k receivables coming in between 15th an 21st.
   - Asking EStaff to delay payroll by one week so we can get commitment, unclear how 1 week commitment can be made as the $ to cover it isn't there
+  - Complete the PDC license AFTER the ABC is complete
 
   - Friday meeting with Ray - took him thru the investor deck
   - Discussed the ABC process, claims he was knodding/smiling - perhaps this is simply getting Dana out of our hair
