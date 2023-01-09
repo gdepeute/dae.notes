@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673292191306
+updated: 1673292499370
 created: 1673230030238
 ---
 
@@ -52,6 +52,8 @@ created: 1673230030238
   - "Believes" he has funding committed for NewCo, but should know before payroll date
   - Trying to get IQgeo to invest in NewCo at up to $1M
   - Potential deal with USVP, asking for customer references, and talk to Ray
+  - $200-300k receivables, not enough to cover ALL payroll
+  - Asking EStaff to delay payroll by one week so we can get commitment
 
   - Friday meeting with Ray - took him thru the investor deck
   - Discussed the ABC process, claims he was knodding/smiling - perhaps this is simply getting Dana out of our hair
