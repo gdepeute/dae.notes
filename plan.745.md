@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1673056052925
+updated: 1673299295821
 created: 1673052203319
 ---
 
@@ -39,6 +39,9 @@ This raises several questions which I'd like to discuss when we meet.
 - Will (initial) front line of support be Development?
 - What's the plan to convey knowledge about the system to Operations and Support for them to assume front line support?
 - Does PDC have any new support they are responsible for in 7.4?
+
+- Next business day is OK?
+- Q: What is our SLA with customers (ping Natalie)?
 
 ### Configuration / Sizing
 
