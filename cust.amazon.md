@@ -2,7 +2,7 @@
 id: hw9q7gtgv9yfwl3rjodqimk
 title: Amazon
 desc: ""
-updated: 1673374297210
+updated: 1673374457943
 created: 1673373729713
 ---
 
@@ -26,3 +26,5 @@ created: 1673373729713
 
 - Mindset comes from experience with Everbridge
 - PreCOM is the internal tool they are injesting
+- Large number of drivers is the focus
+- Wildfires
