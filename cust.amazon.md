@@ -2,7 +2,7 @@
 id: hw9q7gtgv9yfwl3rjodqimk
 title: Amazon
 desc: ""
-updated: 1673375633667
+updated: 1673377141484
 created: 1673373729713
 ---
 
@@ -22,6 +22,9 @@ created: 1673373729713
 - Kepler to injest NWS events
 - NOT interested in weather events, mostly interested in NON-weather
 - Injest and decision making around weather events "solved" in their mind
+- No planned action until at least March - Andrew out until then on paternity leave
+- Recommending them to trial and dig into the system
+- Deployment no earlier that Q2/2024
 
 ### Questions from Matt / Guilhem
 
