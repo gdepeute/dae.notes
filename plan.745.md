@@ -2,9 +2,26 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1673300881569
+updated: 1673303808255
 created: 1673052203319
 ---
+
+# Summary from 1/9/23 Meeting with Johnny/Arnaldo
+
+- No one is clear on our support SLA with customers and/or PDC
+  - Ping'ed Natalie for details
+- Unclear if the production MSK is multi-AZ and implementing all best practices
+  - Ask Arnaldo to go be confident it's set up correctly in his own mind
+  - No need to work thru recovery scenarios (yet) if we are running on hardware/disks in multiple different physical locations
+    Next busines
+- Arnaldo will be first line of contact, and will put together in the next couple weeks a playbook for Jesse and the India team as to what to watch for, what to do when a support email comes in, and when to call.
+  - Arnaldo will then pull in the development team as required
+- IAEA is in production now, production MSK and services
+- Development owns the deployment responsibility for Test and should be Arnaldo for Production
+  - From now on, IAEA production deployments will be done by Arnaldo
+- Need single source of truth for BOM for release, and don't want to implement the separate spreadsheet process PDC does
+- Johnny claims multiple consumer/producers on single topic has been tested and works
+- Claim is scale testing (using my Neijing Taxis) has been done on TestEnterprise
 
 # Discussion of Readiness for 7.4 Release
 
@@ -70,15 +87,3 @@ This raises several questions which I'd like to discuss when we meet.
 - Is there a TestRapids or TestEMOPS tier running 7.4 and using the existing Test infrastructure?
 - Have we done any load/scale testing?
 - What did I not ask?
-
----
-
-### Notes from Meeting
-
-- Next business day is OK?
-- Q: What is our SLA with customers (ping Natalie)?
-- Arnaldo will check with Steve/Cassie to see what the support SLA's are
-- What are we going to be expected to "execute" to
-
-- IAEA is in production now, production MSK and services
-- Development owns the deployment responsibility for Test and should be Arnaldo for Production
