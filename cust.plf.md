@@ -2,7 +2,7 @@
 id: o9f6vx2d6lop53ox7bbmryn
 title: Plf
 desc: ""
-updated: 1673312288638
+updated: 1673312328656
 created: 1673311998165
 ---
 
@@ -25,4 +25,6 @@ created: 1673311998165
 
 ## Update 1/9/23
 
-- Received
+- Received Pacific-Labour-Facility-01-09-23-Sites.xlsx from Jesse from PLF
+- Saved as CSV into standard place
+- Ran command above and sent Jesse indication
