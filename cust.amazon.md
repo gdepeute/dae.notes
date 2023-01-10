@@ -2,7 +2,7 @@
 id: hw9q7gtgv9yfwl3rjodqimk
 title: Amazon
 desc: ""
-updated: 1673375255337
+updated: 1673375633667
 created: 1673373729713
 ---
 
@@ -38,3 +38,5 @@ created: 1673373729713
   - Perhaps some VPC level integration with a Amazon Private Instance
 - Matt asked about the customization level able to be made (with private instance)
   - Example: 6" of snow across 4 states, and if/when winds exceed 58mph
+- Taher is interesting in effect custom reports overlapped with zipcodes
+  - They use zipcode as the smallest geographic unit Amazon is dealing with
