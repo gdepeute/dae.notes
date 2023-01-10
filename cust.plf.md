@@ -2,7 +2,7 @@
 id: o9f6vx2d6lop53ox7bbmryn
 title: Plf
 desc: ""
-updated: 1673312219834
+updated: 1673312288638
 created: 1673311998165
 ---
 
@@ -16,7 +16,13 @@ created: 1673311998165
 - When new file received from Jesse, open in Excel (if .xlsx), save as CSV into GIS_data/CSV
 - Run the following:
 
-  - ```
-    pipenv run ./gis_tool.py -a -r -d csv -f ../GIS_data/CSV/<filename> -l "Pacific Labour Facility 031921" --security public -dae
+  ```
+  pipenv run ./gis_tool.py -a -r -d csv -f ../GIS_data/CSV/<filename> -l "Pacific Labour Facility 031921" --security public -dae
 
-    ```
+  ```
+
+- Commit the latest file to GIT, and let Jesse know
+
+## Update 1/9/23
+
+- Received
