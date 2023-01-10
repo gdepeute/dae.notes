@@ -2,7 +2,7 @@
 id: hw9q7gtgv9yfwl3rjodqimk
 title: Amazon
 desc: ""
-updated: 1673374457943
+updated: 1673374666702
 created: 1673373729713
 ---
 
@@ -27,4 +27,6 @@ created: 1673373729713
 - Mindset comes from experience with Everbridge
 - PreCOM is the internal tool they are injesting
 - Large number of drivers is the focus
-- Wildfires
+- Wildfires - asked question of difference of burn zone and impact area
+  - Erin responded to the question
+- AIM - All Hazards Impact Model - now AIM 3
