@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673550573588
+updated: 1673550778227
 created: 1673230030238
 ---
 
@@ -13,7 +13,7 @@ created: 1673230030238
   - Adam responded to me yesterday, DID find configuration issue, since fixed, should no longer see time skew
 
 - Live Updates
-  -
+  - Negus brothers backed out at the last minute
 
 # EStaff 1/9/23
 
