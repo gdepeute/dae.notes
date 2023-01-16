@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673896442779
+updated: 1673897055879
 created: 1673230030238
 ---
 
@@ -26,8 +26,19 @@ created: 1673230030238
   - Johnny performing demo
 
 - IQgeo Meeting tomorrow - no invite
+
   - Castrel - Mohsen - company owns 26% of IQgeo
-  -
+
+- Payable status
+
+  - Tail insurance
+  - Amazon we owe $11k
+  - Credit card $700 left
+
+- A/R
+  - AXA $43k - 1/17
+  - Quotech $12k - 1/20 (expected tomorrow)
+  - Enerflex $14k - 1/23
 
 # EStaff 1/12/23
 
