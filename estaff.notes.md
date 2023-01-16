@@ -2,9 +2,32 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1673550778227
+updated: 1673896442779
 created: 1673230030238
 ---
+
+# EStaff 1/16/23
+
+- Other bidders in ABC process:
+
+  - OnSolve
+  - AlertMedia
+  - TIBCO
+  - We are putting our bid in on Wednesday - we are putting 48 hour clock on our bid
+
+- 13 terminated, Natalie still employed by Tenefit for a few more days
+- Offer letters sent last night around 8:30pm
+- Sign and send back to Natalie personal email
+
+- Moving forward with USVP
+
+  - On the phone with Steve yesterday with Bob/Michelle
+  - Bob/Michelle working on the pitch for Thursday
+  - Johnny performing demo
+
+- IQgeo Meeting tomorrow - no invite
+  - Castrel - Mohsen - company owns 26% of IQgeo
+  -
 
 # EStaff 1/12/23
 
