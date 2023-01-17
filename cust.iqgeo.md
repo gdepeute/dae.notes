@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673969671837
+updated: 1673969958371
 created: 1673313346674
 ---
 
@@ -47,8 +47,9 @@ created: 1673313346674
     - IQgeo business model has been standard subscription
     - Next meeting is in early February in Japan
     - Pre-sold them 2820 licenses, he thinks this is a LOW number, but they need to sell to justify the Nessig customer base
-    - They sold 4000 licenses to one company alone
+    - They sold 4000 licenses to one company alone (Tepco)
     - "Add-on" license
     - They've designed in upside license flexibility in emergency situations for short period of time (e.g. 1 month). Uses as upsell opportunity.
     - He likes the solution, however unclear what's needed/desired for their Japanese customers
     - Would like to give access to Nessig and his Japanese sales guys (trial) to begin to understand it and to do Japanese demo (localization)
+  - He's like to get Nessig trials, but how long are we comfortable them understanding the data?
