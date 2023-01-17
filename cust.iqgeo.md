@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673968552753
+updated: 1673968713637
 created: 1673313346674
 ---
 
@@ -34,3 +34,5 @@ created: 1673313346674
     - Sell digital platform service for their customers - smaller cities/governments
     - Requested dedicated sales for in Japan
     - They have a couple of the largest power companies in Japan
+  - Bob tossed out potential for exclusivity in Japan in this marketplace
+    - Bob told the story of the processor built for the Newton via exclusivity for NEC to go into Atari and other game consoles "back in the day..."
