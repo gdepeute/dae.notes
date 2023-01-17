@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673969958371
+updated: 1673970198883
 created: 1673313346674
 ---
 
@@ -53,3 +53,5 @@ created: 1673313346674
     - He likes the solution, however unclear what's needed/desired for their Japanese customers
     - Would like to give access to Nessig and his Japanese sales guys (trial) to begin to understand it and to do Japanese demo (localization)
   - He's like to get Nessig trials, but how long are we comfortable them understanding the data?
+
+  - Bob asked for (non-binding) "term sheet" in order to use for fundraising. They hit cash flow positive this past year. Even if pricing TBD.
