@@ -2,9 +2,24 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673313588509
+updated: 1673968472716
 created: 1673313346674
 ---
+
+# IQgeo business discussion 1/17/23
+
+- Christian Wirth
+  - Happy with the demo/presentation, and what are next steps
+  - Localization requirements likely
+  - Desires confidence on the customer end???
+  - He now wants to check with his customer base to see if this is a use case they want/desire
+  - Christian closed the deal (Nessig - System Integrator, subsidiary of NEC) he was after in Japan
+    - Using Nessig for implementation, Christian doing larger sales, they will do smaller sales to smaller cities/governments
+    - Nessig has done pre-investment into IQgeo
+    - Needs to sort out with Nessig what data "they" are interested in
+    - Sell digital platform service for their customers - smaller cities/governments
+    - Requested dedicated sales for in Japan
+    - They have a couple of the largest power companies in Japan
 
 # IQGeo
 
