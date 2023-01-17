@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673971378948
+updated: 1673971844367
 created: 1673313346674
 ---
 
@@ -59,7 +59,10 @@ created: 1673313346674
   - Will need Japanese localization, IQgeo could potentially do some of the translation work
 
   - Pricing
+
     - Depends on functionality
     - They support "view-only" users, 3 different tiers
     - Viewer, Action, Full-Access
     - Requested pricing models for Japan
+
+  - Christian relocating to Japan in May-ish timeframe, will live in Tokyo
