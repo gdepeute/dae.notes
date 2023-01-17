@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673971021751
+updated: 1673971378948
 created: 1673313346674
 ---
 
@@ -56,4 +56,10 @@ created: 1673313346674
 
   - Bob asked for (non-binding) "term sheet" in order to use for fundraising. They hit cash flow positive this past year. Even if pricing TBD.
 
-  - Will need Japanese localization
+  - Will need Japanese localization, IQgeo could potentially do some of the translation work
+
+  - Pricing
+    - Depends on functionality
+    - They support "view-only" users, 3 different tiers
+    - Viewer, Action, Full-Access
+    - Requested pricing models for Japan
