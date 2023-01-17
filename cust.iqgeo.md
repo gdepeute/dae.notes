@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673968713637
+updated: 1673969351243
 created: 1673313346674
 ---
 
@@ -23,6 +23,7 @@ created: 1673313346674
   - Quick call with Matt, showed us quick demo he put together for Sales meeting, looks good
 
 - 1/17/23 - Business discussion with Christian Wirth
+
   - Happy with the demo/presentation, and what are next steps
   - Localization requirements likely
   - Desires confidence on the customer end???
@@ -35,4 +36,14 @@ created: 1673313346674
     - Requested dedicated sales for in Japan
     - They have a couple of the largest power companies in Japan
   - Bob tossed out potential for exclusivity in Japan in this marketplace
+
     - Bob told the story of the processor built for the Newton via exclusivity for NEC to go into Atari and other game consoles "back in the day..."
+
+  - Christian had to change his license model for Nessig/Japan
+    - Allow them to buy perpetual licenses and pay for support
+    - They pre-bought a large number of perpetual licenses, and support
+    - Christian will get regular reports on the # of licenses being used
+    - 5 year business case to justify the investment
+    - IQgeo business model has been standard subscription
+    - Next meeting is in early February in Japan
+    - Pre-sold them 2820 licenses
