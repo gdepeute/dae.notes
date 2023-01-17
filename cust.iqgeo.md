@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673970198883
+updated: 1673971021751
 created: 1673313346674
 ---
 
@@ -45,7 +45,7 @@ created: 1673313346674
     - Christian will get regular reports on the # of licenses being used
     - 5 year business case to justify the investment
     - IQgeo business model has been standard subscription
-    - Next meeting is in early February in Japan
+    - Next meeting is in mid-February in Japan
     - Pre-sold them 2820 licenses, he thinks this is a LOW number, but they need to sell to justify the Nessig customer base
     - They sold 4000 licenses to one company alone (Tepco)
     - "Add-on" license
@@ -55,3 +55,5 @@ created: 1673313346674
   - He's like to get Nessig trials, but how long are we comfortable them understanding the data?
 
   - Bob asked for (non-binding) "term sheet" in order to use for fundraising. They hit cash flow positive this past year. Even if pricing TBD.
+
+  - Will need Japanese localization
