@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674165177623
+updated: 1674165472131
 created: 1673313681261
 ---
 
@@ -82,6 +82,7 @@ created: 1673313681261
     - Mixture of Roboto and Arial fonts inconsistent
     - Mixture of when BOLD is used and not isn't consistent
     - Color scheme inconsistency
+    - Capitalization inconsistency
     - I "personally" see these as an "attention to detail" issue, and if it was code (i.e. inconsistent style) would be viewed very unfavorable
     - NO org chart???
 
