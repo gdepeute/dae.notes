@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674161435055
+updated: 1674161595927
 created: 1673313681261
 ---
 
@@ -82,3 +82,6 @@ created: 1673313681261
 
   - Slide 15: Q4 **RECORD** 4 new logos, followed by **56** in 2023 - should explain (briefly) how.
   - Obviously more marketing and sales, but what is assumed is needed to get the 56 new logos?
+
+  - Slide 20: why say "relatively" clean balance sheet, why not just say "clean"?
+    - would put "new investors" ahead of employees and partners
