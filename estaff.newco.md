@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674162477409
+updated: 1674162607669
 created: 1673313681261
 ---
 
@@ -81,6 +81,7 @@ created: 1673313681261
     - Mixture of some slides with background images, and some not feels disjointed
     - Mixture of Roboto and Arial fonts inconsistent
     - Mixture of when BOLD is used and not isn't consistent
+    - I "personally" see these as an "attention to detail" issue, and if it was code (i.e. inconsistent style) would be viewed very unfavorable
 
   - Slide 4:
     - Would suggest changing the "Extensible" bullet to: "Extensible to include customer specific hazards and data"
