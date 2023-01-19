@@ -2,11 +2,15 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1673042533659
+updated: 1674088387819
 created: 1604337051940
 ---
 
 # Current Hot Items - review soon
+
+- NewCo
+
+  - Change copyrights? Update copyright dates?
 
 - John @ AZ - ZScaler Proxy Issue
   - Need to whitelist disasteraware.com and pdc.org in Zscaler
