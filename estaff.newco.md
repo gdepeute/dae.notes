@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674161681685
+updated: 1674161871211
 created: 1673313681261
 ---
 
@@ -79,6 +79,8 @@ created: 1673313681261
 
     - Mixture of white and dark background feels unprofessional
     - Mixture of some slides with background images, and some not feels disjointed
+    - Mixture of Roboto and Arial inconsistent
+    - Mixture of when BOLD is used and not isn't consistent
 
   - Slide 4: Extensible to include customer specific hazards and data
   - Slide 11: A search on "Risk Intelligence" hits on Everbridge and OnSolve ads
