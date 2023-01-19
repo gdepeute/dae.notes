@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674161639260
+updated: 1674161681685
 created: 1673313681261
 ---
 
@@ -75,7 +75,10 @@ created: 1673313681261
 - Meeting with USVP is planned for 1/20/23 at 11:30am
 - Notes on deck for dry-run
 
-  - General comments: mixture of white and dark background feels unprofessional
+  - General comments:
+
+    - Mixture of white and dark background feels unprofessional
+    - Mixture of some slides with background images, and some not feels disjointed
 
   - Slide 4: Extensible to include customer specific hazards and data
   - Slide 11: A search on "Risk Intelligence" hits on Everbridge and OnSolve ads
