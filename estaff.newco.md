@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674161914721
+updated: 1674162215990
 created: 1673313681261
 ---
 
@@ -79,11 +79,14 @@ created: 1673313681261
 
     - Mixture of white and dark background feels unprofessional
     - Mixture of some slides with background images, and some not feels disjointed
-    - Mixture of Roboto and Arial inconsistent
+    - Mixture of Roboto and Arial fonts inconsistent
     - Mixture of when BOLD is used and not isn't consistent
 
-  - Slide 4: Extensible to include customer specific hazards and data
-  - Slide 11: A search on "Risk Intelligence" hits on Everbridge and OnSolve ads
+  - Slide 4: Would suggest changing the "Extensible" bullet to: "Extensible to include customer specific hazards and data"
+  - Slide 11:
+    - Search on "Risk Intelligence" hits on Everbridge and OnSolve ads
+    - Search on "Risk intelligence driven operational resilience" hits on Onsolve
+    - Might be useful to have a bullet or two as to WHY they ARE NOT the competition
   - Slide 12: Using green checkmarks are bullets, only time we using them
 
     - Search on "Risk intelligence driven operational resilience" hits on Onsolve
