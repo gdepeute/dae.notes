@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674160456723
+updated: 1674161435055
 created: 1673313681261
 ---
 
@@ -80,4 +80,5 @@ created: 1673313681261
 
     - Search on "Risk intelligence driven operational resilience" hits on Onsolve
 
-  -
+  - Slide 15: Q4 **RECORD** 4 new logos, followed by **56** in 2023 - should explain (briefly) how.
+  - Obviously more marketing and sales, but what is assumed is needed to get the 56 new logos?
