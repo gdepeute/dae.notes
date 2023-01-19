@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674162282006
+updated: 1674162477409
 created: 1673313681261
 ---
 
@@ -88,9 +88,14 @@ created: 1673313681261
     - Search on "Risk Intelligence" hits on Everbridge and OnSolve ads
     - Search on "Risk intelligence driven operational resilience" hits on Onsolve
     - Might be useful to have a bullet or two as to WHY they ARE NOT the competition
-  - Slide 12: Using green checkmarks are bullets, only time we using them
-  - Slide 15: Q4 **RECORD** 4 new logos, followed by **56** in 2023 - should explain (briefly) how.
-  - Obviously more marketing and sales, but what is assumed is needed to get the 56 new logos?
+  - Slide 12:
+    - Using green checkmarks are bullets, only time we using them
+  - Slide 15:
 
-  - Slide 20: why say "relatively" clean balance sheet, why not just say "clean"?
-    - would put "new investors" ahead of employees and partners
+    - We say "Q4 **RECORD** 4 new logos", followed by **56** in 2023
+    - Should briefly explain how - e.g. "Model proven, add X marketing and Y sales can easily hit that target"
+    - Any other assumptions to hit that number which seems like a big stretch from a **record** of 4, means blowing that record out **every** quarter
+
+  - Slide 20:
+    - Why say "relatively" clean balance sheet, why not just say "clean"?
+    - I'd put "new investors" ahead of employees and partners in the second bullet, after all that is the audience
