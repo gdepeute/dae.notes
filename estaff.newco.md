@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1673314639036
+updated: 1674088349220
 created: 1673313681261
 ---
 
@@ -56,3 +56,15 @@ created: 1673313681261
   - ABC process to accept management team offer assuming no other higher offer
   - If ABC process is slow, might not be able to make estaff payroll, or NEXT employee payroll
   - Assuming ABC goes, MUST get funding to bridge us (along with receivables) to cash flow positive
+
+# Notes from call with Erik A on 1/18/23
+- $1M subordinate loan from Rosemary
+- Arbitration to settle with Rosemary
+- Erik A pissed off as Dana was taken care of in new deal, but no one else
+- Bob explained it's not his style to screw people who have helped him...read is settle down and wait for ABC to settle
+  - However Dana isn't going to willingly give up shares, so suspect they'll need to come out of management bucket
+- Old cap table is a mess
+- Dana strung the company along on promisory notes with 3x pref and 15% interest
+- Get the sense Erik might file a lawsuit
+- Bob put in $250k a while ago, $50k more recently, and another $200k last week or so, which is where the $4.2M (4M SQN plus 200k Bob) comes from in the post ABC world
+- Erik was pissed off that only Dana was allowed to participate in the CNTP unwinding over the seized Russian oligarch - Victok Vekelsberg (sp?) which was .30 on the $ for the CNTP shares
