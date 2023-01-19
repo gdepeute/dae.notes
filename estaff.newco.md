@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674159969774
+updated: 1674160019911
 created: 1673313681261
 ---
 
@@ -74,4 +74,7 @@ created: 1673313681261
 
 - Meeting with USVP is planned for 1/20/23 at 11:30am
 - Notes on deck for dry-run
+
+  - Slide 4: Extensible to include customer specific hazards and data
+
   -
