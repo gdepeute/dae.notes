@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674161871211
+updated: 1674161914721
 created: 1673313681261
 ---
 
@@ -84,6 +84,7 @@ created: 1673313681261
 
   - Slide 4: Extensible to include customer specific hazards and data
   - Slide 11: A search on "Risk Intelligence" hits on Everbridge and OnSolve ads
+  - Slide 12: Using green checkmarks are bullets, only time we using them
 
     - Search on "Risk intelligence driven operational resilience" hits on Onsolve
 
