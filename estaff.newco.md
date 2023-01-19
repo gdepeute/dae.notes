@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674162607669
+updated: 1674164944851
 created: 1673313681261
 ---
 
@@ -100,3 +100,5 @@ created: 1673313681261
   - Slide 20:
     - Why say "relatively" clean balance sheet, why not just say "clean"?
     - I'd put "new investors" ahead of employees and partners in the second bullet, after all that is the audience
+
+## NextEra VC firm that invested in USVP's fund
