@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674088349220
+updated: 1674159969774
 created: 1673313681261
 ---
 
@@ -58,6 +58,7 @@ created: 1673313681261
   - Assuming ABC goes, MUST get funding to bridge us (along with receivables) to cash flow positive
 
 # Notes from call with Erik A on 1/18/23
+
 - $1M subordinate loan from Rosemary
 - Arbitration to settle with Rosemary
 - Erik A pissed off as Dana was taken care of in new deal, but no one else
@@ -68,3 +69,9 @@ created: 1673313681261
 - Get the sense Erik might file a lawsuit
 - Bob put in $250k a while ago, $50k more recently, and another $200k last week or so, which is where the $4.2M (4M SQN plus 200k Bob) comes from in the post ABC world
 - Erik was pissed off that only Dana was allowed to participate in the CNTP unwinding over the seized Russian oligarch - Victok Vekelsberg (sp?) which was .30 on the $ for the CNTP shares
+
+# USVP Dry Run on 1/19/23
+
+- Meeting with USVP is planned for 1/20/23 at 11:30am
+- Notes on deck for dry-run
+  -
