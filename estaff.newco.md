@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674165472131
+updated: 1674252576510
 created: 1673313681261
 ---
 
@@ -105,3 +105,14 @@ created: 1673313681261
     - I'd put "new investors" ahead of employees and partners in the second bullet, after all that is the audience
 
 ## NextEra VC firm that invested in USVP's fund
+
+- Vivek Pendharkar - head of NextEra
+  - Holding company sits above Florida Power and Light (regulated utility)
+  - Serves 6M households in Florida (12M people)
+  - NexTera - Technology company, not limited to Flordia
+  - 45Mw of energy of renewable to deploy
+  - They manage the infra and deploy it
+  - Wind, Solar, Battery, Storage
+  - Anything that can impact the service is a problem
+  - Vivek and Partner manage Enterprise Tech Fund - $500M
+  - They also have a Climate Tech Fund - $500M
