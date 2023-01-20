@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674252576510
+updated: 1674255304497
 created: 1673313681261
 ---
 
@@ -116,3 +116,5 @@ created: 1673313681261
   - Anything that can impact the service is a problem
   - Vivek and Partner manage Enterprise Tech Fund - $500M
   - They also have a Climate Tech Fund - $500M
+  - NexTera operates 3 nucelar power plants already (covered by IAEA)
+  - Bill McNulty - collegue
