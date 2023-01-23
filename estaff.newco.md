@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674495816355
+updated: 1674495988191
 created: 1673313681261
 ---
 
@@ -125,4 +125,8 @@ created: 1673313681261
   - You might be able to get US based floods from NWS and fires from local/regional and state fire agencies, but our proprietary solution is GLOBAL and based on Satellite imagery
   - Yes, it would appear IBM is investing heavily, and also has an asset focus
   - Yes, Google is working on a platform for floods and wildfires - Ray might be able to give us insight as to what they are doing
-  - Faster than anyone else, we don't, but we are autoritative, not responding to social media or other un
+  - Faster than anyone else, we don't, but we are autoritative, not responding to social media or other unvalidated sources
+  - Save lives and $$$ - Shell Oil example
+  - Like most/like leasts? A Michelle question
+  - High priority developments - Global floods and wildfires and other hazards over time
+  - Team is 0...errr...13 people
