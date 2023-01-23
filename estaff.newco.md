@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674495988191
+updated: 1674505485351
 created: 1673313681261
 ---
 
@@ -122,6 +122,7 @@ created: 1673313681261
 ## USVP prep/planning
 
 - Bob's email 1/23 titles "Questions to think about"
+
   - You might be able to get US based floods from NWS and fires from local/regional and state fire agencies, but our proprietary solution is GLOBAL and based on Satellite imagery
   - Yes, it would appear IBM is investing heavily, and also has an asset focus
   - Yes, Google is working on a platform for floods and wildfires - Ray might be able to give us insight as to what they are doing
@@ -130,3 +131,10 @@ created: 1673313681261
   - Like most/like leasts? A Michelle question
   - High priority developments - Global floods and wildfires and other hazards over time
   - Team is 0...errr...13 people
+
+- Ray's feedback
+  - PDC's Mission is to improve and evolve the data in the system, and DIQ Mission is to development the commercial use cases around that data
+  - Push the DATA angle
+  - Floods - aggregation and combining to reduce noise of alerts
+    - But if tracking "assets" why does the aggreagtion actually matter?
+    - More about impact analysis
