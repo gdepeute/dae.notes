@@ -2,11 +2,15 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1674495737994
+updated: 1674501404977
 created: 1673230030238
 ---
 
 # EStaff 1/23/23
+
+- Ravix playing hardball, wants to wait until Monday to "potentially" accept our offer
+- Bob suggesting the withdraw the offer, and if Ray is in agreement using their license to our IP, to partner with PDC WITHOUT the Tenefit assets altogether
+  - What does that mean regarding legacy products which PDC does NOT have license to
 
 # EStaff 1/16/23
 
