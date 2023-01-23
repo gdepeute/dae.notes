@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674255304497
+updated: 1674495355163
 created: 1673313681261
 ---
 
@@ -118,3 +118,9 @@ created: 1673313681261
   - They also have a Climate Tech Fund - $500M
   - NexTera operates 3 nucelar power plants already (covered by IAEA)
   - Bill McNulty - collegue
+
+## USVP prep/planning
+
+- Bob's email 1/23 titles "Questions to think about"
+  - You might be able to get US based floods from NWS and fires from local/regional and state fire agencies, but our proprietary solution is GLOBAL and based on Satellite imagery
+  - Yes, it would appear IMB is
