@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674505485351
+updated: 1674517907949
 created: 1673313681261
 ---
 
@@ -138,3 +138,23 @@ created: 1673313681261
   - Floods - aggregation and combining to reduce noise of alerts
     - But if tracking "assets" why does the aggreagtion actually matter?
     - More about impact analysis
+
+## USVP Meeting - 1/23/23 3pm
+
+- Steve
+- Rick (no Rick, didn't show) / Defina (in conference room with Steve)
+- Jacques (joined via Zoom)
+- Questions
+  - Product market fit
+  - How the product is used
+  - Where things are on the contract, exclusivity, ...
+  - How it's different from publically available information, differentiation, where the $ comes from, ...
+  -
+  - Steve asking about all the Hurricane models out there vs. ours?
+    - Bob suggests our is the best model
+    - "Down to a couple of miles" when it gets close
+  - Delfina asked about the largest customer and revenue
+    - Wonders how big the marketsize is given Shell example ($300k/100 users)
+    - Concerned that Shell isn't/won't be a $1M/year customer
+    - ARR $710k at the moment
+  - At slide 6 (post demo) at 3:50pm
