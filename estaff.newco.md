@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674586436268
+updated: 1674599373428
 created: 1673313681261
 ---
 
@@ -180,5 +180,10 @@ created: 1673313681261
 
 - Sent Executive Team chart to USVP
 
-- [IQGeo Term Sheet](https://docs.google.com/document/d/12L8gCbGBM9y0TGVgF_-AemcVYDTMCy3r3dLcxuA3K3o/edit)
+- ## [IQGeo Term Sheet](https://docs.google.com/document/d/12L8gCbGBM9y0TGVgF_-AemcVYDTMCy3r3dLcxuA3K3o/edit)
+
+- Conversation with Ryan
+  - What does PDC have access to assets wise IF the Tenefit assets are sold to someone else?
+  - Weren't we only a development arm of PDC, and joint ownership?
+  - Tenefit assets are useless without the DATA
   -
