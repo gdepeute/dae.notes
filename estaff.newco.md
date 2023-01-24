@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674517907949
+updated: 1674519737951
 created: 1673313681261
 ---
 
@@ -158,3 +158,8 @@ created: 1673313681261
     - Concerned that Shell isn't/won't be a $1M/year customer
     - ARR $710k at the moment
   - At slide 6 (post demo) at 3:50pm
+  - Steve: Q1 bookings? $370k ARR
+    - Funnel/Pipeline $900k
+  - Jacques: Asked about AlertMedia/OnSolve and their $100M raises - what data they are using
+  - Bob suggests we will sign more logos that EB, and they are targeting their existing 6000 critical comms customers...
+  - Steve wants to go thru the "history" with Bob
