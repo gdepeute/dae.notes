@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674585268230
+updated: 1674586436268
 created: 1673313681261
 ---
 
@@ -177,3 +177,8 @@ created: 1673313681261
   - That if payroll is not funded to answer the OnSolve questions and for customer support (that Ravix would pay us), Ravix will have no obligation but to tell customers they are no longer supported
   - AND that if the Amazon bill isn't paid, the service could be terminated at any time (not to mention, Ray could shut down the access to the data).
 -
+
+- Sent Executive Team chart to USVP
+
+- [IQGeo Term Sheet](https://docs.google.com/document/d/12L8gCbGBM9y0TGVgF_-AemcVYDTMCy3r3dLcxuA3K3o/edit)
+  -
