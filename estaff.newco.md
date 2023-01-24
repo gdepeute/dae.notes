@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674585078059
+updated: 1674585268230
 created: 1673313681261
 ---
 
@@ -176,4 +176,4 @@ created: 1673313681261
   - Forwarding the due-dilly list from OnSolve (many pages) to Ryan suggesting IF they come in with an offer, it will have a lot of conditions
   - That if payroll is not funded to answer the OnSolve questions and for customer support (that Ravix would pay us), Ravix will have no obligation but to tell customers they are no longer supported
   - AND that if the Amazon bill isn't paid, the service could be terminated at any time (not to mention, Ray could shut down the access to the data).
-- X^2^
+-
