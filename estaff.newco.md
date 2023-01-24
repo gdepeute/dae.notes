@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674519737951
+updated: 1674584625835
 created: 1673313681261
 ---
 
@@ -163,3 +163,11 @@ created: 1673313681261
   - Jacques: Asked about AlertMedia/OnSolve and their $100M raises - what data they are using
   - Bob suggests we will sign more logos that EB, and they are targeting their existing 6000 critical comms customers...
   - Steve wants to go thru the "history" with Bob
+
+## Current Situation 1/24/23
+
+- Ryan/SQN believes there is an OnSolve deal on the table
+- Ravix has told Bob an OnSolve offer is coming in Friday/Monday
+- Is pushing Bob to NOT have our offer expire today
+- We "technically" are not meant to be supporting customers at this point, but we are assuming this process is short and we can continue operation
+- Bob has been funding payroll, but unclear how much longer will he do this AND estaff is at $2k/gross per pay period now.
