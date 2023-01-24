@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674584625835
+updated: 1674585078059
 created: 1673313681261
 ---
 
@@ -171,3 +171,9 @@ created: 1673313681261
 - Is pushing Bob to NOT have our offer expire today
 - We "technically" are not meant to be supporting customers at this point, but we are assuming this process is short and we can continue operation
 - Bob has been funding payroll, but unclear how much longer will he do this AND estaff is at $2k/gross per pay period now.
+- Note being sent to Ryan to inform him:
+  - That Ravix "claims" there is an offer potentially coming in Friday/Monday
+  - Forwarding the due-dilly list from OnSolve (many pages) to Ryan suggesting IF they come in with an offer, it will have a lot of conditions
+  - That if payroll is not funded to answer the OnSolve questions and for customer support (that Ravix would pay us), Ravix will have no obligation but to tell customers they are no longer supported
+  - AND that if the Amazon bill isn't paid, the service could be terminated at any time (not to mention, Ray could shut down the access to the data).
+- X^2^
