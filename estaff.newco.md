@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674696108611
+updated: 1674696297948
 created: 1673313681261
 ---
 
@@ -220,7 +220,13 @@ created: 1673313681261
 
 - Still want to know from Andrew whether we could just let this go away, and re-launch WITHOUT Ryan and WITHOUT Dana with partnership with PDC directly, unencumbered by all this...
 - We could argue that ALL or MAJORITY of Development/DevOps was done against PDC development contracts
-- Belief is the PDC agreement has
   - Exclusion would be any legacy Gateway/KWIC crap obviously
+  - Potential Exceptions:
+    - Asset Tracking POC - however could be argued this was done to shape the development contract
+      - Would impact MB/Daimler
+      - However ALL this code is in DisasterAWARE repos
+    - Map service tools
+    -
+- Belief is the PDC agreement has
   - Joint ownership of all code developed on behalf of PDC
   - DevOps improvements done on PDC projects
