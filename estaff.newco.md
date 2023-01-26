@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674696297948
+updated: 1674769211747
 created: 1673313681261
 ---
 
@@ -230,3 +230,7 @@ created: 1673313681261
 - Belief is the PDC agreement has
   - Joint ownership of all code developed on behalf of PDC
   - DevOps improvements done on PDC projects
+
+## NewCo proposal back to Ryan - 1/26/23
+
+-
