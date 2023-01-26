@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674690269648
+updated: 1674695487785
 created: 1673313681261
 ---
 
@@ -203,3 +203,16 @@ created: 1673313681261
   - Allows existing renewals to fund the business
 - Ryan suggest a restructuring of DIQ by reducing HC to be lean and mean to support the business and attack the new business
 - Ryan doesn't care how and if we keep the lights on
+
+## MDove thoughts
+
+- Question: Do we have a viaable healthy business post capital raise?
+  - Is the business viable?
+  - Does the exclusivity of the PDC contract render ANY value, either in capital raise or sales?
+    - Maybe capital raise, not in sales
+- We STILL have no idea how to express the value of our DATA...the DATA is the key
+  - Many prospects/customers say that public/free data is "good enough"
+  - Examples: Hurricanes, Tornados, you aren't surprised by those, floods maybe (highest prevalence hazard on the planet)
+- Confidence on 56 new logos (we are now starting down -1 this year) for this year
+  - Pipeline plus current lead generation would never get us there
+  - How does this change
