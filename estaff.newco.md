@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674695487785
+updated: 1674696108611
 created: 1673313681261
 ---
 
@@ -216,3 +216,11 @@ created: 1673313681261
 - Confidence on 56 new logos (we are now starting down -1 this year) for this year
   - Pipeline plus current lead generation would never get us there
   - How does this change
+- Make sure I get the Natalie projections that she's going to produce tonight
+
+- Still want to know from Andrew whether we could just let this go away, and re-launch WITHOUT Ryan and WITHOUT Dana with partnership with PDC directly, unencumbered by all this...
+- We could argue that ALL or MAJORITY of Development/DevOps was done against PDC development contracts
+- Belief is the PDC agreement has
+  - Exclusion would be any legacy Gateway/KWIC crap obviously
+  - Joint ownership of all code developed on behalf of PDC
+  - DevOps improvements done on PDC projects
