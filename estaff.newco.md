@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674599373428
+updated: 1674690269648
 created: 1673313681261
 ---
 
@@ -187,3 +187,19 @@ created: 1673313681261
   - Weren't we only a development arm of PDC, and joint ownership?
   - Tenefit assets are useless without the DATA
   -
+
+## Ryan Proposal 1/25/23
+
+- Wipe out 4M down to $500k
+- Ryan would get 80% of all receivables those funds the business up to cap of $3.5M (Bob suggested $3M)
+  - He was trying to get 80% of the 700k renewals for this year
+- Ryan believes we have $3.5M new business in 2023
+- Only existing customers, no NEW customers
+  - Gateway AMR and DAE renewals and upsells
+- He thinks we can raise $1M from IQgeo and $3M from USVP
+  - Bob trying to explain "how do we survive in the mean time"
+- Bob's proposal
+  - Kicks in after investment of $Xm - Ryan doesn't agree to this
+  - Allows existing renewals to fund the business
+- Ryan suggest a restructuring of DIQ by reducing HC to be lean and mean to support the business and attack the new business
+- Ryan doesn't care how and if we keep the lights on
