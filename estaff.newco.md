@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674857723388
+updated: 1674858003622
 created: 1673313681261
 ---
 
@@ -245,6 +245,8 @@ created: 1673313681261
   10% - $210k - $100k = $110k
 
   - Any combination of these 3 + $100k to Ryan
+
+  - Bob is going to accept Ryan's deal, but wants gentlemen agreement on the slide to remove the 10% on new business that USVP doesn't want that he'd remove to close the financing round
 
   ## USVP Meeting 1/27/23
 
