@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674858003622
+updated: 1674863037825
 created: 1673313681261
 ---
 
@@ -265,3 +265,13 @@ created: 1673313681261
     - Needs lawyers to sort out how to not give Dana preferred
     - Worried he could block votes
     - Needs to NOT get his shares until USVP deal is done and stock allocated (in other words no vote)
+
+## Stock Allocation
+
+- 40% USVP
+- 30% Dana
+- 30% NewCo
+  - 10% Bob
+  - 15% for Employees
+    - 10% for Executive team (5)
+    - 5% for Employees (8)
