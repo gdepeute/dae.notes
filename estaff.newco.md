@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674769211747
+updated: 1674850718949
 created: 1673313681261
 ---
 
@@ -233,4 +233,15 @@ created: 1673313681261
 
 ## NewCo proposal back to Ryan - 1/26/23
 
--
+- Cash projections
+
+  - 80% of only legacy business - $508k (including the 80% of the AllScripts) - $623k
+  - 60% of legacy, 20% of growth-19 - $446k
+  - 60% of legacy, 20% 0f growth-19, 10% of new - $556k
+  - thus 10% of new is $100k, 20% of growth-19 is $140k, leaving 60% of legacy at $306k
+
+  60% - $406k - $100k = $306k
+  20% - $140k - $100k = $40k
+  10% - $210k - $100k = $110k
+
+  - Any combination of these 3 + $100k to Ryan
