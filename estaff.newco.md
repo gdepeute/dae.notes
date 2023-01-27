@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674850718949
+updated: 1674857723388
 created: 1673313681261
 ---
 
@@ -245,3 +245,21 @@ created: 1673313681261
   10% - $210k - $100k = $110k
 
   - Any combination of these 3 + $100k to Ryan
+
+  ## USVP Meeting 1/27/23
+
+  - Looks like they will invest $4M at $10M post - 40%
+    - However they HATE the Ryan 10% of new business item
+  - Dana would give up 20%, we would give up 20%
+  - Leaves 30% for the company
+  - Bob is gonna take 10%, and is expecting a 2 year vest and **full** acceleration on change of control
+    - Bob suggested he will work 2 more years, then out
+  - Leaves 15% for employees, 5% for new hires.
+  - USVP needs
+    - Cash flow assuming a revised Ryan deal
+    - P&L assuming the revised Ryan deal
+    - What the plan for stock options/cap table
+  - Dana was expecting preferred stock out of this, leaving him with 30%
+    - Needs lawyers to sort out how to not give Dana preferred
+    - Worried he could block votes
+    - Needs to NOT get his shares until USVP deal is done and stock allocated (in other words no vote)
