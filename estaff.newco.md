@@ -2,7 +2,7 @@
 id: uy5cr2vp4mlnykxogdykb0v
 title: Newco
 desc: ""
-updated: 1674863037825
+updated: 1674864000279
 created: 1673313681261
 ---
 
@@ -275,3 +275,7 @@ created: 1673313681261
   - 15% for Employees
     - 10% for Executive team (5)
     - 5% for Employees (8)
+- 3 vectors
+  - Level
+  - Performance
+  - Years of Experience
