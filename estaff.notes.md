@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675107677688
+updated: 1675107904366
 created: 1673230030238
 ---
 
@@ -27,6 +27,10 @@ created: 1673230030238
   - Tyson - Trial
   - Craft - Trial
   - AstraZeneca - Zscaler proxy issue
+
+- PDC Data Architecture
+
+  - Some demos with Ray - need to get invited/involved in those
 
 - Now looking at mid-market
 
