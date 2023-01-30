@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675108230832
+updated: 1675108342060
 created: 1673230030238
 ---
 
@@ -32,7 +32,10 @@ created: 1673230030238
 
   - Some demos with Ray - need to get invited/involved in those
 
-- Now looking at mid-market
+- Now looking at mid-market companies
+- ABC process requires cancelling all leases
+  - San Jose will attempt to be renegotiated post ABC
+  - Johnny's Lahaina office lease is cancelled - Johnny needs it...
 
 # EStaff 1/23/23
 
