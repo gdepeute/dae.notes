@@ -2,9 +2,19 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1674501404977
+updated: 1675105664072
 created: 1673230030238
 ---
+
+# EStaff 1/30/23
+
+- Lots of ballbering regarding the 49ers horrific loss
+- Bob awaiting for closing documents from Ravix
+- Bob just funded the payroll
+  - "Goal" is this is the last payroll we will have reduced salaries
+  - Expectation is the AllScripts receivables will cover next one and one after until USVP closes (assuming it does)
+- Bob still working on stock options thoughts, awaiting to hear USVP say they want 40%
+- Bob suggests sending a note to company tomorrow morning
 
 # EStaff 1/23/23
 
