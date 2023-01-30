@@ -2,13 +2,13 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675107904366
+updated: 1675108230832
 created: 1673230030238
 ---
 
 # EStaff 1/30/23
 
-- Lots of ballbering regarding the 49ers horrific loss
+- Lots of blabbering regarding the 49ers horrific loss
 - Bob awaiting for closing documents from Ravix
 - Bob just funded the payroll
   - "Goal" is this is the last payroll we will have reduced salaries
