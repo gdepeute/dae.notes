@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675107316049
+updated: 1675107677688
 created: 1673230030238
 ---
 
@@ -17,10 +17,17 @@ created: 1673230030238
 - Bob suggests sending a note to company tomorrow morning
 
 - Pipeline
-  - Victoria Secret - trial
-  - Woven Planet - trial
+
+  - Victoria Secret - trial (move away from EB)
+  - Woven Planet - trial Q1
   - Intuitive Surgical
   - IQGeo
+  - Epic (RAVE) - Trial
+  - Duty Free (RAVE) - Trial
+  - Tyson - Trial
+  - Craft - Trial
+  - AstraZeneca - Zscaler proxy issue
+
 - Now looking at mid-market
 
 # EStaff 1/23/23
