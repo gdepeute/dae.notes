@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675710204319
+updated: 1675710669340
 created: 1673230030238
 ---
 
@@ -11,6 +11,12 @@ created: 1673230030238
 - IQGeo demo meeting later today
 - Apple discussion
 - Palantir discussion
+- _Bad News_: AllScripts receivable not coming until mid-April, he said he never committed to beginning of February
+- Natalie not with us, again...fear she is going to leave
+- USVP
+  - Wanted more due-dilengence names from us
+  - Gave him Kaushik and Jeff Dean
+  - Worried about Kaushik as he could say they get most of their stuff from NC24
 
 # EStaff 1/30/23
 
