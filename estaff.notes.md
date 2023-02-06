@@ -2,9 +2,15 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675108342060
+updated: 1675710204319
 created: 1673230030238
 ---
+
+# EStaff 2/6/23
+
+- IQGeo demo meeting later today
+- Apple discussion
+- Palantir discussion
 
 # EStaff 1/30/23
 
