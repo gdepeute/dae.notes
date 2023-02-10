@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1676062352198
+updated: 1676062435666
 created: 1675461426469
 ---
 
@@ -26,4 +26,6 @@ created: 1675461426469
   - Some layer Data
   - Population density/exposure/hazard brief data
 - Interested in "Predictive Model" and "Estimated Import"
-- Curious
+- Curious about coverage in other paths of the world
+  - Mention Iran and Syria as two examples
+- Recommended they get SaaS trial, and then get demo from Johnny to allow them to best review the available data
