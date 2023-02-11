@@ -2,9 +2,20 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1675710669340
+updated: 1676075125786
 created: 1673230030238
 ---
+
+# EStaff 2/13/23
+
+- Cleaned up database
+- Licenses match all current deals
+- Tools in place to alert on violation of licenses
+- Significant cleanup of users, orgs
+- Working to remove ruser16/ruser accounts
+- Palatir/Crisis24 meeting Friday
+- IQGeo meeting Monday - Johnny rocked it
+- Current status of Natalie?
 
 # EStaff 2/6/23
 
