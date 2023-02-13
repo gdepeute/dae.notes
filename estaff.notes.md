@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1676313115005
+updated: 1676313173795
 created: 1673230030238
 ---
 
@@ -10,6 +10,7 @@ created: 1673230030238
 
 - Cleaned up database
 - Fix to registration to create new orgs as Trial
+  - Still have an issue if the user waits too long to click the link after token expires.
 - Licenses match all current deals
 - Tools in place to alert on violation of licenses
 - Significant cleanup of users, orgs
