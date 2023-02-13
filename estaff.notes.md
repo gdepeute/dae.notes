@@ -2,13 +2,14 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1676075125786
+updated: 1676313115005
 created: 1673230030238
 ---
 
 # EStaff 2/13/23
 
 - Cleaned up database
+- Fix to registration to create new orgs as Trial
 - Licenses match all current deals
 - Tools in place to alert on violation of licenses
 - Significant cleanup of users, orgs
