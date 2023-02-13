@@ -2,21 +2,25 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1676313463605
+updated: 1676313966827
 created: 1673230030238
 ---
 
 # EStaff 2/13/23
 
 - Cleaned up database
+
+  - Significant cleanup of users, orgs
+  - Working to remove ruser16/ruser accounts
+  - Licenses match all current deals
+  - Tools in place to alert on violation of licenses
+
 - Fix to registration to create new orgs as Trial
+
   - Still have an issue if the user waits too long to click the link after token expires.
   - Updating trial and forgot password links to 60 mins (from 10)
   - Need to investigate capturing 403 from webhook on website
-- Licenses match all current deals
-- Tools in place to alert on violation of licenses
-- Significant cleanup of users, orgs
-- Working to remove ruser16/ruser accounts
+
 - Palatir/Crisis24 meeting Friday
 - IQGeo meeting Monday - Johnny rocked it
 - Current status of Natalie?
