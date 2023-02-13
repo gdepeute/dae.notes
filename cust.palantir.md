@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1676062435666
+updated: 1676315287379
 created: 1675461426469
 ---
 
@@ -29,3 +29,5 @@ created: 1675461426469
 - Curious about coverage in other paths of the world
   - Mention Iran and Syria as two examples
 - Recommended they get SaaS trial, and then get demo from Johnny to allow them to best review the available data
+
+- Chad handed over to Matt Bradley (used to be at OnSolve)
