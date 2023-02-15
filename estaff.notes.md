@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1676313966827
+updated: 1676316868734
 created: 1673230030238
 ---
 
@@ -24,6 +24,10 @@ created: 1673230030238
 - Palatir/Crisis24 meeting Friday
 - IQGeo meeting Monday - Johnny rocked it
 - Current status of Natalie?
+
+- Bob stated that he did not know if this paycheck would be partial or full that we are meant to receive Wednesday. He said the call with Steve Krauz at USVP today will help determine that
+- Ryan apparently won't finance the AllScripts receivables until he hears positive progress re: USVP.
+- Pipeline has several delays in it, Q1 looks VERY light.
 
 # EStaff 2/6/23
 
