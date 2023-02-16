@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1676316868734
+updated: 1676575031174
 created: 1673230030238
 ---
 
@@ -28,6 +28,12 @@ created: 1673230030238
 - Bob stated that he did not know if this paycheck would be partial or full that we are meant to receive Wednesday. He said the call with Steve Krauz at USVP today will help determine that
 - Ryan apparently won't finance the AllScripts receivables until he hears positive progress re: USVP.
 - Pipeline has several delays in it, Q1 looks VERY light.
+
+- 2/16 Update
+  - AllScripts agreed to wire money by next Wednesday for 10% discount vs trying to go thru factoring process and paperwork to save an extra $15k
+  - Meta license expires in 4 days but have 60 day payables which means we are floating them 2 months on expired license before getting paid
+  - Going to push the Meta PO thru the factoring process which would get us 80% of the $ soon, costing us $3-5k
+  - Bob going to discuss with Natalie (tomorrow) returning payroll to full and what happens with deferred
 
 # EStaff 2/6/23
 
