@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677003479150
+updated: 1677003542899
 created: 1673230030238
 ---
 
@@ -13,6 +13,8 @@ created: 1673230030238
 - Arnaldo/Bills - upcoming
   - GMail could get suspended tomorrow
   - Others
+- Removed LOGIN role for Apple Maps
+- Worked with Jesse on his license tool
 
 # EStaff 2/13/23
 
