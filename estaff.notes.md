@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677003542899
+updated: 1677003840060
 created: 1673230030238
 ---
 
@@ -10,6 +10,8 @@ created: 1673230030238
 
 - Sick
 - API reports refactoring
+- Users report added "roles"
+- Configuration report refactoring
 - Arnaldo/Bills - upcoming
   - GMail could get suspended tomorrow
   - Others
