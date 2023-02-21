@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677005652672
+updated: 1677006021857
 created: 1673230030238
 ---
 
@@ -11,9 +11,9 @@ created: 1673230030238
 - Sick
 - Expired accounts:
   - Facebook - 2/20
-  - IQGeo - 2/20
-  - ControlRisks - 2/17
-  - Transre - 2/17
+  - IQGeo (TRIAL) - 2/20
+  - ControlRisks (TRIAL) - 2/17
+  - Transre (TRIAL) - 2/17
 - API reports refactoring
 - Users report added "roles"
 - Configuration report refactoring
