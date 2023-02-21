@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677006021857
+updated: 1677006452969
 created: 1673230030238
 ---
 
@@ -22,6 +22,9 @@ created: 1673230030238
   - Others
 - Removed LOGIN role for Apple Maps
 - Worked with Jesse on his license tool
+
+- Updates
+  - AllScripts paid in full vs the reduced 10%
 
 # EStaff 2/13/23
 
