@@ -2,13 +2,18 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677003840060
+updated: 1677005598909
 created: 1673230030238
 ---
 
 # EStaff 2/21/23
 
 - Sick
+- Expired accounts:
+  - Facebook
+  - IQGeo
+  - ControlRisks
+  - Transre
 - API reports refactoring
 - Users report added "roles"
 - Configuration report refactoring
