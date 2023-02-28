@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1677006895748
+updated: 1677006994308
 created: 1673230030238
 ---
 
@@ -29,7 +29,7 @@ created: 1673230030238
   - Catch up back pay in next payroll (not execs)
   - Full pay for everyone in next paycheck
     - Executive backpay will occur over 6 weeks
-  - Give Meta PO to PayPla
+  - Give Meta PO to PayPlan
 
 # EStaff 2/13/23
 
