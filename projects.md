@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678896660197
+updated: 1678896950481
 created: 1666285014870
 ---
 
@@ -37,8 +37,11 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - paid for from MSA agreement
   - 1 month full time, then part time after
 - DAE 7.5
-  - includes:
-  - 1 month
+  - includes: onboarding flow
+  - ? months
+- DAE 7.6
+  - includes: WMS feature improvements, layer monitoring improvements, ..., bug fixes
+  - ? months
 - IAEA Phase 2 Customization for Mercedes Benz
   - still open as to how we address air quality request/requirement
   - 1-2 months
