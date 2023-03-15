@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678897164650
+updated: 1678897269172
 created: 1666285014870
 ---
 
@@ -11,6 +11,11 @@ created: 1666285014870
 ## Engineering
 
 Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), Izzy (junior)
+
+- Johnny -> Hazard Data Processing / Asset Protection / Push Notifications
+- Thomas -> DisasterAWARE MSA support / Asset Protection / Push Notifications
+- Nick -> Pipeline of pipelines, DisasterAWARE MSA support / Migrating Aylien aka Magellan data feeds to new infrastructure
+- Izzy -> IAEA Phase III / Asset Protection
 
 ### Completed
 
@@ -38,6 +43,8 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - 1 month full time, then part time after
 - Infrastructure improvements
   - migrating Aylien and Magellan data to new architecture
+  - additional pipeline modularization/improvements
+  - 1 month
 - DAE 7.5
   - includes: onboarding flow
   - ? months
