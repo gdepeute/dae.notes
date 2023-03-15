@@ -2,13 +2,13 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678897566108
+updated: 1678897663855
 created: 1666285014870
 ---
 
 # Active/Completed Projects as of 3/14/23
 
-## Engineering
+## **Engineering**
 
 Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), Izzy (junior)
 
@@ -17,7 +17,7 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
 - Nick -> Pipeline of pipelines, DisasterAWARE MSA support / Migrating Aylien aka Magellan data feeds to new infrastructure
 - Izzy -> IAEA Phase III / Asset Protection
 
-### Completed
+### **Completed**
 
 - DisasterAlert Mobile (nearing completion)
   - in testing now, previously paid for
@@ -34,7 +34,7 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - Migrating more functionality in common code to provide better leverage between projects
   - Develop deployment framework and CDK's to ease transition to operations
 
-### Planned
+### **Planned**
 
 - Improved Data Architecture / Hazard Processing
   - Johnny leading the effort
@@ -71,11 +71,11 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - new MSA will pay for some of this support
   - agreement still not executed, once executed we can invoice for Jan/Feb 2023
 
-## Operations
+## **Operations**
 
 Summary: Single resource (Arnaldo), supporting not only Enterprise, but supporting PDC efforts given unified on shared stack.
 
-### Completed
+### **Completed**
 
 - Testenterprise/Meta catchup deployments (done)
 - Service Monitoring (ongoing)
@@ -85,7 +85,7 @@ Summary: Single resource (Arnaldo), supporting not only Enterprise, but supporti
 - Operations debt
   - completed some AWS cleanup, Kaazing website overhaul (exploit), ...
 
-### Planned
+### **Planned**
 
 - Moving to new Office Space
   - 1-2 weeks
