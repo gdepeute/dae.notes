@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678896302976
+updated: 1678896660197
 created: 1666285014870
 ---
 
@@ -16,11 +16,9 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
 
 - DisasterAlert Mobile (nearing completion)
   - in testing now, previously paid for
-  - scheduled to be complete 3/31
 - Asset Protection (nearing completion)
   - in active development, already paid for
   - to be deployed with 7.4
-  - scheduled to be complete 3/31
 - IAEA Phase 2 (nearing completion)
   - development about to begin, next phase of hazards (Wildfire, Tsunami, Tornado)
   - leverage for Mercedes Benz Custom Reports for Wildfire
@@ -30,18 +28,26 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - Building out BigRed architecture
   - Migrating more functionality in common code to provide better leverage between projects
   - Develop deployment framework and CDK's to ease transition to operations
-  - development part of other projects into Q123
 
 ### Planned
 
+- Improved Data Architecture / Hazard Processing
+  - Johnny leading the effort
+  - working on Volcanos now
+  - paid for from MSA agreement
+  - 1 month full time, then part time after
 - DAE 7.5
   - includes:
   - 1 month
 - IAEA Phase 2 Customization for Mercedes Benz
   - still open as to how we address air quality request/requirement
   - 1-2 months
+- IAEA Phase 3
+  - planned for Floods, Volcanic Eruptions, others...
+  - PDC planning/coordination to begin next week
+  - PDC is dictating the schedule
 - DAS v4
-  - sigrate DisasterAlert notifications to DAS v4
+  - migrate DisasterAlert notifications to DAS v4
   - work started then put on hold
   - 1 month
 - Organization improvement
