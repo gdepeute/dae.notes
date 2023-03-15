@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678896950481
+updated: 1678897164650
 created: 1666285014870
 ---
 
@@ -36,6 +36,8 @@ Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), 
   - working on Volcanos now
   - paid for from MSA agreement
   - 1 month full time, then part time after
+- Infrastructure improvements
+  - migrating Aylien and Magellan data to new architecture
 - DAE 7.5
   - includes: onboarding flow
   - ? months
