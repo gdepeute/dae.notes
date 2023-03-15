@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678897269172
+updated: 1678897566108
 created: 1666285014870
 ---
 
@@ -79,23 +79,32 @@ Summary: Single resource (Arnaldo), supporting not only Enterprise, but supporti
 
 - Testenterprise/Meta catchup deployments (done)
 - Service Monitoring (ongoing)
+  - approx 40% complete
 - DAE 7.4 Planning/Deployment (nearing completion)
   - deployment of DAE Pro happening 3/14, additional PDC and DIQ tiers over coming weeks
+- Operations debt
+  - completed some AWS cleanup, Kaazing website overhaul (exploit), ...
 
 ### Planned
 
-- Testenterprise Infrastructure - MSK (done?)
+- Moving to new Office Space
+  - 1-2 weeks
+- DAE 7.4 remaining deployments
+  - Meta by end of March
+  - DAE by end of April
+  - 1 week each
+- Testenterprise Infrastructure - MSK (was previously deferred)
   - 1 week
 - Service Monitoring (ongoing)
-  - 1 month
+  - 3 months
 - Improve Private Instance deployments
-  - 1 month
+  - 2 months
 - SFTP endpoint for Shell (assuming commitment)
   - 1 week
 - Cost Allocation Tags
   - 2 weeks
 - Important Operations Debt
-  - 1 month
+  - 2 month
 - Support/Documentation
   - 30% of cycles
 
