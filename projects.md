@@ -2,15 +2,17 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678826296614
+updated: 1678896302976
 created: 1666285014870
 ---
 
-# Active Projects as of 3/14/23
+# Active/Completed Projects as of 3/14/23
 
 ## Engineering
 
-Summary: All Engineering Resources consumed well into Q123 on existing projects we've been or will be paid for. Team led by Johnny (the man), includes Thomas (senior), Nick (junior), Izzy (junior)
+Summary: Team led by Johnny (the man), includes Thomas (senior), Nick (junior), Izzy (junior)
+
+### Completed
 
 - DisasterAlert Mobile (nearing completion)
   - in testing now, previously paid for
@@ -29,6 +31,9 @@ Summary: All Engineering Resources consumed well into Q123 on existing projects 
   - Migrating more functionality in common code to provide better leverage between projects
   - Develop deployment framework and CDK's to ease transition to operations
   - development part of other projects into Q123
+
+### Planned
+
 - DAE 7.5
   - includes:
   - 1 month
@@ -52,17 +57,18 @@ Summary: All Engineering Resources consumed well into Q123 on existing projects 
 
 Summary: Single resource (Arnaldo), supporting not only Enterprise, but supporting PDC efforts given unified on shared stack.
 
+### Completed
+
 - Testenterprise/Meta catchup deployments (done)
-  - 1 week
-- Testenterprise Infrastructure - MSK (done?)
-  - 1 week
-- POTENTIAL INAWARE project - migrate tier from Alibaba to AWS (not happening)
-  - Swag guess 2-3 months
-  - Cost rollup not complete yet
 - Service Monitoring (ongoing)
-  - 1 month
 - DAE 7.4 Planning/Deployment (nearing completion)
   - deployment of DAE Pro happening 3/14, additional PDC and DIQ tiers over coming weeks
+
+### Planned
+
+- Testenterprise Infrastructure - MSK (done?)
+  - 1 week
+- Service Monitoring (ongoing)
   - 1 month
 - Improve Private Instance deployments
   - 1 month
