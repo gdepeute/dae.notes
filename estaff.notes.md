@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679333841519
+updated: 1679335649121
 created: 1673230030238
 ---
 
@@ -30,6 +30,11 @@ created: 1673230030238
 - USVP update?
 - Second VC update?
 - Meta factoring?
+
+- Factoring in place, can turn around in 24 hours
+  - Whenever we get the Meta PO with proper language, should get $100k
+- USVP
+  - Met with Steve on Tuesday
 
 # EStaff 2/21/23
 
