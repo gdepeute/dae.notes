@@ -2,11 +2,14 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679330411577
+updated: 1679330474705
 created: 1673230030238
 ---
 
 # EStaff 3/20/23
+
+- Root cause investigation on HTTP POST SSL failures to API gateway
+- Support of Vik from Crisis24 getting access to data
 
 # EStaff 2/21/23
 
