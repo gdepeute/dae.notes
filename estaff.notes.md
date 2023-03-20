@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679331913437
+updated: 1679331986579
 created: 1673230030238
 ---
 
@@ -20,6 +20,11 @@ created: 1673230030238
     - US embassies
     - Hospitals
     - Ports
+- Expired Organizations
+  - Meta
+  - OliverWyman
+  - Marsh
+  - Random GMail dude
 
 # EStaff 2/21/23
 
