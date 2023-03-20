@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679331844483
+updated: 1679331913437
 created: 1673230030238
 ---
 
@@ -13,8 +13,13 @@ created: 1673230030238
   - Jesse hack/whack is not helping
   - Have active hazards coming in now
   - They WANT:
-    - historical hazards - need to decide how we want to handle and when
-    -
+    - Historical hazards - need to decide how we want to handle and when
+    - Population density
+    - Forecasts
+    - Airports and airport density info
+    - US embassies
+    - Hospitals
+    - Ports
 
 # EStaff 2/21/23
 
