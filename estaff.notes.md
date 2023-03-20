@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679333461553
+updated: 1679333841519
 created: 1673230030238
 ---
 
@@ -26,6 +26,10 @@ created: 1673230030238
   - Marsh
   - Random GMail dude
 - Code refactoring
+  - GIS tool mostly complete, awaiting Jesse validation, then plan to migrate map service creation over to him
+- USVP update?
+- Second VC update?
+- Meta factoring?
 
 # EStaff 2/21/23
 
