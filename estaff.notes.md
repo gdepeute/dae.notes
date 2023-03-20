@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679330474705
+updated: 1679331844483
 created: 1673230030238
 ---
 
@@ -10,6 +10,11 @@ created: 1673230030238
 
 - Root cause investigation on HTTP POST SSL failures to API gateway
 - Support of Vik from Crisis24 getting access to data
+  - Jesse hack/whack is not helping
+  - Have active hazards coming in now
+  - They WANT:
+    - historical hazards - need to decide how we want to handle and when
+    -
 
 # EStaff 2/21/23
 
