@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679416197429
+updated: 1679416332984
 created: 1679414246957
 ---
 
@@ -24,4 +24,4 @@ created: 1679414246957
 - Meeting on Thursday to discuss how to move them to do the "work" on their side
   - Going to push them to pay for the POC
   - We "might" offer sample code
-  -
+  - Doesn't look like they are interested in Historical Hazards
