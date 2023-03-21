@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1679333741528
+updated: 1679428661062
 created: 1673052203319
 ---
 
@@ -14,6 +14,10 @@ created: 1673052203319
 - Really need Arnaldo to help drive this
 - Better/documented/1-1 handoff "sooner"
 - Better support when there are issues - attitude should be that it might be a dev issue, not that it's an ops issue and job to "prove" it's not an ops issue
+
+- Hazard-Event-Producer example
+  - Johnny really wanted pooling connections which are kept-alive long term
+  - Never realized the APU gateway had a default timeout of 5 mins on long standing SSL connections
 
 # Summary from 1/9/23 Meeting with Johnny/Arnaldo
 
