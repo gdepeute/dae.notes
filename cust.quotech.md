@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679414510410
+updated: 1679415362841
 created: 1679414246957
 ---
 
@@ -18,3 +18,6 @@ created: 1679414246957
   - If so, can we customise email notifications: subject line / body / from address?
 
 ### Call with Guillaume - 3/21/23
+
+- Real-time use case is the speculation, active hazards
+- OliverWyman wants this to be pro-bono
