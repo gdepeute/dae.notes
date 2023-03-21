@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679415362841
+updated: 1679416197429
 created: 1679414246957
 ---
 
@@ -21,3 +21,7 @@ created: 1679414246957
 
 - Real-time use case is the speculation, active hazards
 - OliverWyman wants this to be pro-bono
+- Meeting on Thursday to discuss how to move them to do the "work" on their side
+  - Going to push them to pay for the POC
+  - We "might" offer sample code
+  -
