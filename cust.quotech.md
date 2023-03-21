@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679414372299
+updated: 1679414510410
 created: 1679414246957
 ---
 
@@ -16,3 +16,5 @@ created: 1679414246957
   - In the above, can we tweak the radius from event epicentre to reduce the MAG of a hazard?
   - Is there an API to register for email notifications for client specific areas/regions/assets versus the entire set of global hazards?
   - If so, can we customise email notifications: subject line / body / from address?
+
+### Call with Guillaume - 3/21/23
