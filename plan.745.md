@@ -2,7 +2,7 @@
 id: loepebq4pgpjtj07zhc3dcc
 title: "745"
 desc: ""
-updated: 1679428661062
+updated: 1679429118283
 created: 1673052203319
 ---
 
@@ -17,7 +17,11 @@ created: 1673052203319
 
 - Hazard-Event-Producer example
   - Johnny really wanted pooling connections which are kept-alive long term
-  - Never realized the APU gateway had a default timeout of 5 mins on long standing SSL connections
+  - Never realized the API gateway had a default timeout of 5 mins on long standing SSL connections
+  - Also seems unable to configure Camel to keep a connection open longer than 5 mins
+  - Send keep alive every minute to "null" endpoint?
+  - The reverse happens on the legacy-importer where single use connections were use for something that was want to push a LOT of data
+  - Was fine with the connection being destroyed, logging that delivery failed, then re-performing the whole mess. Hazard producer maybe gets (on its best day) 100 updates a HOUR...wrong place to optimize in the infra at this moment
 
 # Summary from 1/9/23 Meeting with Johnny/Arnaldo
 
