@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679416332984
+updated: 1679585547248
 created: 1679414246957
 ---
 
@@ -25,3 +25,8 @@ created: 1679414246957
   - Going to push them to pay for the POC
   - We "might" offer sample code
   - Doesn't look like they are interested in Historical Hazards
+
+### Call with Marsh/Quotech discussion
+
+- Lance Daniels / Marsh
+- Jack Watt / Marsh
