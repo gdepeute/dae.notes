@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679586061095
+updated: 1679586710328
 created: 1679414246957
 ---
 
@@ -33,4 +33,7 @@ created: 1679414246957
 - Working to build MVP for 5-ish customers
   - Building a platform?
   - Sending alerts (email/other), working with those customers to build out the requirements
-  -
+  - Speaking few months for starting to build
+  - Pilot starting now thru June/July (5 total pilots planned)
+    - Ideally would like to use live data, but they are suggesting it's up to us whether to extend the trial OR send sample data OR ...
+    - Expect to have testable/usable product (MVP) by the end of the pilot
