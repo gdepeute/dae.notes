@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679585707504
+updated: 1679585859555
 created: 1679414246957
 ---
 
@@ -26,7 +26,9 @@ created: 1679414246957
   - We "might" offer sample code
   - Doesn't look like they are interested in Historical Hazards
 
-### Call with Marsh/Quotech discussion
+### Call with Marsh/OliverWyman/Quotech discussion
 
 - Lance Daniels / Marsh - Principal in Munich Office
 - Jack Watt / Marsh - Global Finance Sustainability in London
+- Working to build MVP for 5-ish customers
+  - Building a platform?
