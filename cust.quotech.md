@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679586710328
+updated: 1679587133188
 created: 1679414246957
 ---
 
@@ -28,7 +28,7 @@ created: 1679414246957
 
 ### Call with Marsh/OliverWyman/Quotech discussion
 
-- Lance Daniels / Marsh - Principal in Munich Office
+- Lance Daniels / OliverWyman - Principal in Munich Office
 - Jack Watt / Marsh - Global Finance Sustainability in London
 - Working to build MVP for 5-ish customers
   - Building a platform?
@@ -37,3 +37,6 @@ created: 1679414246957
   - Pilot starting now thru June/July (5 total pilots planned)
     - Ideally would like to use live data, but they are suggesting it's up to us whether to extend the trial OR send sample data OR ...
     - Expect to have testable/usable product (MVP) by the end of the pilot
+  - Hard to give idea of "reach" for the data (in terms of # of users), but they have a better understanding of # of assets.
+  - Thinking 1000's of customers
+- Extend the trials for a week?
