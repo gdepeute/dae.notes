@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1679585859555
+updated: 1679586061095
 created: 1679414246957
 ---
 
@@ -32,3 +32,5 @@ created: 1679414246957
 - Jack Watt / Marsh - Global Finance Sustainability in London
 - Working to build MVP for 5-ish customers
   - Building a platform?
+  - Sending alerts (email/other), working with those customers to build out the requirements
+  -
