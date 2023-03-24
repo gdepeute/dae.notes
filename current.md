@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679618662985
+updated: 1679619033916
 created: 1604337051940
 ---
 
@@ -39,8 +39,14 @@ created: 1604337051940
     - pcx-0c9e8546995f888865d <-> vpc-0d5413ef049203af3 (magellan-dae)
     - Requester: 10.2.0.0/16 - Accepter: 172.16.0.0/16
   - Security Group
+
     - sg-0a4eeadc280f51586 (asset-tracker-sg)
     - has rules for lg.mdove.com, lh.mdove.com, arnaldo@remote, tenefit@hq
+
+  - Kaazing Techops End
+    - VPC-ID
+      - vpc-0e18922cdde6a8f85
+      - Requester: 10.2.0.0/16 - Accepter: 172.16.0.0
 
 # Current Hot Items - review soon
 
