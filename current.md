@@ -2,9 +2,14 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1674088387819
+updated: 1679617617402
 created: 1604337051940
 ---
+
+# Debug Test Kafka reachability issue
+
+- Asset Tracker POC - MDove
+  - i
 
 # Current Hot Items - review soon
 
