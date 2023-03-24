@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679619033916
+updated: 1679619170850
 created: 1604337051940
 ---
 
@@ -45,8 +45,11 @@ created: 1604337051940
 
   - Kaazing Techops End
     - VPC-ID
-      - vpc-0e18922cdde6a8f85
+      - vpc-0e18922cdde6a8f85 (STAGE/STAGE/NetworkingStack/Vpc)
       - Requester: 10.2.0.0/16 - Accepter: 172.16.0.0
+      - IP: 172.16.0.0/16
+      - Main Route Table: rtb-033c062f5552aad870
+      - ACL - acl-0d2fa724441196bb3
 
 # Current Hot Items - review soon
 
