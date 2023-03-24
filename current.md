@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679617978999
+updated: 1679618052547
 created: 1604337051940
 ---
 
@@ -18,6 +18,8 @@ created: 1604337051940
     - dae-cloudwatch-agent-role
   - Subnet ID
     - subnet-0e2be2d253189fc64 (public subnet [sub1-az])
+  - Route Table
+    - rtb-0b07fc3060a8e5614
   - Security Group
     - sg-0a4eeadc280f51586 (asset-tracker-sg)
     - has rules for lg.mdove.com, lh.mdove.com, arnaldo@remote, tenefit@hq
