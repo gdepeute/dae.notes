@@ -2,14 +2,22 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679617617402
+updated: 1679617792077
 created: 1604337051940
 ---
 
 # Debug Test Kafka reachability issue
 
-- Asset Tracker POC - MDove
-  - i
+- Asset Tracker POC - MDove - r5a.xlarge
+  - i-0749078f86cb89006 - us-west-2
+  - Public IP 52.88.80.144
+  - Private IP 10.2.3.52
+  - VPC-ID
+    - vpc-0d5413ef049203af3 (magellan-dae)
+  - IAM Role
+    - dae-cloudwatch-agent-role
+  - Subnet ID
+    - subnet-0e2be2d253189fc64 (public subnet [sub1-az])
 
 # Current Hot Items - review soon
 
