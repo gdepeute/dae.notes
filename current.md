@@ -2,13 +2,14 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679618052547
+updated: 1679618230628
 created: 1604337051940
 ---
 
 # Debug Test Kafka reachability issue
 
 - Asset Tracker POC - MDove - r5a.xlarge
+
   - i-0749078f86cb89006 - us-west-2a
   - Public IP 52.88.80.144
   - Private IP 10.2.3.52
@@ -19,7 +20,16 @@ created: 1604337051940
   - Subnet ID
     - subnet-0e2be2d253189fc64 (public subnet [sub1-az])
   - Route Table
+
     - rtb-0b07fc3060a8e5614
+      - 172.16.6.0/28 - pcx-0c9e8546995f888865d
+      - 172.16.6.16/28 - same
+      - 172.16.6.32/28 - same
+      - 10.2.0.0/16 - local
+      - 0.0.0.0/0 - igw-0c451ac9f1cda152a
+
+  - Peering Connections
+    - pcx-0c9e8546995f888865d
   - Security Group
     - sg-0a4eeadc280f51586 (asset-tracker-sg)
     - has rules for lg.mdove.com, lh.mdove.com, arnaldo@remote, tenefit@hq
