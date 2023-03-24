@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679619170850
+updated: 1679619506860
 created: 1604337051940
 ---
 
@@ -44,12 +44,19 @@ created: 1604337051940
     - has rules for lg.mdove.com, lh.mdove.com, arnaldo@remote, tenefit@hq
 
   - Kaazing Techops End
+
     - VPC-ID
+
       - vpc-0e18922cdde6a8f85 (STAGE/STAGE/NetworkingStack/Vpc)
       - Requester: 10.2.0.0/16 - Accepter: 172.16.0.0
       - IP: 172.16.0.0/16
       - Main Route Table: rtb-033c062f5552aad870
       - ACL - acl-0d2fa724441196bb3
+
+    - Subnets
+      - subnet-0d1d05f00ae531387 (DatabaseSubnet1) - us-west-2a - 172.16.6.0/28
+      - subnet-0b7ba3bfc55a679ea (DatabaseSubnet2) - us-west-2b - 172.16.6.16/28
+      - subnet-0395d3a2818ddd44c4 (DatabaseSubnet3) - us-west-2c - 172.16.6.32/28
 
 # Current Hot Items - review soon
 
