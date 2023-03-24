@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679618525965
+updated: 1679618662985
 created: 1604337051940
 ---
 
@@ -19,6 +19,8 @@ created: 1604337051940
       - DHCP - dopt-71d93c14
       - Main route table - rtb-0523063c7a7bf67a5
         - 10.2.0.0/16 - local
+        - Subnet Association - subnet-0b38c9a509b8dc7fd (magellan-dae-subnet2)
+          - IP 10.2.2.0/24
       - ACL - acl-07c147fe5510b1cda
   - IAM Role
     - dae-cloudwatch-agent-role
