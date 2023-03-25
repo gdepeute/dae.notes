@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679703293746
+updated: 1679703558660
 created: 1679703138003
 ---
 
@@ -12,41 +12,20 @@ created: 1679703138003
 
 - Population Density / PDC GeoWebCache / WMS / layer_id: pip_dens_2015 / auth: yes
 - Airport
-  Airports (Infra) & Airport Density Info (Infra)
-
-I believe these exactly match our existing layer named “Airports” and “Airport Density” both in the Infrastructure folder
-
-· Hospitals (Infra)
-
-I believe this exactly matches our existing layer “Hospitals” in the Infrastructure folder
-
-· Ports (Infra)
-
-I believe this exactly matches out existing layer named “Ports” in the Infrastructure folder
-
-· Earthquake – Locations, Intensity & Shaking map
-
-I believe this matches the existing layers “Locations and Magnitude”, “Earthquake Intensity Zones” and “Shaking Intensity” layers in the Earthquakes folder
-
-· Tornado – Warnings & Watches
-
-I believe this exactly matches the existing layers “Warnings (Tornado)” and “Watches (Tornado) in the Tornados folder
-
-· Tsunami – Watches & Warnings
-
-I believe this exactly matches the existing layer “Tsunami Watch and Warning Zones” layer in the Tsunami folder
-
-· Volcano Locations
-
-I believe this exactly matches the existing layer “Volcano Locations” layer in the Volcanos folder
-
-· Wildfire – locations, potential locations
-
-I believe this exactly matches the existing layer “Wildfire Locations (Hotspots), Potential Large/Intense Wildfires” layers in the Wildfire folder
-
-· Tectonic Plates (locations)
-
-I believe this exactly matches the existing layer “Tectonic Plate Boundaries” in the Earthquakes folder
+- Airport Density
+- Hospitals (Infra)
+- Ports (Infra)
+- Earthquakes Locations and Magnitude
+- Earthquakes Intensity ones
+- Earthquakes Shaking Intensity
+- Tornado (Warnings)
+- Tornado (Watches)
+- Tsunami (Watch and Warning Zones)
+- Volcano Locations
+- Wildfire Locations (Hotspots)
+- Potential Large/Intense Wildfire
+- Tectonic Plate Boundaries
+- Global Weather Observations (METAR)
 
 · Global Weather (METAR) including forecasts
 
