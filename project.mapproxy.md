@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704604250
+updated: 1679704656315
 created: 1679703138003
 ---
 
@@ -26,7 +26,8 @@ created: 1679703138003
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer
 - Earthquakes Shaking Intensity / PDC Mapserver / ARCGIS / layer_id: Shaking Intensity (ShakeMap Model)
   - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer
-- Tornado (Warnings)
+- Tornado (Warnings) / PUBLIC / ARCGIS / layer_id: Tornado Warning
+  - https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteoceanhydro_shortduration_hazards_warnings_time/MapServer
 - Tornado (Watches)
 - Tsunami (Watch and Warning Zones)
 - Volcano Locations
