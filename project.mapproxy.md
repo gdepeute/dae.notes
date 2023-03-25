@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704981035
+updated: 1679705018591
 created: 1679703138003
 ---
 
@@ -40,7 +40,8 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
 - Tectonic Plate Boundaries / PDC AGS / ARCGIS / layer_id: Tectonic Plate Boundaries
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer
-- Global Weather Observations (METAR)
+- Global Weather Observations (METAR) PDC AGS / ARCGIS / layer_id: Global Weather Observations (METAR)
+  - https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer
 - Historical Earthquakes / PDC Mapserver / ARCGIS / layer_id: Historical Earthquakes
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Tsunami Events / PDC Mapserver / ARCGIS / layer_id: Historical Tsunami Events
