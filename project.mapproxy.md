@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704461791
+updated: 1679704526655
 created: 1679703138003
 ---
 
@@ -22,7 +22,7 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Earthquakes Locations and Magnitude / PDC Mapserver / ARCGIS / layer_id: Recent_Earthquakes / auth: no
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver
-- Earthquakes Intensity ones
+- Earthquakes Intensity Zones / PDC MapServer / ARCGIS / layer_id: Earthquake Intensity Zones
 - Earthquakes Shaking Intensity
 - Tornado (Warnings)
 - Tornado (Watches)
