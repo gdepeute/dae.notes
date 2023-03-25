@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704405592
+updated: 1679704461791
 created: 1679703138003
 ---
 
@@ -28,7 +28,8 @@ created: 1679703138003
 - Tornado (Watches)
 - Tsunami (Watch and Warning Zones)
 - Volcano Locations
-- Wildfire Locations (Hotspots)
+- Wildfire Locations (Hotspots) / PDC Mapserver / ARCGIS / layer_id: Wildfire Locations (Hotspots)
+  - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
 - Potential Large/Intense Wildfire
 - Tectonic Plate Boundaries
 - Global Weather Observations (METAR)
