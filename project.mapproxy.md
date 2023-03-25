@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679703916495
+updated: 1679704038116
 created: 1679703138003
 ---
 
@@ -11,8 +11,11 @@ created: 1679703138003
 ## Layers and Protocols for initial implementation
 
 - Population Density / PDC GeoWebCache / WMS / layer_id: pip_dens_2015 / auth: yes
-- Airport / PDC Mapserver / ARCGIS / layer_id: airport_density / auth: yes
+  - https://agsc.pdc.org/geowebcache/service/wms
+- Airport / PDC Mapserver / ARCGIS / layer_id: large_airports / auth: yes
+  - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Airport Density / PDC Mapserver / ARCGIS / layer_id: airport_density
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_basemap/MapServer
 - Hospitals (Infra)
 - Ports (Infra)
 - Earthquakes Locations and Magnitude
