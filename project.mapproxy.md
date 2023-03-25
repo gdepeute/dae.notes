@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704754257
+updated: 1679704842925
 created: 1679703138003
 ---
 
@@ -30,8 +30,8 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
 - Tornado (Watches) / PDC AGS / ARCGIS / layer_id: US_Tornado_Watch
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
-- Tsunami (Watch and Warning Zones)
-  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer
+- Tsunami (Watch and Warning Zones) / PDC AGS / ARCGIS / layer_id: Tsunami_Watch_and_Warning_Zones / auth: no
+  - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer
 - Volcano Locations
 - Wildfire Locations (Hotspots) / PDC Mapserver / ARCGIS / layer_id: Wildfire Locations (Hotspots)
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
