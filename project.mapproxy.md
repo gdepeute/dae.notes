@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704126541
+updated: 1679704359183
 created: 1679703138003
 ---
 
@@ -20,7 +20,7 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Ports (Infra) / PDC Map Server / ARCGIS / layer_id: Large Ports / auth_yes
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
-- Earthquakes Locations and Magnitude
+- Earthquakes Locations and Magnitude / PDC Mapserver / ARCGIS / layer_id:
 - Earthquakes Intensity ones
 - Earthquakes Shaking Intensity
 - Tornado (Warnings)
@@ -31,12 +31,17 @@ created: 1679703138003
 - Potential Large/Intense Wildfire
 - Tectonic Plate Boundaries
 - Global Weather Observations (METAR)
-- Historical Earthquakes
-- Historical Tsunami Events
-- Historica Cyclone Tracks 2014-2021
+- Historical Earthquakes / PDC Mapserver / ARCGIS / layer_id: Historical Earthquakes
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
+- Historical Tsunami Events / PDC Mapserver / ARCGIS / layer_id: Historical Tsunami Events
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
+- Historical Cyclone Tracks 2014-2021 / PDC Mapserver / ARCGIS / layer_id: Historical Cyclone Tracks - <year>
+  https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Large Fires
-- Historical Large Floods
+- Historical Large Floods / PDC Mapserver / ARCGIS / layer_id: Flood Incidents (NASA)
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Volcanic Eruptions
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Landslide - NO MATCH
 - Historical Avalanche - NO MATCH
 - Historical Winterstore - NO MATCH
