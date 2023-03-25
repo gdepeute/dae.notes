@@ -2,13 +2,15 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679705018591
+updated: 1679705061818
 created: 1679703138003
 ---
 
 # MapProxy experimentation
 
 ## Layers and Protocols for initial implementation
+
+In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services requested
 
 - Population Density / PDC GeoWebCache / WMS / layer_id: pip_dens_2015 / auth: yes
   - https://agsc.pdc.org/geowebcache/service/wms
