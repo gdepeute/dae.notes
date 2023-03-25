@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704842925
+updated: 1679704981035
 created: 1679703138003
 ---
 
@@ -32,11 +32,14 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
 - Tsunami (Watch and Warning Zones) / PDC AGS / ARCGIS / layer_id: Tsunami_Watch_and_Warning_Zones / auth: no
   - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer
-- Volcano Locations
+- Volcano Locations / PDC Mapserver / ARCGIS / layer_id: Volcano Locations
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Wildfire Locations (Hotspots) / PDC Mapserver / ARCGIS / layer_id: Wildfire Locations (Hotspots)
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
-- Potential Large/Intense Wildfire
-- Tectonic Plate Boundaries
+- Potential Large/Intense Wildfire / PDC AGS / ARCGIS / layer_id Potential Large/Intense Wildfires / auth: no
+  - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
+- Tectonic Plate Boundaries / PDC AGS / ARCGIS / layer_id: Tectonic Plate Boundaries
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer
 - Global Weather Observations (METAR)
 - Historical Earthquakes / PDC Mapserver / ARCGIS / layer_id: Historical Earthquakes
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
