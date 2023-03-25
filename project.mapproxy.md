@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1679704038116
+updated: 1679704126541
 created: 1679703138003
 ---
 
@@ -16,8 +16,10 @@ created: 1679703138003
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Airport Density / PDC Mapserver / ARCGIS / layer_id: airport_density
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_basemap/MapServer
-- Hospitals (Infra)
-- Ports (Infra)
+- Hospitals (Infra) / PDC Mapserver / ARCGIS / layer_id: Hospitals / auth: yes
+  - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
+- Ports (Infra) / PDC Map Server / ARCGIS / layer_id: Large Ports / auth_yes
+  - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Earthquakes Locations and Magnitude
 - Earthquakes Intensity ones
 - Earthquakes Shaking Intensity
