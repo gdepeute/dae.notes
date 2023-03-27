@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679935529239
+updated: 1679935695909
 created: 1673230030238
 ---
 
@@ -14,7 +14,12 @@ created: 1673230030238
 - Crisis24/Palantir
   - Been supporting their efforts and trying to get to the bottom of their requests
   - Fundamentally it's access to the historical hazards which we can add to the existing API gateway with new role
-  - And a set of layers which we need to proxy (investigating MapProxy and others),
+  - And a set of layers which we need to proxy (investigating MapProxy and others), fronted by NGINX behind the API gateway with yet another new role type. Have ask Michelle to think about granularity of roles (groups of layers?) so we can be determine how to implement
+- Cleaned up some oganizations
+  - OW/Marsh
+  - MapFre
+  - Sitecore
+  - USGLC
 
 # EStaff 3/20/23
 
