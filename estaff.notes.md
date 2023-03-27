@@ -2,9 +2,18 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679336109902
+updated: 1679935306666
 created: 1673230030238
 ---
+
+# EStaff 3/27/23
+
+- Mostly resolved the retry failures between the hazard producer and API gateway
+  - Was due to API gateway timing out the long connection AND
+  - That Camel wasn't setup/configured properly for reusing connections and checking status of connections before using
+- Crisis24/Palantir
+  - Been supporting their efforts and trying to get to the bottom of their requests
+  - Fundamentally it's access to the historical
 
 # EStaff 3/20/23
 
