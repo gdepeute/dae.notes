@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679935695909
+updated: 1679935985819
 created: 1673230030238
 ---
 
@@ -20,6 +20,17 @@ created: 1673230030238
   - MapFre
   - Sitecore
   - USGLC
+- Improvements to GIS tools done last week in service to CL Behring
+
+  - Improved geocoding
+  - Native support for symbol icons (saves a manual step)
+  - Will be transitioning map service creation over to Jesse
+
+- Q&A
+  - Other VC's we were having discussions with
+  - Runway left before $ needed, and plan
+  - Space/bldg?
+  - Lead generation efforts / any quantification?
 
 # EStaff 3/20/23
 
