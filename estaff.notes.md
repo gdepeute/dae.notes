@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679935985819
+updated: 1679941375890
 created: 1673230030238
 ---
 
@@ -20,7 +20,7 @@ created: 1673230030238
   - MapFre
   - Sitecore
   - USGLC
-- Improvements to GIS tools done last week in service to CL Behring
+- Improvements to GIS tools done last week in service to CSL Behring
 
   - Improved geocoding
   - Native support for symbol icons (saves a manual step)
