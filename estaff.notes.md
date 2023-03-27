@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679935306666
+updated: 1679935529239
 created: 1673230030238
 ---
 
@@ -13,7 +13,8 @@ created: 1673230030238
   - That Camel wasn't setup/configured properly for reusing connections and checking status of connections before using
 - Crisis24/Palantir
   - Been supporting their efforts and trying to get to the bottom of their requests
-  - Fundamentally it's access to the historical
+  - Fundamentally it's access to the historical hazards which we can add to the existing API gateway with new role
+  - And a set of layers which we need to proxy (investigating MapProxy and others),
 
 # EStaff 3/20/23
 
