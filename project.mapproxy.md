@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1680033432739
+updated: 1680033527719
 created: 1679703138003
 ---
 
@@ -65,13 +65,15 @@ Unclear what they are requesting here. We have some Rainfall accumulation layers
 This yields this set of map services to be proxied - initial experiment using API gateway:
 
 api.disasteraware.com/services/geowebcache_wms -> https://agsc.pdc.org/geowebcache/service/wms (S13)
-api.disasteraware.com/services/global/pdc_active_hazards/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer (S62/64)
-api.disasteraware.com/services/global/pdc_global_infrastructure/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer (S85)
-api.disasteraware.com/services/global/pdc_meteorology/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer (S128)
-api.disasteraware.com/services/global/pdc_models/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (S133)
-api.disasteraware.com/services/global/pdc_basemap/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_basemap/MapServer (S66)
-api.disasteraware.com/services/global/pdc_global_historical_hazards/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer (S84)
-api.disasteraware.com/services/global/pdc_hazard_zones/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (S109)
+
+- Land_Cove (L383), Railroads
+  api.disasteraware.com/services/global/pdc_active_hazards/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer (S62/64)
+  api.disasteraware.com/services/global/pdc_global_infrastructure/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer (S85)
+  api.disasteraware.com/services/global/pdc_meteorology/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer (S128)
+  api.disasteraware.com/services/global/pdc_models/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (S133)
+  api.disasteraware.com/services/global/pdc_basemap/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_basemap/MapServer (S66)
+  api.disasteraware.com/services/global/pdc_global_historical_hazards/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer (S84)
+  api.disasteraware.com/services/global/pdc_hazard_zones/MapServer -> https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (S109)
 
 ## Full List of Service URLs from Enterprise as of 03/28/23
 
