@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1680033527719
+updated: 1680033612466
 created: 1679703138003
 ---
 
@@ -66,7 +66,7 @@ This yields this set of map services to be proxied - initial experiment using AP
 
 api.disasteraware.com/services/geowebcache_wms -> https://agsc.pdc.org/geowebcache/service/wms (S13)
 
-- Land_Cove (L383), Railroads
+- Land_Cove (L383), Railroads (L527), Shaded_Relief (L555), Topography_Bathymetry (L585), pop_desn_2015 (L817)
   api.disasteraware.com/services/global/pdc_active_hazards/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer (S62/64)
   api.disasteraware.com/services/global/pdc_global_infrastructure/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer (S85)
   api.disasteraware.com/services/global/pdc_meteorology/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer (S128)
