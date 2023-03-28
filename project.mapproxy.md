@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1680033612466
+updated: 1680033745607
 created: 1679703138003
 ---
 
@@ -68,6 +68,7 @@ api.disasteraware.com/services/geowebcache_wms -> https://agsc.pdc.org/geowebcac
 
 - Land_Cove (L383), Railroads (L527), Shaded_Relief (L555), Topography_Bathymetry (L585), pop_desn_2015 (L817)
   api.disasteraware.com/services/global/pdc_active_hazards/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer (S62/64)
+- Storm_Positions (L574), Storm_Segments (L575), Storm_Winds (L576),
   api.disasteraware.com/services/global/pdc_global_infrastructure/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer (S85)
   api.disasteraware.com/services/global/pdc_meteorology/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer (S128)
   api.disasteraware.com/services/global/pdc_models/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (S133)
