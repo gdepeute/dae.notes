@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: Mapproxy
 desc: ""
-updated: 1680030710682
+updated: 1680032479973
 created: 1679703138003
 ---
 
@@ -64,9 +64,8 @@ Unclear what they are requesting here. We have some Rainfall accumulation layers
 
 This yields this set of map services to be proxied - initial experiment using API gateway:
 
-api.disasteraware.com/services/gwc_wms
-
-https://agsc.pdc.org/geowebcache/service/wms
+api.disasteraware.com/services/gwc_wms -> https://agsc.pdc.org/geowebcache/service/wms
+api.disasteraware.com/services/
 https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer
 https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 https://apps.pdc.org/msf/rest/services/global/pdc_meteorology/MapServer
