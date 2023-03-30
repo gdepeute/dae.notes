@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680200498108
+updated: 1680202801843
 created: 1679703138003
 ---
 
@@ -19,6 +19,22 @@ created: 1679703138003
 - Have prototyped 2 different types of layers (WMS and ARCGIS)
 - It appears if layer url ends in "?", then a direct mapping can be implemented
 - If the layer url does NOT end in "?", then assume that it could have multiple layers added, thus configure last stage as {proxy+}
+
+## JWT Validation
+
+- Give the custom nature of our JWT tokens, we need to implement a custom authorizer lambda function
+- Each route can specify a different authorizer
+- We should have a single authorizer with "list of paths mapping to required ROLES" as the path is sent in the request:
+
+```
+{
+    "type":"TOKEN",
+    "authorizationToken":"<Incoming bearer token>",
+    "methodArn":"arn:aws:execute-api:<Region id>:<Account id>:<API id>/<Stage>/<Method>/<Resource path>"
+}
+```
+
+- Start with a python lambda authorizer sample
 
 ## Layers and Protocols for initial implementation
 
