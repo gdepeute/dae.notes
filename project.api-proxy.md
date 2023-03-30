@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680202801843
+updated: 1680203083419
 created: 1679703138003
 ---
 
@@ -32,6 +32,40 @@ created: 1679703138003
     "authorizationToken":"<Incoming bearer token>",
     "methodArn":"arn:aws:execute-api:<Region id>:<Account id>:<API id>/<Stage>/<Method>/<Resource path>"
 }
+```
+
+- Sample code for authorizer from ChatGPT:
+
+```
+import json
+from jose import jwt
+import requests
+
+def lambda_handler(event, context):
+    token = event['authorizationToken']
+    methodArn = event['methodArn']
+    try:
+        payload = jwt.decode(token, 'your-secret-key', algorithms=['HS256'])
+        principalId = payload['sub']
+        context = {
+            'sub': principalId
+        }
+        policyDocument = {
+            'Version': '2012-10-17',
+            'Statement': [{
+                'Action': 'execute-api:Invoke',
+                'Effect': 'Allow',
+                'Resource': methodArn
+            }]
+        }
+        return {
+            'principalId': principalId,
+            'policyDocument': policyDocument,
+            'context': context
+        }
+    except Exception as e:
+        print(e)
+        raise Exception('Unauthorized')
 ```
 
 - Start with a python lambda authorizer sample
