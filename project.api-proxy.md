@@ -1,12 +1,21 @@
 ---
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
-desc: ''
-updated: 1680033811837
+desc: ""
+updated: 1680200351768
 created: 1679703138003
 ---
 
-# MapProxy experimentation
+# Prototyping API gateway proxy via AWS API Gateway
+
+- Adding Historical Hazards with existing query strings/parameters and new role
+- Adding Layers with direct pass-thru
+
+## Adding Historical Hazards
+
+## Adding Layers with direct pass-thru
+
+- Have prototyped 2 different types of layers (WMS and ARCGIS)
 
 ## Layers and Protocols for initial implementation
 
