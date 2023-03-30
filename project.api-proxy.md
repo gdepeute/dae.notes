@@ -2,20 +2,23 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680200351768
+updated: 1680200498108
 created: 1679703138003
 ---
 
 # Prototyping API gateway proxy via AWS API Gateway
 
 - Adding Historical Hazards with existing query strings/parameters and new role
-- Adding Layers with direct pass-thru
+- Adding Layers with direct pass-thru with new role
+- Need to experiment validating JWT role in API gateway
 
 ## Adding Historical Hazards
 
 ## Adding Layers with direct pass-thru
 
 - Have prototyped 2 different types of layers (WMS and ARCGIS)
+- It appears if layer url ends in "?", then a direct mapping can be implemented
+- If the layer url does NOT end in "?", then assume that it could have multiple layers added, thus configure last stage as {proxy+}
 
 ## Layers and Protocols for initial implementation
 
