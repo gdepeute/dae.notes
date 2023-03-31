@@ -2,7 +2,7 @@
 id: 36nxbqmzjocobox7q1tg6f3
 title: Proposal
 desc: ""
-updated: 1680302509105
+updated: 1680302658167
 created: 1680301814578
 ---
 
@@ -23,4 +23,9 @@ My proposal is to add the `historical hazards` and `layers` desired by prospects
 Proposed new endpoints:
 
 - /historical_hazards - fetches the historical (expired) hazards based on the search terms provided (more on this later)
-- /
+- /services/<map-service-name>/... - support for the map services and layers desired by prospects
+
+As noted, I also propose a new set of ROLES in the system to support these endpoints:
+
+- HAZARDS_API - ROLE that provides access to the existing endpoints hosted at `https://api.disasteraware.com`
+- HISTORICAL_HAZARDS_API - ROLE that provides access to the `/historical_hazards` endpoints
