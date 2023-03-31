@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680203083419
+updated: 1680278212200
 created: 1679703138003
 ---
 
@@ -13,6 +13,12 @@ created: 1679703138003
 - Need to experiment validating JWT role in API gateway
 
 ## Adding Historical Hazards
+
+- Example request with all query parameters:
+
+```
+https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND (create_date >= to_date('2021-01-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2021-12-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')) AND (UPPER(hazard_name) LIKE '%NAMEFOO%') AND ((severity_id = 'WARNING' OR severity_id = 'WATCH')) AND ((status = 'E')) AND ((type_id = 'FLOOD' OR type_id = 'STORM' OR type_id = 'CYCLONE'))&orderby=update_date desc
+```
 
 ## Adding Layers with direct pass-thru
 
