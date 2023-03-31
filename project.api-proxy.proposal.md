@@ -2,7 +2,7 @@
 id: 36nxbqmzjocobox7q1tg6f3
 title: Proposal
 desc: ""
-updated: 1680305758954
+updated: 1680305785492
 created: 1680301814578
 ---
 
@@ -25,7 +25,7 @@ As the existing endpoints are simple HTTP proxies (mappings) to the set of URL's
 Proposed new endpoints:
 
 - /historical_hazards - fetches the historical (expired) hazards based on the search terms provided (more on this later)
-- /services/<map-service-name>/... - support for the map services and layers desired by prospects
+- /services/\<map-service-name\>/... - support for the map services and layers desired by prospects
 
 As noted, I also propose a new set of ROLES in the system to support these endpoints (for example):
 
