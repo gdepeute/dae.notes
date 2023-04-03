@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1680545872805
+updated: 1680546085544
 created: 1673230030238
 ---
 
@@ -27,6 +27,7 @@ created: 1673230030238
   - Scale Ventures - Bob contact starting discussions with
   - Where did we end up on the quarter?
     - ONE new logo, Databricks came in on Friday
+    - Q1 end at 18k + 22k (Databricks and ???) + 250k MSA with PDC
 
 # EStaff 3/27/23
 
