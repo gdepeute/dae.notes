@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1680545461778
+updated: 1680545872805
 created: 1673230030238
 ---
 
@@ -25,6 +25,8 @@ created: 1673230030238
   - Factoring company and delays
   - Bob still on 4/30 as drop dead date for $
   - Scale Ventures - Bob contact starting discussions with
+  - Where did we end up on the quarter?
+    - ONE new logo, Databricks came in on Friday
 
 # EStaff 3/27/23
 
