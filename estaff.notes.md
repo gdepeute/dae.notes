@@ -2,13 +2,14 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1680545318774
+updated: 1680545461778
 created: 1673230030238
 ---
 
 # EStaff 4/3/23
 
 - API prototyping
+
   - Historical Hazards
   - Layers
   - Prototyping complete
@@ -16,6 +17,9 @@ created: 1673230030238
   - Can implement in 1-2 weeks
   - Should get $ from Crisis24/Palantir
   - YES, can webhook publish to their endpoint very easily
+
+- Push to invoice Ray for the $90k which supposedly could get paid quickly
+
 - Q&A
   - USVP and new partner approval
   - Factoring company and delays
