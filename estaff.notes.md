@@ -2,9 +2,25 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1679941375890
+updated: 1680545318774
 created: 1673230030238
 ---
+
+# EStaff 4/3/23
+
+- API prototyping
+  - Historical Hazards
+  - Layers
+  - Prototyping complete
+  - Email sent seeking approval to set up
+  - Can implement in 1-2 weeks
+  - Should get $ from Crisis24/Palantir
+  - YES, can webhook publish to their endpoint very easily
+- Q&A
+  - USVP and new partner approval
+  - Factoring company and delays
+  - Bob still on 4/30 as drop dead date for $
+  - Scale Ventures - Bob contact starting discussions with
 
 # EStaff 3/27/23
 
