@@ -2,9 +2,19 @@
 id: 36nxbqmzjocobox7q1tg6f3
 title: Proposal
 desc: ""
-updated: 1680305785492
+updated: 1680656104661
 created: 1680301814578
 ---
+
+## Notes Regarding Proposal - 4/4/23
+
+- No feedback from Michelle, Johnny or Ray
+- Really need Ray's approval as it's expanding the API beyond the contract
+- Ray has not completed the review to determine which layers might have additional restrictions.
+  - We know some of the forecast layers are potentially TAOS layers.
+- Really could use Johnny's feedback as his team will need to support
+- 2 weeks post $ for API availability
+- No documentation plan at the moment
 
 ## Proposal for External DaaS API Evolution
 
