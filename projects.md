@@ -2,9 +2,16 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1678897751209
+updated: 1680721820061
 created: 1666285014870
 ---
+
+# Active 4/5/23
+
+- Have myself and Jesse add additional user-agent information in the short term to disambiguate the requests
+
+Current API users:
+Found 11 users... - dae-asset-tracking-mdove - user agents: python-requests/2.28.1, python-requests/2.28.2, curl/7.85.0 - disasteralertforkbrservicenow@kbr.com - user agents: Jakarta*Com, ServiceNow/1.0 - ancaraballo@coca-cola.com - user agents: Apache-HttpClient/4.5.12*(Ja - hazard-api-bot - user agents: Java/1.8.0_272 - jselitham - user agents: python-requests/2.28.2, PostmanRuntime/7.31.3 - trivikram.pathak@crisis24.com - user agents: python-requests/2.28.2, Python-urllib/3.10 - disasterawareingestion@crisis24.com - user agents: curl/7.86.0, python-requests/2.28.1, python-requests/2.28.1_Fou - trivikam.pathak@crisis24.com - user agents: Python-urllib/3.10 - maps-traffic-accounts@group.apple.com - user agents: okhttp/4.10.0 - your_username - user agents: curl/7.84.0 - henry.stroud@oliverwyman.com - user agents: curl/7.84.0
 
 # Active/Completed Projects as of 3/16/23
 
