@@ -1,8 +1,8 @@
 ---
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
-desc: ''
-updated: 1680278212200
+desc: ""
+updated: 1680735669022
 created: 1679703138003
 ---
 
@@ -17,7 +17,7 @@ created: 1679703138003
 - Example request with all query parameters:
 
 ```
-https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND 
+https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
 ```
 
 ## Adding Layers with direct pass-thru
@@ -80,7 +80,7 @@ def lambda_handler(event, context):
 
 In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services requested
 
-- Population Density / PDC GeoWebCache / WMS / layer_id: pip_dens_2015 / auth: yes
+- Population Density / PDC GeoWebCache / WMS / layer_id: pop_dens_2015 / auth: yes
   - https://agsc.pdc.org/geowebcache/service/wms
 - Airport / PDC Mapserver / ARCGIS / layer_id: large_airports / auth: yes
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
@@ -121,7 +121,7 @@ In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services req
 - Historical Large Fires
 - Historical Large Floods / PDC Mapserver / ARCGIS / layer_id: Flood Incidents (NASA)
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
-- Historical Volcanic Eruptions
+- Historical Volcanic Eruptions / PDC Mapserver / ARCGIS / layer_id: Historical Volcanic
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Landslide - NO MATCH
 - Historical Avalanche - NO MATCH
@@ -134,7 +134,7 @@ This yields this set of map services to be proxied - initial experiment using AP
 
 api.disasteraware.com/services/geowebcache_wms -> https://agsc.pdc.org/geowebcache/service/wms (S13)
 
-- Land_Cove (L383), Railroads (L527), Shaded_Relief (L555), Topography_Bathymetry (L585), pop_desn_2015 (L817)
+- Land_Cover (L383), Railroads (L527), Shaded_Relief (L555), Topography_Bathymetry (L585), pop_desn_2015 (L817)
   api.disasteraware.com/services/global/pdc_active_hazards/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/MapServer (S62/64)
 - Storm_Positions (L574), Storm_Segments (L575), Storm_Winds (L576), US_Tornados_Warning (L611), US_Tornados_Watch (L612)
   api.disasteraware.com/services/global/pdc_global_infrastructure/MapServer -> https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer (S85)
