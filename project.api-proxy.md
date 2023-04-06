@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680735669022
+updated: 1680735727529
 created: 1679703138003
 ---
 
@@ -118,7 +118,7 @@ In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services req
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Cyclone Tracks 2014-2021 / PDC Mapserver / ARCGIS / layer_id: Historical Cyclone Tracks - <year>
   https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
-- Historical Large Fires
+- Historical Large Fires - NO MATCH
 - Historical Large Floods / PDC Mapserver / ARCGIS / layer_id: Flood Incidents (NASA)
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Volcanic Eruptions / PDC Mapserver / ARCGIS / layer_id: Historical Volcanic
@@ -126,7 +126,7 @@ In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services req
 - Historical Landslide - NO MATCH
 - Historical Avalanche - NO MATCH
 - Historical Winterstore - NO MATCH
-- Rainfall?
+- Rainfall? Forecasts?
 
 Unclear what they are requesting here. We have some Rainfall accumulation layers, and some animated forecast and potential layers. BUT there are also a bunch of the Rainfall layers are TAOS layers. Need to clarify what exactly they want and that TAOS is off the table.
 
