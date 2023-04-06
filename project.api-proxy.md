@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680735727529
+updated: 1680808549565
 created: 1679703138003
 ---
 
@@ -92,7 +92,7 @@ In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services req
   - https://apps.pdc.org/msf/rest/services/global/pdc_global_infrastructure/MapServer
 - Earthquakes Locations and Magnitude / PDC Mapserver / ARCGIS / layer_id: Recent_Earthquakes / auth: no
   - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver
-- Earthquakes Intensity Zones / PDC MapServer / ARCGIS / layer_id: Earthquake Intensity Zones
+- [NO] Earthquakes Intensity Zones / PDC MapServer / ARCGIS / layer_id: Earthquake Intensity Zones
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer
 - Earthquakes Shaking Intensity / PDC Mapserver / ARCGIS / layer_id: Shaking Intensity (ShakeMap Model)
   - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer
@@ -119,7 +119,7 @@ In the initial list from Crisis24/Palantir, only ARCGIS and WMS map services req
 - Historical Cyclone Tracks 2014-2021 / PDC Mapserver / ARCGIS / layer_id: Historical Cyclone Tracks - <year>
   https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Large Fires - NO MATCH
-- Historical Large Floods / PDC Mapserver / ARCGIS / layer_id: Flood Incidents (NASA)
+- [NO] Historical Large Floods / PDC Mapserver / ARCGIS / layer_id: Flood Incidents (NASA)
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
 - Historical Volcanic Eruptions / PDC Mapserver / ARCGIS / layer_id: Historical Volcanic
   - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_global_historical_hazards/MapServer
