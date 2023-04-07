@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892697685
+updated: 1680892886096
 created: 1675461426469
 ---
 
@@ -16,7 +16,7 @@ created: 1675461426469
 ## Meeting with Crisis/Palantir - 4/7/23
 
 - Chad Lesch
-- Mike Gilbert
+- Mike Gilbert / Topo1 platform engineer
 - Thomas Lee / CTO of Topo1 by Crisis24 Platform
 - Steve D'Adamo / Crisis24 - Horizon
 - Cathy Gill / Crisis24 - Horizon
@@ -30,7 +30,7 @@ created: 1675461426469
   - Natural disasters/weather events/...
   - Got interested based on Chad's poking
   - Mike Gilbert - question around the data sources
-    - Asking how we sell those bundles
+    - Asking how we sell data and in what different bundles
 
 ## Meeting with Crisis24/Palantir
 
