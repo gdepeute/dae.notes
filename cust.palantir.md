@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892192967
+updated: 1680892595839
 created: 1675461426469
 ---
 
@@ -16,11 +16,19 @@ created: 1675461426469
 ## Meeting with Crisis/Palantir - 4/7/23
 
 - Chad Lesch
-- Cathy Gill
 - Mike Gilbert
-- Steve D'Adamo
-- Thomas Lee
+- Thomas Lee / CTO of Topo1 by Crisis24 Platform
+- Steve D'Adamo / Crisis24 - Horizon
+- Cathy Gill / Crisis24 - Horizon
+
 - Vik Trivikram
+- Ismail Seyfi / IT
+
+- Topo1
+  - CEM space
+  - Understand assets an organization has and threats
+  - Natural disasters/weather events/...
+  - Got interested based on Chad's poking
 
 ## Meeting with Crisis24/Palantir
 
