@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892642505
+updated: 1680892697685
 created: 1675461426469
 ---
 
@@ -30,6 +30,7 @@ created: 1675461426469
   - Natural disasters/weather events/...
   - Got interested based on Chad's poking
   - Mike Gilbert - question around the data sources
+    - Asking how we sell those bundles
 
 ## Meeting with Crisis24/Palantir
 
