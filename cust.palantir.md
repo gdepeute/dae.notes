@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892124080
+updated: 1680892192967
 created: 1675461426469
 ---
 
@@ -15,7 +15,12 @@ created: 1675461426469
 
 ## Meeting with Crisis/Palantir - 4/7/23
 
--
+- Chad Lesch
+- Cathy Gill
+- Mike Gilbert
+- Steve D'Adamo
+- Thomas Lee
+- Vik Trivikram
 
 ## Meeting with Crisis24/Palantir
 
