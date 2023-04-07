@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1676315287379
+updated: 1680892124080
 created: 1675461426469
 ---
 
@@ -12,6 +12,10 @@ created: 1675461426469
 - They work with Crisis24
 - Will demo their application
 - Use cases unclear?
+
+## Meeting with Crisis/Palantir - 4/7/23
+
+-
 
 ## Meeting with Crisis24/Palantir
 
