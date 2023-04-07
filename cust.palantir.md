@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892595839
+updated: 1680892642505
 created: 1675461426469
 ---
 
@@ -29,6 +29,7 @@ created: 1675461426469
   - Understand assets an organization has and threats
   - Natural disasters/weather events/...
   - Got interested based on Chad's poking
+  - Mike Gilbert - question around the data sources
 
 ## Meeting with Crisis24/Palantir
 
