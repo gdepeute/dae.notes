@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681166491266
+updated: 1681166608855
 created: 1675461426469
 ---
 
@@ -21,8 +21,11 @@ created: 1675461426469
   - Earthquake Locations and Magnitutude
     - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (Recent Earthquakes)
   - Earthquake Intensity Zones
+    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (Earthquake Intensity Zones)
   - Shaking Intensity (ShakeMap Model)
+    - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (ShakeMap Model)
   - Tectonic Plate Boundaries
+    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (Tectonic Plate Boundaries)
 
 ## Meeting with Crisis/Palantir - 4/7/23
 
