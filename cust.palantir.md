@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681166335730
+updated: 1681166447780
 created: 1675461426469
 ---
 
@@ -14,10 +14,12 @@ created: 1675461426469
 - Use cases unclear?
 
 ## Palanir/Crisis24 SOW
+
 - Desired Layers
   - Population Density
-    -
+    - https://agsc.pdc.org/geowebcache/service/wms ()
   - Earthquake Locations and Magnitutude
+    - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (Recent Earthquakes)
   - Earthquake Intensity Zones
   - Shaking Intensity (ShakeMap Model)
 
