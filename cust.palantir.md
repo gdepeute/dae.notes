@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681166701852
+updated: 1681167020241
 created: 1675461426469
 ---
 
@@ -25,7 +25,7 @@ created: 1675461426469
   - Shaking Intensity (ShakeMap Model)
     - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (ShakeMap Model)
   - Tectonic Plate Boundaries
-    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (Tectonic Plate Boundaries)
+    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (6: Tectonic Plate Boundaries)
 
 ## Meeting with Crisis/Palantir - 4/7/23
 
