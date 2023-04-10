@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1680892886096
+updated: 1681166335730
 created: 1675461426469
 ---
 
@@ -12,6 +12,14 @@ created: 1675461426469
 - They work with Crisis24
 - Will demo their application
 - Use cases unclear?
+
+## Palanir/Crisis24 SOW
+- Desired Layers
+  - Population Density
+    -
+  - Earthquake Locations and Magnitutude
+  - Earthquake Intensity Zones
+  - Shaking Intensity (ShakeMap Model)
 
 ## Meeting with Crisis/Palantir - 4/7/23
 
