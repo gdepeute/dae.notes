@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681150157902
+updated: 1681153736389
 created: 1673230030238
 ---
 
@@ -22,14 +22,19 @@ created: 1673230030238
   - Current API gateway logs missing critical information (due to truncation of 1024 bytes) to tie all the transactions together
 - Spending more time in Elastic to evolve our ability to detect and alert on issues
 
-- Udpates:
+- Updates:
+
   - Bob, next payroll front, still fighting with PayPlan on second installment
   - Must put the payroll in tomorrow as we are in the penalty box with ADP
   - Call with PayPlan guys this morning, gave them access to accounts and Meta portal
   - USVP wants to meet to discuss how we can scale up quickly
-    - Meeting at USVP on Wednesday at noon
+    - Meeting at USVP on Thursday at noon
   - Bob reading "The Wisdom of the Bull Frog" - recommending
   - Move occuring on Friday from current location over to TechMart
+
+- Arnaldo
+  - Meta 7.4.5 plan on 4/20
+  - Enterprise 7.4.5 on 4/27
 
 # EStaff 4/3/23
 
