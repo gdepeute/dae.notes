@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681149128453
+updated: 1681150157902
 created: 1673230030238
 ---
 
@@ -21,6 +21,15 @@ created: 1673230030238
   - New lambda custom authorizer will dramatically improve the reliability of these reports
   - Current API gateway logs missing critical information (due to truncation of 1024 bytes) to tie all the transactions together
 - Spending more time in Elastic to evolve our ability to detect and alert on issues
+
+- Udpates:
+  - Bob, next payroll front, still fighting with PayPlan on second installment
+  - Must put the payroll in tomorrow as we are in the penalty box with ADP
+  - Call with PayPlan guys this morning, gave them access to accounts and Meta portal
+  - USVP wants to meet to discuss how we can scale up quickly
+    - Meeting at USVP on Wednesday at noon
+  - Bob reading "The Wisdom of the Bull Frog" - recommending
+  - Move occuring on Friday from current location over to TechMart
 
 # EStaff 4/3/23
 
