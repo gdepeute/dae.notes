@@ -2,9 +2,25 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1680546085544
+updated: 1681149128453
 created: 1673230030238
 ---
+
+# EStaff 4/10/23
+
+- API prototyping
+  - Answered majority of questions
+  - Worked thru a set of lambda issues last week
+- Crisis24 SOW
+- Call with Crisis24/Palantir on Friday
+  - Answered questions about data
+  - Learned a bit about the Topo1 project
+- OliverWyman support
+  - Created API specific account for them, and re-enabled for this POC work
+- API reports improvements
+  - New lambda custom authorizer will dramatically improve the reliability of these reports
+  - Current API gateway logs missing critical information (due to truncation of 1024 bytes) to tie all the transactions together
+- Spending more time in Elastic to evolve our ability to detect and alert on issues
 
 # EStaff 4/3/23
 
