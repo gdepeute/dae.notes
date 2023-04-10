@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681167084332
+updated: 1681167459266
 created: 1675461426469
 ---
 
@@ -16,8 +16,9 @@ created: 1675461426469
 ## Palanir/Crisis24 SOW
 
 - Desired Layers
+
   - Population Density
-    - https://agsc.pdc.org/geowebcache/service/wms (pop_dens_2015)
+    - https://agsc.pdc.org/geowebcache/service/wms (LAYERS=pop_dens_2015)
   - Earthquake Locations and Magnitutude
     - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (6: Recent Earthquakes)
   - Earthquake Intensity Zones
@@ -26,6 +27,12 @@ created: 1675461426469
     - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (6: Shaking Intensity (ShakeMap Model))
   - Tectonic Plate Boundaries
     - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (6: Tectonic Plate Boundaries)
+
+- Need to configure mappings to 4 servers:
+  - https://agsc.pdc.org/geowebcache/service/wms with query param "LAYERS=pop_dens_2015)
+  - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (id: 6)
+  - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (id: 6 and 9)
+  - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (id: 6)
 
 ## Meeting with Crisis/Palantir - 4/7/23
 
