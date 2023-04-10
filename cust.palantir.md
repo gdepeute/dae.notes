@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681166608855
+updated: 1681166701852
 created: 1675461426469
 ---
 
@@ -19,9 +19,9 @@ created: 1675461426469
   - Population Density
     - https://agsc.pdc.org/geowebcache/service/wms (pop_dens_2015)
   - Earthquake Locations and Magnitutude
-    - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (Recent Earthquakes)
+    - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (6: Recent Earthquakes)
   - Earthquake Intensity Zones
-    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (Earthquake Intensity Zones)
+    - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (9: Earthquake Intensity Zones)
   - Shaking Intensity (ShakeMap Model)
     - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (ShakeMap Model)
   - Tectonic Plate Boundaries
