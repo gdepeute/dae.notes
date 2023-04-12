@@ -2,7 +2,7 @@
 id: mlcpd6lfckq2upageiik7w1
 title: Scalev
 desc: ""
-updated: 1681329152950
+updated: 1681329350122
 created: 1681327056366
 ---
 
@@ -31,7 +31,7 @@ created: 1681327056366
 
 - RE Slide
 
-  - Takes in raw data from a variety of public (NWS, USGS, JTC, ), private and licensed sources
+  - Takes in raw data from a variety of public (NWS, NOAA, NHC, USGS, ... in the US, country specific in some countries), private and licensed sources
     - Exclusive partnerships for data access
       - NASA partnership access to satellite imagery to global Flood, Wildfire and Landslides
   - This in addition to our over 2 decades of historical data and expertise make up a data lake
