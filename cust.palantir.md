@@ -1,7 +1,7 @@
 ---
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
-desc: ""
+desc: ''
 updated: 1681167459266
 created: 1675461426469
 ---
@@ -24,7 +24,7 @@ created: 1675461426469
   - Earthquake Intensity Zones
     - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (9: Earthquake Intensity Zones)
   - Shaking Intensity (ShakeMap Model)
-    - https://apps.pdc.org/msf/rest/services/global/pdc_models/MapServer (6: Shaking Intensity (ShakeMap Model))
+    - 
   - Tectonic Plate Boundaries
     - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (6: Tectonic Plate Boundaries)
 
