@@ -2,7 +2,7 @@
 id: mlcpd6lfckq2upageiik7w1
 title: Scalev
 desc: ""
-updated: 1681329350122
+updated: 1681331924731
 created: 1681327056366
 ---
 
@@ -10,6 +10,10 @@ created: 1681327056366
 
 - Rory O'Driscoll - GP
 - Jeremy Kaufmann - Partner
+- - one associate, not on web site
+- 30 minute meeting
+- Rory about to get away for 5-6 days, claims they will get back to us shortly
+- They seem to "get it", will see what they come back with
 
 - Points of Focus
 
