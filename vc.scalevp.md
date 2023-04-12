@@ -2,7 +2,7 @@
 id: mlcpd6lfckq2upageiik7w1
 title: Scalev
 desc: ""
-updated: 1681328636547
+updated: 1681329152950
 created: 1681327056366
 ---
 
@@ -30,13 +30,16 @@ created: 1681327056366
   - 650+ layers of data, some public, but the majority PDC proprietary
 
 - RE Slide
-  - Takes in raw data from a variety of public, private and licensed sources
-  - This in addition to our over 2 decades of historical data make up a data lake
-  - This data lake drives as input into a large set of weather focused data science models and ML which yields:
-    - Real time fully automated hazard creation/updates GLOBALLY
+
+  - Takes in raw data from a variety of public (NWS, USGS, JTC, ), private and licensed sources
     - Exclusive partnerships for data access
       - NASA partnership access to satellite imagery to global Flood, Wildfire and Landslides
-    - 650+ layers of data available in the app
-    - Predictive paths of Tropical Cyclones, Hurricanes, Tsunamis, ...
-    - Creation of smart-alert geographies, customized for each hazard type, used to provide early warning for assets
+  - This in addition to our over 2 decades of historical data and expertise make up a data lake
+  - This data lake provides input into a large set of weather focused data science models and ML which yields:
+
+    - Real time fully automated hazard creation/updates GLOBALLY
+    - 650+ layers of data available in the app (weather, infrastructure, ...)
+    - Best Predictive analysis/paths of Tropical Cyclones, Hurricanes, Tsunamis, ...
+    - Creation of smart-alert geographies, customized for each hazard type, used to provide early warning for assets ALL updated in REAL TIME
+
     -
