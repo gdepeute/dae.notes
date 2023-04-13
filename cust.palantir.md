@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681405764231
+updated: 1681405838707
 created: 1675461426469
 ---
 
@@ -21,6 +21,9 @@ created: 1675461426469
 - Sold as annual subscription license per user
 - Custom Analytic Products (current and historic)
 - Emerging Risk Products (future focused)
+- Going to include Bloomberg Data
+- And CIA Playbook
+- Meritime Shipping Data
 
 ## Palanir/Crisis24 SOW
 
