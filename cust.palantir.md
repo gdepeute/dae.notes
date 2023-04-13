@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681405593372
+updated: 1681405764231
 created: 1675461426469
 ---
 
@@ -16,7 +16,11 @@ created: 1675461426469
 # Call with Chad on 4/13/23
 
 - Showing a demo / presentation deck
+- Chad was in the CIA for a couple decades
 - "Dynamic Risk Library" - SW tool to enable clients to increase revenue (decrease losses), to yield strategic insights
+- Sold as annual subscription license per user
+- Custom Analytic Products (current and historic)
+- Emerging Risk Products (future focused)
 
 ## Palanir/Crisis24 SOW
 
