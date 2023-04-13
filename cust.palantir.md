@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681405838707
+updated: 1681406178417
 created: 1675461426469
 ---
 
@@ -19,8 +19,9 @@ created: 1675461426469
 - Chad was in the CIA for a couple decades
 - "Dynamic Risk Library" - SW tool to enable clients to increase revenue (decrease losses), to yield strategic insights
 - Sold as annual subscription license per user
-- Custom Analytic Products (current and historic)
-- Emerging Risk Products (future focused)
+- Custom Analytic Products (current and historic) - user initiated
+  - Will plan to use GPT-4 but trained with different data
+- Emerging Risk Products (future focused) - system initiated
 - Going to include Bloomberg Data
 - And CIA Playbook
 - Meritime Shipping Data
