@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681406178417
+updated: 1681407513444
 created: 1675461426469
 ---
 
@@ -25,6 +25,22 @@ created: 1675461426469
 - Going to include Bloomberg Data
 - And CIA Playbook
 - Meritime Shipping Data
+- Target expense officer in a company
+  - Less that 1% of the comapny is focused on this
+  - How can they move into the revenue centers?
+- Bridging geopolitical risk and impact to revenue
+- Wants user license, $12k/person is target the license (no password sharing)
+  - This is 1/2 a Bloomberg terminal
+- Suggesting a % of their price in order to allow it to grow as they raise prices in the future
+- They would be willing to reduce the data needs to get better pricing
+- Wants to price low initially to get the seats out there
+- Looking to porting out some features/products into other products they have
+- Layered and upsell opportunity
+- Q124 release target
+  - Finalize initial data feeds is critical to get done quickly
+- Completely open to "attribution" in the product
+- Wants to get to 30k licenses
+- Cost target $1M for all data sources (for the 30k)
 
 ## Palanir/Crisis24 SOW
 
