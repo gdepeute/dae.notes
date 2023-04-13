@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681408019933
+updated: 1681408442742
 created: 1675461426469
 ---
 
@@ -41,6 +41,9 @@ created: 1675461426469
 - Completely open to "attribution" in the product
 - Wants to get to 30k licenses
 - Cost target $1M for all data sources (for the 30k) for 30k users \* 12k/user = $360M
+- 3 year target for 30k users - 10k users first year
+- Large # of seats in big companies, direct sales focused and contacts
+  - Maybe use telesales, or other models to get individuals/smaller number of seats
 
 ## Palanir/Crisis24 SOW
 
