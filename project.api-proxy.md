@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1681426392276
+updated: 1681426434462
 created: 1679703138003
 ---
 
@@ -50,6 +50,7 @@ https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get
   - Also supports <map_service>/<layer_id>/query
 - Map/Image Service
   - Layer identifed as <map_service>?layers=show:<layer_id> or layers=<layer_id>
+  - Also supports <map_service>/export?layers=show:<layer_id> or layers=<layer_id>
 
 ## Layers and Protocols for initial implementation
 
