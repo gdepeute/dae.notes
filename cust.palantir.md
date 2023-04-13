@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681407513444
+updated: 1681408019933
 created: 1675461426469
 ---
 
@@ -40,7 +40,7 @@ created: 1675461426469
   - Finalize initial data feeds is critical to get done quickly
 - Completely open to "attribution" in the product
 - Wants to get to 30k licenses
-- Cost target $1M for all data sources (for the 30k)
+- Cost target $1M for all data sources (for the 30k) for 30k users \* 12k/user = $360M
 
 ## Palanir/Crisis24 SOW
 
