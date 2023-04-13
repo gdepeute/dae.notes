@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681340201712
+updated: 1681405420148
 created: 1675461426469
 ---
 
@@ -12,6 +12,10 @@ created: 1675461426469
 - They work with Crisis24
 - Will demo their application
 - Use cases unclear?
+
+# Call with Chad on 4/13/23
+
+- Showing a demo
 
 ## Palanir/Crisis24 SOW
 
@@ -23,8 +27,7 @@ created: 1675461426469
     - https://apps.pdc.org/msf/rest/services/global/pdc_active_hazards/Mapserver (6: Recent_Earthquakes)
   - Earthquake Intensity Zones
     - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (9: Earthquake Intensity Zones)
-  - Shaking Intensity (ShakeMap Model)
-    -
+  - ## Shaking Intensity (ShakeMap Model)
   - Tectonic Plate Boundaries
     - https://org-disasteralert.pdc.org/msf/rest/services/global/pdc_hazard_zones/MapServer (6: Tectonic Plate Boundaries)
 
