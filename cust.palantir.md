@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Palantir
 desc: ""
-updated: 1681405420148
+updated: 1681405593372
 created: 1675461426469
 ---
 
@@ -15,7 +15,8 @@ created: 1675461426469
 
 # Call with Chad on 4/13/23
 
-- Showing a demo
+- Showing a demo / presentation deck
+- "Dynamic Risk Library" - SW tool to enable clients to increase revenue (decrease losses), to yield strategic insights
 
 ## Palanir/Crisis24 SOW
 
