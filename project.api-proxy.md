@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1681426168697
+updated: 1681426274542
 created: 1679703138003
 ---
 
@@ -41,7 +41,12 @@ https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get
 
 - In order to test with DAE app, the authorizer needs to support some requests will come thru without Bearer tokens, so still do path matching, but (for testing) ignore if no token comes thru
 
-- Need explicit path for
+## Map Service Details
+
+### ArcGIS Servers
+
+- Feature Service
+- Map/Image Service
 
 ## Layers and Protocols for initial implementation
 
