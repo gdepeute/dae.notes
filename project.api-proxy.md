@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1680808549565
+updated: 1681401757029
 created: 1679703138003
 ---
 
@@ -29,52 +29,14 @@ https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get
 ## JWT Validation
 
 - Give the custom nature of our JWT tokens, we need to implement a custom authorizer lambda function
-- Each route can specify a different authorizer
-- We should have a single authorizer with "list of paths mapping to required ROLES" as the path is sent in the request:
+- Each route can specify a different authorizer, but will use same authorizer
 
-```
-{
-    "type":"TOKEN",
-    "authorizationToken":"<Incoming bearer token>",
-    "methodArn":"arn:aws:execute-api:<Region id>:<Account id>:<API id>/<Stage>/<Method>/<Resource path>"
-}
-```
-
-- Sample code for authorizer from ChatGPT:
-
-```
-import json
-from jose import jwt
-import requests
-
-def lambda_handler(event, context):
-    token = event['authorizationToken']
-    methodArn = event['methodArn']
-    try:
-        payload = jwt.decode(token, 'your-secret-key', algorithms=['HS256'])
-        principalId = payload['sub']
-        context = {
-            'sub': principalId
-        }
-        policyDocument = {
-            'Version': '2012-10-17',
-            'Statement': [{
-                'Action': 'execute-api:Invoke',
-                'Effect': 'Allow',
-                'Resource': methodArn
-            }]
-        }
-        return {
-            'principalId': principalId,
-            'policyDocument': policyDocument,
-            'context': context
-        }
-    except Exception as e:
-        print(e)
-        raise Exception('Unauthorized')
-```
-
-- Start with a python lambda authorizer sample
+- Map service types: raster (tiles of bitmaps) or vector (geometry)
+- ArcGIS requests
+  - Mapserver/<layer_id>
+  - Mapserver/export?layer=show:<layer_id>
+- WMS requests
+  - geowebcache_wms?LAYERS=
 
 ## Layers and Protocols for initial implementation
 
