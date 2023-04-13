@@ -2,7 +2,7 @@
 id: w8v5qudwwmj1x018wpy3qvu
 title: API Proxy
 desc: ""
-updated: 1681401757029
+updated: 1681401778480
 created: 1679703138003
 ---
 
@@ -36,7 +36,7 @@ https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get
   - Mapserver/<layer_id>
   - Mapserver/export?layer=show:<layer_id>
 - WMS requests
-  - geowebcache_wms?LAYERS=
+  - geowebcache_wms?LAYERS=<layer_name>
 
 ## Layers and Protocols for initial implementation
 
