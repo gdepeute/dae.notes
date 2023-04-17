@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681750303509
+updated: 1681755191708
 created: 1673230030238
 ---
 
@@ -12,13 +12,17 @@ created: 1673230030238
 - Call with Rory/Scale last Wednesday
 - Crisis24 SOW/support
 
+  - Had meeting with Chad last week regarding pricing
   - Zach question regarding reverse geocoding for Country/Region/State
   - Told him we don't include that in our dataset, but sent him python sample code using ArcGIS reverse geocoder.
   - Asked him that if it was a drop dead not having that, to let us know
 
+- Discovered a couple of Enterprise configuration issues
+  - Worked with Cassie/Steve to resolve
 - Aravo pinged about "other customers" and accessing the old API
   - Who are these customers? Thought CocaCola was the only customer?
 - Questions
+
   - Current payroll situation
   - India payment
   - USVP next steps - where is Cabo Matt?
@@ -26,6 +30,14 @@ created: 1673230030238
   - Any update re: IQgeo?
   - Any update OliverW?
   - CSL/Behring starting to poke at API
+
+- Updates
+  - Bob says we got the $60k from PayPlan
+  - Bob asked about invoicing PDC, says we can invoice, says it would be 15 days I suspect
+  - Bob suggests Steve/USVP is in, but Matt its unclear
+  - Matt's concern "will we scale"
+    - Asked "Why did Interos drop out?"
+    - Asked "Why did Citrix drop out?"
 
 # EStaff 4/10/23
 
