@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681750206119
+updated: 1681750303509
 created: 1673230030238
 ---
 
@@ -25,6 +25,7 @@ created: 1673230030238
   - Any contact from Shell?
   - Any update re: IQgeo?
   - Any update OliverW?
+  - CSL/Behring starting to poke at API
 
 # EStaff 4/10/23
 
