@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681750037824
+updated: 1681750206119
 created: 1673230030238
 ---
 
@@ -16,12 +16,15 @@ created: 1673230030238
   - Told him we don't include that in our dataset, but sent him python sample code using ArcGIS reverse geocoder.
   - Asked him that if it was a drop dead not having that, to let us know
 
+- Aravo pinged about "other customers" and accessing the old API
+  - Who are these customers? Thought CocaCola was the only customer?
 - Questions
   - Current payroll situation
   - India payment
   - USVP next steps - where is Cabo Matt?
   - Any contact from Shell?
   - Any update re: IQgeo?
+  - Any update OliverW?
 
 # EStaff 4/10/23
 
