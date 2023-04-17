@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681757031354
+updated: 1681758205941
 created: 1673230030238
 ---
 
@@ -45,6 +45,10 @@ created: 1673230030238
   - Hearing lots of budget issues?
   - 7,8 prospects "love" the poroduct, but have no budget
   - Good momemntun in the insurance game
+  - "Struggle", "grind"...
+  - Campiagn to go after 5-7 prospects/week
+  - Had not thought about airlines
+  - $60k current Q2
 
 # EStaff 4/10/23
 
