@@ -2,9 +2,26 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681153736389
+updated: 1681750037824
 created: 1673230030238
 ---
+
+# EStaff 4/17/23
+
+- API prototype, nearing completion for Crisis24 use case, but designed for flexibility
+- Call with Rory/Scale last Wednesday
+- Crisis24 SOW/support
+
+  - Zach question regarding reverse geocoding for Country/Region/State
+  - Told him we don't include that in our dataset, but sent him python sample code using ArcGIS reverse geocoder.
+  - Asked him that if it was a drop dead not having that, to let us know
+
+- Questions
+  - Current payroll situation
+  - India payment
+  - USVP next steps - where is Cabo Matt?
+  - Any contact from Shell?
+  - Any update re: IQgeo?
 
 # EStaff 4/10/23
 
