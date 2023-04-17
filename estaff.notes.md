@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681755495968
+updated: 1681757031354
 created: 1673230030238
 ---
 
@@ -32,6 +32,7 @@ created: 1673230030238
   - CSL/Behring starting to poke at API
 
 - Updates
+
   - Bob says we got the $60k from PayPlan
   - Bob asked about invoicing PDC, says we can invoice, says it would be 15 days I suspect
   - Bob suggests Steve/USVP is in, but Matt its unclear
@@ -39,6 +40,11 @@ created: 1673230030238
     - Asked "Why did Interos drop out?"
     - Asked "Why did Citrix drop out?"
   - Current Q2 outlook < $100k FFS
+
+- Sales Update from Keith
+  - Hearing lots of budget issues?
+  - 7,8 prospects "love" the poroduct, but have no budget
+  - Good momemntun in the insurance game
 
 # EStaff 4/10/23
 
