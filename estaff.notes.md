@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1681758205941
+updated: 1681832541635
 created: 1673230030238
 ---
 
@@ -49,6 +49,7 @@ created: 1673230030238
   - Campiagn to go after 5-7 prospects/week
   - Had not thought about airlines
   - $60k current Q2
+    git pus
 
 # EStaff 4/10/23
 
