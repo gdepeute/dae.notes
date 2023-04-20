@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1682010490243
+updated: 1682010779137
 created: 1666285014870
 ---
 
@@ -68,7 +68,11 @@ created: 1666285014870
   - goals: leverage experience with KBR to produce a generic integration for ServiceNow customers
   - yields: another completed integration in the ITSM/ITOM space
 - Investigate Integrations into Supply Chain Management Products
-  - goals: investigate Oracle SCM, SAP Ariba,
+  - goals: investigate Oracle SCM, SAP Ariba, ...
+  - yields: better combined solutions leveraging our extensive and over two decade of historical data
+- Investigate Integrations into Insurance Products
+  - goals: investigate LexisNexis Risk Solutions, RMS, AIR Worldwide, ...
+  - yields: better combined solutions leveraging our extensive and over two decade of historical data
 
 # Active 4/5/23
 
