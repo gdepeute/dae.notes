@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1682010301804
+updated: 1682010490243
 created: 1666285014870
 ---
 
@@ -67,6 +67,8 @@ created: 1666285014870
 - ServiceNow Integration (1-2 man months)
   - goals: leverage experience with KBR to produce a generic integration for ServiceNow customers
   - yields: another completed integration in the ITSM/ITOM space
+- Investigate Integrations into Supply Chain Management Products
+  - goals: investigate Oracle SCM, SAP Ariba,
 
 # Active 4/5/23
 
