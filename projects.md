@@ -2,9 +2,71 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1680726618461
+updated: 1682010301804
 created: 1666285014870
 ---
+
+# Roadmap Proposal - All - 4/20/2023
+
+## Projects
+
+- Improved Data Architecture (2-3 man months)
+  - goals: new streaming/pipelined based architecture
+  - yields: performance improvments, simplifies new feature creation, ultimate cost savings
+- Infrastructure moderinzation (2 man months)
+  - goals: retire legacy monolithic services, re-implement within the new data architecture and streaming services
+  - yeilds: cost savings, reduce complexity, brings more services into common framework/design
+- DAE 7.5 (2 man months)
+  - goals: improved onboarding flow for customers, dramatically simplifies initial setup/configuration
+  - yields: better customer onboarding experience
+- DAE 7.6 (2-3 man months)
+  - goals: WMS feature improvements, layer monitoring improvements, ...
+  - yields: more robust and stable end user experience
+- IAEA Phase 2 - Custom Reports (2 man months)
+  - goals: custom reports for IAEA, leveraged/customized for customers like Mercedes Benz and others, adds Air Quality to Wildfire Repors
+  - yields: much improved and more informational wildfire reports
+- IAEA Phase 3 - Custom Reports (2 man months)
+  - goals: adds floods, volcanic eruptions, ...
+  - yields: additional custom reports which can be upsold to customers
+- DASv4 for DA (1 man month)
+  - goals: migrate last holdout to new notifications system
+  - yields: cost savings, unified notifications across all installations
+- Organizations Improvement (1-2 man months)
+  - goals: improve organizations component to make it easier to manage/add/change users, ultimately end user admin facing
+  - yields: reduces current support burden, paves the way for large customer installations to be self-service
+- Private Instance improvements (2 man months)
+  - goals: streamline and optimize private instance deployment flow, dramatically reduce time, brings deployment time down to hours from days
+  - yields: dramtic speedup to on-boarding, will enable more customized trials when we can bring up/down the private instances quickly
+- API improvements (2 man months)
+  - goals: add historical hazards data, and layers data to the DaaS API
+  - yields: more data to sell, thus more ARR
+- Asset Summary Reports (3 man months)
+  - goals: extend existing asset centric notification system to provide report summaries of all assets impacted by a hazard
+  - yields: for customers with large number of assets, provides a better summarized view
+- Travel Tracker integration (1-2 man months)
+  - goals: bring dynamic assets (travelling employees) into asset centric notification system, initially built for Citrix
+  - yields: another integration of dynamic asset data to the completed integrations
+- Asset Management Solution (3-6 man months)
+  - goals: end user asset manangement solutions, allows ease of use creation of asset groups, relationships, notification preferences, reporting...
+  - yields: allows customer to self-service/manage their assets
+- Web Hook Notification Support (1 man month)
+  - goals: allows integration of notifications (hazard specific and/or asset/hazard specific) into other systems which support webhooks.
+  - yields: as many systems support incoming data via webhooks, this opens up many more integrations
+- Streaming Hazards API (1 man month)
+  - goals: add streaming endpoint for active hazards to API as alternative to polling
+  - yields: more efficient way to receive data, assures no data is missed/lost, and delivers data in real time
+- Data Improvements (3-6 man months)
+  - goals: continual improvments and addition of data to the existing hazards/incidents, addition of impact data, hazard evolution, better description/geometries leveraging ML models
+  - yields: constantly improving data products
+- Layer Improvements (3-6 man months)
+  - goals: continual addition of high impact, useful layers to the system based on customer needs/requirements, create custom customer layers
+  - yields: constantly improving data products
+- Moogsoft Integration (1-2 man months)
+  - goals: leverage work for Shell to produce a generic integration for Moogsoft customers
+  - yields: another completed integration in the ITSM/ITOM space
+- ServiceNow Integration (1-2 man months)
+  - goals: leverage experience with KBR to produce a generic integration for ServiceNow customers
+  - yields: another completed integration in the ITSM/ITOM space
 
 # Active 4/5/23
 
