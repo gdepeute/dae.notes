@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1682011247542
+updated: 1682011269984
 created: 1666285014870
 ---
 
@@ -56,7 +56,7 @@ created: 1666285014870
   - goals: add streaming endpoint for active hazards to API as alternative to polling
   - yields: more efficient way to receive data, assures no data is missed/lost, and delivers data in real time
 - Data Improvements (3-6 man months)
-  - goals: continual improvments and addition of data to the existing hazards/incidents, addition of impact data, hazard evolution, better description/geometries leveraging ML models
+  - goals: continual improvements and addition of data to the existing hazards/incidents, addition of impact data, hazard evolution, better description/geometries leveraging ML models
   - yields: constantly improving data products
 - Layer Improvements (3-6 man months)
   - goals: continual addition of high impact, useful layers to the system based on customer needs/requirements, create custom customer layers
