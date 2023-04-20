@@ -2,7 +2,7 @@
 id: lx1llxfx48r3hw1vambrxbe
 title: Projects
 desc: ""
-updated: 1682010991487
+updated: 1682011247542
 created: 1666285014870
 ---
 
@@ -12,10 +12,10 @@ created: 1666285014870
 
 - Improved Data Architecture (2-3 man months)
   - goals: new streaming/pipelined based architecture
-  - yields: performance improvments, simplifies new feature creation, ultimate cost savings
-- Infrastructure moderinzation (2 man months)
+  - yields: performance improvements, simplifies new feature creation, ultimate cost savings
+- Infrastructure modernization (2 man months)
   - goals: retire legacy monolithic services, re-implement within the new data architecture and streaming services
-  - yeilds: cost savings, reduce complexity, brings more services into common framework/design
+  - yields: cost savings, reduce complexity, brings more services into common framework/design
 - DAE 7.5 (2 man months)
   - goals: improved onboarding flow for customers, dramatically simplifies initial setup/configuration
   - yields: better customer onboarding experience
@@ -36,7 +36,7 @@ created: 1666285014870
   - yields: reduces current support burden, paves the way for large customer installations to be self-service
 - Private Instance improvements (2 man months)
   - goals: streamline and optimize private instance deployment flow, dramatically reduce time, brings deployment time down to hours from days
-  - yields: dramtic speedup to on-boarding, will enable more customized trials when we can bring up/down the private instances quickly
+  - yields: dramatic speedup to on-boarding, will enable more customized trials when we can bring up/down the private instances quickly
 - API improvements (2 man months)
   - goals: add historical hazards data, and layers data to the DaaS API
   - yields: more data to sell, thus more ARR
@@ -47,7 +47,7 @@ created: 1666285014870
   - goals: bring dynamic assets (travelling employees) into asset centric notification system, initially built for Citrix
   - yields: another integration of dynamic asset data to the completed integrations
 - Asset Management Solution (3-6 man months)
-  - goals: end user asset manangement solutions, allows ease of use creation of asset groups, relationships, notification preferences, reporting...
+  - goals: end user asset management solutions, allows ease of use creation of asset groups, relationships, notification preferences, reporting...
   - yields: allows customer to self-service/manage their assets
 - Web Hook Notification Support (1 man month)
   - goals: allows integration of notifications (hazard specific and/or asset/hazard specific) into other systems which support webhooks.
