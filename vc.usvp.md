@@ -2,7 +2,7 @@
 id: xf4i9n7506ju2od6gd37hl6
 title: Usvp
 desc: ""
-updated: 1682091281579
+updated: 1682091367831
 created: 1682089888059
 ---
 
@@ -15,7 +15,7 @@ created: 1682089888059
 
   - SW/Systems Background
   - Ran SW/Quality teams in several systems and chip companies
-  - Spent ~10 years running SW/Quality teams at BRCM, most notably built the Wifi SW team
+  - Spent ~10 years running SW/Quality teams at BRCM and in OCTO, most notably built the Wifi SW team
     - Led the launch of 802.11g into Apple, Dell, HP, MS, Netgear, Linksys, ...
     - Sold billions of chips and production quality software
   - Spent 2.5 years running Quality for Mac Division at Apple
@@ -26,6 +26,7 @@ created: 1682089888059
   - Private instances allow us near infinite customization of data and system configuration options
   - Rapid prototyping allows early and deep engagements with customers
     - Built and deployed asset centric smart alert system with MB and Daimler a couple years ago
+    - Includes dynamic asset support, system runs with flights, cars, taxis, people moving around the world
     - Prototypes asset summary reports
     - Built multiple integrations
     - Expanded API to include historical hazards and all hosted layer data
