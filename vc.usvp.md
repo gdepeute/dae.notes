@@ -2,7 +2,7 @@
 id: xf4i9n7506ju2od6gd37hl6
 title: Usvp
 desc: ""
-updated: 1682091067188
+updated: 1682091230951
 created: 1682089888059
 ---
 
@@ -25,4 +25,11 @@ created: 1682089888059
   - We have much more data in our systems that we currently expose, allowing us to continue to build more valuable data products
   - Private instances allow us near infinite customization of data and system configuration options
   - Rapid prototyping allows early and deep engagements with customers
-  -
+    - Built and deployed asset centric smart alert system with MB and Daimler a couple years ago
+    - Prototypes asset summary reports
+    - Built multiple integrations
+    - Expanded API to include historical hazards and all hosted layer data
+    - Have complete analytics understanding of the system
+      - Complete API anayltics at call granularity
+      - Detailed user reports down to all actions within the app
+      -
