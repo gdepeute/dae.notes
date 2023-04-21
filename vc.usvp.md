@@ -2,7 +2,7 @@
 id: xf4i9n7506ju2od6gd37hl6
 title: Usvp
 desc: ""
-updated: 1682091230951
+updated: 1682091281579
 created: 1682089888059
 ---
 
@@ -32,4 +32,5 @@ created: 1682089888059
     - Have complete analytics understanding of the system
       - Complete API anayltics at call granularity
       - Detailed user reports down to all actions within the app
-      -
+      - Track user errors
+      - Track service/layer issues and alert to allow us to fix before customer finds out
