@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1682358237583
+updated: 1682358347861
 created: 1673230030238
 ---
 
@@ -11,7 +11,9 @@ created: 1673230030238
 - API prototype, working on basic documentation so we can enable Crisis24 as soon as $ come in
 - Experimented with streaming hazards using SSE, works, could add to API in future release
 - OliverWyman check in tomorrow, they've hit API 2200 times since 4/13
--
+- USVP meeting with Steve/Matt
+- Created map service for Joseph Spain at MB Cars
+- Created map services for Jeff Dean/Databricks
 
 - Questions
   - Rory update?
