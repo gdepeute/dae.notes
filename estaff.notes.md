@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1682360123955
+updated: 1682362339055
 created: 1673230030238
 ---
 
@@ -23,6 +23,7 @@ created: 1673230030238
   - Rory update?
   - Payroll?
   - Any update on Aravo?
+  - Pipeline < $50k new business, Shell at $35k, maybe another $100k other
 
 # EStaff 4/17/23
 
