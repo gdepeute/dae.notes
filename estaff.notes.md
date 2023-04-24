@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1682358500750
+updated: 1682359523673
 created: 1673230030238
 ---
 
@@ -19,6 +19,7 @@ created: 1673230030238
 - Questions
   - Rory update?
   - Payroll?
+  - Any update on Aravo?
 
 # EStaff 4/17/23
 
