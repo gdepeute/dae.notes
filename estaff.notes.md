@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1682359523673
+updated: 1682360123955
 created: 1673230030238
 ---
 
@@ -15,6 +15,9 @@ created: 1673230030238
 - Created map service for Joseph Spain at MB Cars
 - Created map services for Jeff Dean/Databricks
 - USVP feedback into doc for Bob
+- Pinged Ray/Cassie regarding Crisis24 request for structured location information
+
+  - Taken under advisement, might not be trivial but straightforward?
 
 - Questions
   - Rory update?
