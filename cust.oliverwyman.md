@@ -2,7 +2,7 @@
 id: sh0etjcfzmg23izg436zq34
 title: Oliverwyman
 desc: ""
-updated: 1682435111006
+updated: 1682435239161
 created: 1682434704620
 ---
 
@@ -10,7 +10,7 @@ created: 1682434704620
 
 - Nicholas St. John / Quotech Head of Sales
 - Guillaume / Quotech
-- Tiphaine Ramenason / London
-- Henry
-- Mitch
+- Tiphaine Ramenason / Leading Product and Tech Effort / SW background / London
+- Henry Straud / Front-End Applications / API
+- Mitch Breyer / Software Engineer / Backend
 - Jack Watt / Management of the Project
