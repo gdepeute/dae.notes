@@ -2,7 +2,7 @@
 id: sh0etjcfzmg23izg436zq34
 title: Oliverwyman
 desc: ""
-updated: 1682435239161
+updated: 1682435367729
 created: 1682434704620
 ---
 
@@ -14,3 +14,8 @@ created: 1682434704620
 - Henry Straud / Front-End Applications / API
 - Mitch Breyer / Software Engineer / Backend
 - Jack Watt / Management of the Project
+
+- Works well, had some access issues?
+- Using WKT polygons
+- Questions
+  -
