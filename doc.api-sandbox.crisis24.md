@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683054661317
+updated: 1683054718131
 created: 1683054386243
 ---
 
@@ -12,7 +12,10 @@ created: 1683054386243
 
 Crisis24 has requested access to the historical hazards and 5 layers for their POC effort:
 
-Layers: - Population Density - https://api-sandbox.disasteraware.com/
+Layers:
+
+- Population Density
+  - https://api-sandbox.disasteraware.com/services/geowebcache_wms (LAYERS=pop_dens_2015)
 
 ## Palanir/Crisis24 SOW
 
