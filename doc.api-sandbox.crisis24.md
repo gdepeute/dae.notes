@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683055503841
+updated: 1683055555435
 created: 1683054386243
 ---
 
@@ -27,4 +27,8 @@ Layers:
 
 ## Accessing WMS Map Servers
 
-Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/services/wms/reference.html#operations)
+Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/services/wms/reference.html#operations) for details on how to query WMS map servcies.
+
+## Accessing ARCGIS Map Servers
+
+Please refer to
