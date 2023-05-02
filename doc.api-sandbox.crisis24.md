@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683059923287
+updated: 1683060222317
 created: 1683054386243
 ---
 
@@ -37,7 +37,7 @@ As shown in the documentaiton, a authorization token MUST be submitted with ever
 
 The endpoint for fetching historical hazards: - https://api-sandbox.disasteraware.com/historical_hazards
 
-You MUST supply search terms to this endpoint in order to limit the responses to be returned. There is a limit of 1000 matches which will be returned. This endpoint does NOT support paging.
+You MUST supply a search term to this endpoint in order to limit the matches to be returned. There is a limit of 1000 matches which can be returned. This endpoint does NOT support paging.
 
 In order to determine whether your request would return fewer than 1000 matches, it is recommended you use https://api-sandbox.disasteraware.com/hazards_count with the same exact search string, and if it's a valid search, it will return the number of matches in the response.
 
@@ -60,6 +60,12 @@ The search term loosely models a SQL-like query. The fields which can be used in
 - create_date
   - Hazard creation date, typically used to check between range of dates:
     - Example: create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')
+
+Multi-field example. Searchs for expired WILDFIRE hazard of type EVENT, severity WARNING, created between 5/1/23 and 5/31/23 with "namefoo" (case insensitive) in the hazard_name and "commentfoo" (case insensitive) in the comment_text
+
+```
+https://api-sandbox.disasteraware.com/hazards_count?where=((category_id = 'EVENT')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND (create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')) AND (UPPER(hazard_name) LIKE '%NAMEFOO%') AND ((severity_id = 'WARNING')) AND ((status = 'E')) AND ((type_id = 'WILDFIRE'))
+```
 
 ## Accessing WMS Map Servers
 
