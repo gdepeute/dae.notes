@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683056499374
+updated: 1683058879843
 created: 1683054386243
 ---
 
@@ -37,7 +37,11 @@ As shown in the documentaiton, a authorization token MUST be submitted with ever
 
 The endpoint for fetching historical hazards: - https://api-sandbox.disasteraware.com/historical_hazards
 
-You MUST supply search terms to this endpoint in order to limit the
+You MUST supply search terms to this endpoint in order to limit the responses to be returned. There is a limit of 1000 matches which will be returned. This endpoint does NOT support paging.
+
+In order to determine whether your request would return fewer than 1000 matches, it is recommended you use https://api-sandbox.disasteraware.com/hazards_count with the same exact search string, and if it's a valid search, it will return the number of matches in the response.
+
+The search term loosely models a SQL-like query.
 
 ```
 https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
