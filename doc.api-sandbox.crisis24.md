@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683063865716
+updated: 1683064014668
 created: 1683054386243
 ---
 
@@ -18,11 +18,13 @@ Layers:
   - https://api-sandbox.disasteraware.com/services/geowebcache_wms (LAYERS=pop_dens_2015)
 - Earthquake Locations and Magnitude (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_active_hazards/MapServer (layers=6)
+    - point
 - Earthquake Intensity Zones (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/gloabl/pdc_hazard_zones/MapServer (layers=8)
     - polygon
 - Earthquake Shaking Intensity - ShakeMap Model (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_models/MapServer (layers=6)
+    - polygon
 - Tectonic Plate Boundaries (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=5)
     - polyline
