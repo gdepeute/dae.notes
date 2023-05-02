@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683059559220
+updated: 1683059923287
 created: 1683054386243
 ---
 
@@ -47,25 +47,19 @@ The search term loosely models a SQL-like query. The fields which can be used in
   - Search for expired hazards
 - type_id
   - Hazard type: AVALANCE, TORNADO, WILDFIRE, ...
+    - Example: type_id = 'AVALANCHE' OR type_id = 'WILDFIRE'
 - category_id
   - Hazard category: EVENT, EXERCISE, OTHER, RESPONSE
 - severity_id
   - Hazard severity: WARNING, WATCH, ADVISORY, INFORMATION
 - hazard_name
   - Hazard Name
+    - Example: UPPER(hazard_name) LIKE '%HAWAII%'
 - comment_text
   - Any comment text associated with hazard
 - create_date
   - Hazard creation date, typically used to check between range of dates:
-    - create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')
-
-```
-https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
-```
-
-```
-https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards?app_ids=1342,18&where=((category_id = 'EVENT')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND (create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')) AND (UPPER(hazard_name) LIKE '%NAMEFOO%') AND ((severity_id = 'WARNING')) AND ((status = 'E')) AND ((type_id = 'WILDFIRE'))&orderby=update_date desc
-```
+    - Example: create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')
 
 ## Accessing WMS Map Servers
 
