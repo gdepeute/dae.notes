@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683060222317
+updated: 1683063767885
 created: 1683054386243
 ---
 
@@ -19,11 +19,11 @@ Layers:
 - Earthquake Locations and Magnitude (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_active_hazards/MapServer (layers=6)
 - Earthquake Intensity Zones (ARCGIS)
-  - https://api-sandbox.disasteraware.com/services/gloabl/pdc_hazard_zones/MapServer (layers=9)
+  - https://api-sandbox.disasteraware.com/services/gloabl/pdc_hazard_zones/MapServer (layers=8)
 - Earthquake Shaking Intensity - ShakeMap Model (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_models/MapServer (layers=6)
 - Tectonic Plate Boundaries (ARCGIS)
-  - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=9)
+  - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=5)
 
 The credential created for Crisis24 for this POC effort has been given access to only the resources listed above. Any request outside of that list will return in error.
 
