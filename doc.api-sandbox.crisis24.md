@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683055440531
+updated: 1683055503841
 created: 1683054386243
 ---
 
@@ -26,3 +26,5 @@ Layers:
   - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=9)
 
 ## Accessing WMS Map Servers
+
+Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/services/wms/reference.html#operations)
