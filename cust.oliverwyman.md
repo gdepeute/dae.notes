@@ -2,7 +2,7 @@
 id: sh0etjcfzmg23izg436zq34
 title: Oliverwyman
 desc: ""
-updated: 1683036462791
+updated: 1683036702176
 created: 1682434704620
 ---
 
@@ -19,6 +19,11 @@ created: 1682434704620
 - That would then be viewed by customers in their application
 - Fetch data once, and then distribute it into the different customer instances
 - How are they selling the product?
+- They are on a product journey they are on
+- Working with 5 pilot customers (for free) over the next few months
+- Beta toward the end of the year
+- Launch all of next year (100's?)
+- Looking for a ballpark figure ($50k) to understand what the final agreement might look like
 
 # Marsh/OliverWyman technical checkin 4/25/23
 
