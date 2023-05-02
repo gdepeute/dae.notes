@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683058879843
+updated: 1683058951796
 created: 1683054386243
 ---
 
@@ -41,7 +41,11 @@ You MUST supply search terms to this endpoint in order to limit the responses to
 
 In order to determine whether your request would return fewer than 1000 matches, it is recommended you use https://api-sandbox.disasteraware.com/hazards_count with the same exact search string, and if it's a valid search, it will return the number of matches in the response.
 
-The search term loosely models a SQL-like query.
+The search term loosely models a SQL-like query. The fields which can be used in a query:
+
+- status = 'E'
+  - Search for expired hazards
+-
 
 ```
 https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
