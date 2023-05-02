@@ -2,9 +2,23 @@
 id: sh0etjcfzmg23izg436zq34
 title: Oliverwyman
 desc: ""
-updated: 1682435476695
+updated: 1683036462791
 created: 1682434704620
 ---
+
+# Marsh checkin 5/2/23 - 7am
+
+- Jack Watt / Lead
+- Mitchell Fry
+- Henry Stroud
+
+- Need to understand usage of the data to determine pricing
+- API flow from us to their product
+  - How often it's refreshed is open
+- They would do matching to locations they are interested in
+- That would then be viewed by customers in their application
+- Fetch data once, and then distribute it into the different customer instances
+- How are they selling the product?
 
 # Marsh/OliverWyman technical checkin 4/25/23
 
