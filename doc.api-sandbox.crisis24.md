@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683059128592
+updated: 1683059280446
 created: 1683054386243
 ---
 
@@ -45,14 +45,15 @@ The search term loosely models a SQL-like query. The fields which can be used in
 
 - status = 'E'
   - Search for expired hazards
--
+- category_id
+  - EVENT, EXERCISE,
 
 ```
 https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
 ```
 
 ```
-https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards?app_ids=1342,18&where=((category_id%20%3D%20%27EVENT%27))%20AND%20(UPPER(comment_text)%20LIKE%20%27%25COMMENTFOO%25%27)%20AND%20(create_date%20%3E%3D%20to_date(%272023-05-01%2000%3A00%3A00%27%2C%20%27yyyy-mm-dd%20hh24%3Ami%3Ass%27)%20AND%20create_date%20%3C%3D%20to_date(%272023-05-31%2000%3A00%3A00%27%2C%20%27yyyy-mm-dd%20hh24%3Ami%3Ass%27))%20AND%20(UPPER(hazard_name)%20LIKE%20%27%25NAMEFOO%25%27)%20AND%20((severity_id%20%3D%20%27WARNING%27))%20AND%20((status%20%3D%20%27E%27))%20AND%20((type_id%20%3D%20%27WILDFIRE%27))&orderby=update_date%20desc
+https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards?app_ids=1342,18&where=((category_id = 'EVENT')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND (create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')) AND (UPPER(hazard_name) LIKE '%NAMEFOO%') AND ((severity_id = 'WARNING')) AND ((status = 'E')) AND ((type_id = 'WILDFIRE'))&orderby=update_date desc
 ```
 
 ## Accessing WMS Map Servers
