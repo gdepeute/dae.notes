@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683055865996
+updated: 1683056135895
 created: 1683054386243
 ---
 
@@ -28,6 +28,12 @@ Layers:
 The credential created for Crisis24 for this POC effort has been given access to only the resources listed above. Any request outside of that list will return in error.
 
 ## Accessing Historical Hazards
+
+The endpoint for fetching historical
+
+```
+https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
+```
 
 ## Accessing WMS Map Servers
 
