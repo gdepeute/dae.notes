@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683054718131
+updated: 1683054920395
 created: 1683054386243
 ---
 
@@ -14,8 +14,15 @@ Crisis24 has requested access to the historical hazards and 5 layers for their P
 
 Layers:
 
-- Population Density
+- Population Density (WMS)
   - https://api-sandbox.disasteraware.com/services/geowebcache_wms (LAYERS=pop_dens_2015)
+- Earthquake Locations and Magnitude (ARCGIS)
+  - https://api-sandbox.disasteraware.com/services/pdc_active_hazards/MapServer (layers=6)
+- Earthquake Intensity Zones (ARCGIS)
+  - https://api-sandbox.disasteraware.com/services/pdc_hazard_zones/MapServer (layers=9)
+- Earthquake Shaking Intensity - ShakeMap Model (ARCGIS)
+- Tectonic Plate Boundaries (ARCGIS)
+  - https://api-sandbox.disasteraware.com/services/pdc_hazard_zones/MapServer (layers=9)
 
 ## Palanir/Crisis24 SOW
 
