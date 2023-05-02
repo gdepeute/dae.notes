@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683056135895
+updated: 1683056499374
 created: 1683054386243
 ---
 
@@ -27,9 +27,17 @@ Layers:
 
 The credential created for Crisis24 for this POC effort has been given access to only the resources listed above. Any request outside of that list will return in error.
 
+## Basic API Usage
+
+The basic API documentation resides at https://api-docs.disasteraware.com. For the Crisis24 POC, any time you see a reference to https://api.disasteraware.com, replace with https://api-sandbox.disasteraware.com.
+
+As shown in the documentaiton, a authorization token MUST be submitted with every request to the API with the exception of the /authorize endpoint. The authorization tokens expire after 15 minutes, therefore make sure you are sending a valid token with your requests. If you need a new authorization token, please hit the /authorize endpoint again.
+
 ## Accessing Historical Hazards
 
-The endpoint for fetching historical
+The endpoint for fetching historical hazards: - https://api-sandbox.disasteraware.com/historical_hazards
+
+You MUST supply search terms to this endpoint in order to limit the
 
 ```
 https://services-enterprise.disasteraware.com/hp_srv/services/hazards/t/json/get_hazards_count?app_ids=1342,18&where=((category_id = 'EVENT' OR category_id = 'OTHER')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND
