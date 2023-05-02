@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683055708785
+updated: 1683055865996
 created: 1683054386243
 ---
 
@@ -26,6 +26,8 @@ Layers:
   - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=9)
 
 The credential created for Crisis24 for this POC effort has been given access to only the resources listed above. Any request outside of that list will return in error.
+
+## Accessing Historical Hazards
 
 ## Accessing WMS Map Servers
 
