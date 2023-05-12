@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1683852276876
+updated: 1683852354614
 created: 1675461426469
 ---
 
@@ -45,7 +45,7 @@ created: 1675461426469
 - Large # of seats in big companies, direct sales focused and contacts
   - Maybe use telesales, or other models to get individuals/smaller number of seats
 - Screenshots from call:
-  -
+  - ![Crisis24-1](images/Crisis24-1.png)
 
 ## Palanir/Crisis24 SOW
 
