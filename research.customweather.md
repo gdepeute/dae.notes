@@ -2,7 +2,7 @@
 id: b0zgp002la402f05ths3t37
 title: Customweather
 desc: ""
-updated: 1683851591953
+updated: 1683851652534
 created: 1683851280890
 ---
 
@@ -22,3 +22,4 @@ created: 1683851280890
   - Tropical Storm updates
 - Maps
   - Some overlap (Doppler, Future Doppler, Forecast, Contour, ...)
+- Historical data limited to climate info (temp, winds, humidity, dew point, baro, ...)
