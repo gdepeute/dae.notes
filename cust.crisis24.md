@@ -1,8 +1,8 @@
 ---
 id: mfx9mmod8isg5dwnltt0oom
-title: Palantir
+title: Crisis24
 desc: ""
-updated: 1681408442742
+updated: 1683852276876
 created: 1675461426469
 ---
 
@@ -44,6 +44,8 @@ created: 1675461426469
 - 3 year target for 30k users - 10k users first year
 - Large # of seats in big companies, direct sales focused and contacts
   - Maybe use telesales, or other models to get individuals/smaller number of seats
+- Screenshots from call:
+  -
 
 ## Palanir/Crisis24 SOW
 
