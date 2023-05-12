@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1673971844367
+updated: 1683928887020
 created: 1673313346674
 ---
 
@@ -10,6 +10,12 @@ created: 1673313346674
 
 - Interested in Japan primary, US secondary
 - GIS product for network installers, map view for planning, designing, implementing, servicing network infrastructure
+
+# IQGeo call on 5/11/23 - MDove was NOT in attendance
+
+Cristian introduced the IQGeo partner manager, Jason Burger.
+
+Christian then explained that NESIC has a customer with 800 ships that wants to use DAE. NESIC has a demo planned with them in mid June. He was not ready to disclose the name of the customer. Hitomi will be the contact for coordinating the demo and she will reach out to us as they develop the demo. Christian mentioned that NESIC and their customer will probably want to do an extended POC. He said that he will work to minimize that and we told him that we charge for extended POCs. He agreed and said in Japan that won't be a problem. We agreed to start working on the contracts, so we can have everything in place if the customer wants to move forward. If this goes well, NESIC will be a reseller for DAE in the international market. They are still considering the domestic market. It also sounded like there could still be an opportunity for IQGeo to embed our data as well. We pushed for forecasts and more detail, but this is all Christian is giving up right now.
 
 ## Calls
 
