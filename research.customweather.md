@@ -2,7 +2,7 @@
 id: b0zgp002la402f05ths3t37
 title: Customweather
 desc: ""
-updated: 1683851544960
+updated: 1683851591953
 created: 1683851280890
 ---
 
@@ -20,3 +20,5 @@ created: 1683851280890
   - Tornado "potetial"
   - High surf
   - Tropical Storm updates
+- Maps
+  - Some overlap (Doppler, Future Doppler, Forecast, Contour, ...)
