@@ -2,7 +2,7 @@
 id: b0zgp002la402f05ths3t37
 title: Customweather
 desc: ""
-updated: 1683851652534
+updated: 1683851728535
 created: 1683851280890
 ---
 
@@ -23,3 +23,4 @@ created: 1683851280890
 - Maps
   - Some overlap (Doppler, Future Doppler, Forecast, Contour, ...)
 - Historical data limited to climate info (temp, winds, humidity, dew point, baro, ...)
+- They DO have better language support (80 languages?)
