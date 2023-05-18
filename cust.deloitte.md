@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684443984456
+updated: 1684444144847
 created: 1684433019435
 ---
 
@@ -35,4 +35,8 @@ created: 1684433019435
   - Focus on advanced analytics
 - Anthony Spadaro
 - Ty Yazujian / Data Scientist
+
   - Was at NGA
+
+- Matt would like to see a demo, understand what data is in it, ...
+- Use cases around logistics and supply chain...
