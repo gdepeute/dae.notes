@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684445714786
+updated: 1684446366147
 created: 1684433019435
 ---
 
@@ -43,7 +43,15 @@ created: 1684433019435
 - Matt would like to see a demo, understand what data is in it, ...
 - Use cases around logistics and supply chain...
 - Sheila showed
+
   - Supply chain example in the midwest, traffic, roads closed, ...
   - Cyber
   - Media Panel example as well
   - Sentiment
+
+- More about use cases - Ty
+  - Existing platform (UI) that they'd like to include other data into
+  - UI horseblanket of other tools/data
+  - Reactive/predictive/prescriptive
+  - Contested impacts to supply chain
+  - Non-military vessels leaving port, adversarial vessel impact, how to then deal with the impacts. Contested can be natural hazards, man-made, ...
