@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684444958992
+updated: 1684445107804
 created: 1684433019435
 ---
 
@@ -29,7 +29,7 @@ created: 1684433019435
 - Matthew Nordmoe
 - Anton Sadovnikov
 - Curt Lowry
-- Christine Obadal/ Managing Director - Logistics/Supply Chain
+- Christine (Chris) Obadal/ Managing Director - Logistics/Supply Chain
   - Cnsulting for 20 years in DOD space
   - Military Intelligence Officer
   - Focus on advanced analytics
