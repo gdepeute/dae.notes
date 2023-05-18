@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684444144847
+updated: 1684444728272
 created: 1684433019435
 ---
 
@@ -40,3 +40,7 @@ created: 1684433019435
 
 - Matt would like to see a demo, understand what data is in it, ...
 - Use cases around logistics and supply chain...
+- Sheila showed
+  - Supply chain example in the midwest, traffic, roads closed, ...
+  - Cyber
+  - Media Panel example as well
