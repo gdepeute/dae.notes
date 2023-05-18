@@ -2,13 +2,14 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684433257284
+updated: 1684433476492
 created: 1684433019435
 ---
 
 # Deloitte Prep Call - 5/18/23
 
-- Met with one of the individuals last week
+- Met with one of the individuals (Matthew Nordmoe) last week
+  - Signed up but hasn't actually used the system yet
 - Building something for the US Army
 - DaaS opportunity?
 - Dude spent 20 years in Special Ops
