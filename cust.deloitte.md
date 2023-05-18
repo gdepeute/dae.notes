@@ -2,14 +2,16 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684433476492
+updated: 1684433839561
 created: 1684433019435
 ---
 
 # Deloitte Prep Call - 5/18/23
 
-- Met with one of the individuals (Matthew Nordmoe) last week
+- Met with one of the individuals (Matthew Nordmoe - https://www.linkedin.com/in/matthew-nordmoe-52321830/) last week
   - Signed up but hasn't actually used the system yet
+  - Been at Deloitte for 3.5-4 years
+  - Discovery call was 30 mins
 - Building something for the US Army
 - DaaS opportunity?
 - Dude spent 20 years in Special Ops
@@ -18,3 +20,6 @@ created: 1684433019435
 - Will be several people on the call today
   - Might be several different opportunities at Deloitte
 - Will need to do a demo, and discuss API capabilities and what is possible
+- Johnny suggests the Army has an extensive data base as to where all their assets are, wondering if asset protection might be a use case
+- They are working with PDC on 2 other use cases
+- We will be talking to folks focused on supply chain
