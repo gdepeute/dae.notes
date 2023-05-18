@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684433839561
+updated: 1684443984456
 created: 1684433019435
 ---
 
@@ -23,3 +23,16 @@ created: 1684433019435
 - Johnny suggests the Army has an extensive data base as to where all their assets are, wondering if asset protection might be a use case
 - They are working with PDC on 2 other use cases
 - We will be talking to folks focused on supply chain
+
+# Deloitte Discussion Larger Team - 5/18/23
+
+- Matthew Nordmoe
+- Anton Sadovnikov
+- Curt Lowry
+- Christine Obadal/ Managing Director - Logistics/Supply Chain
+  - Cnsulting for 20 years in DOD space
+  - Military Intelligence Officer
+  - Focus on advanced analytics
+- Anthony Spadaro
+- Ty Yazujian / Data Scientist
+  - Was at NGA
