@@ -2,7 +2,7 @@
 id: npac4bfqppx9jkwc81d6nku
 title: Deloitte
 desc: ""
-updated: 1684445107804
+updated: 1684445714786
 created: 1684433019435
 ---
 
@@ -38,6 +38,7 @@ created: 1684433019435
 - Ty Yazujian / Data Scientist
 
   - Was at NGA
+  - Curious about the API,
 
 - Matt would like to see a demo, understand what data is in it, ...
 - Use cases around logistics and supply chain...
