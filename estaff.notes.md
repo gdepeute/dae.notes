@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684779706228
+updated: 1684780550587
 created: 1673230030238
 ---
 
@@ -29,6 +29,18 @@ created: 1673230030238
   - UI visualization project - as Michelle says, no revenue
   - Johnny working on potential projects, will send to Bob/myself when done
   - IAEA phase 2 completed
+- Johnny met with Kaushik last week
+  - Presented to them a proposal for Extreeme Temperature events
+- Aranldo worked on the Meta 3rd party questionaire
+  - Incorporated my feedback
+- Shell process started on 3/21, initially responded on 4/1
+  - Name change, new TAX ID, PayPlant
+  - PayPlant info forward to Shell on Friday
+- Trying to get AllScripts PO by 6/30 on special 1-time deal
+  - Proposed $150k for perpetual (could run $120k thru PayPlant)
+- Will bill PDC services last day of May, will get paid on 6/15ish
+- Bob's got 2 other investors at 50% at best
+  - JohnH will potentially recommend some other VCs and/or Google
 
 # EStaff 4/24/23
 
