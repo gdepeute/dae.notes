@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684779366517
+updated: 1684779511840
 created: 1673230030238
 ---
 
@@ -20,6 +20,9 @@ created: 1673230030238
 - Crisis24 was meant to respond on Friday, but didn't
 - MapFre decided to push all deals into Q3
 - Trying to bring Shell growth of $35k into this quarter
+- ADP Total Source recommended us to Run, and they are not responding to us
+  - Sorting out timelines internally
+  - Manual check for this payroll
 
 # EStaff 4/24/23
 
