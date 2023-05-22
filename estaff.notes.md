@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684779039828
+updated: 1684779293560
 created: 1673230030238
 ---
 
@@ -16,6 +16,9 @@ created: 1673230030238
 
 - Last hope is John Hessessey on Wednesday
   - Hyper local?
+- Marsh doing markup on the SOW, expected to get it last Friday
+- Crisis24 was meant to respond on Friday, but didn't
+- MapFre decided to push all deals into Q3
 
 # EStaff 4/24/23
 
