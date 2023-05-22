@@ -2,14 +2,20 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684778938788
+updated: 1684779039828
 created: 1673230030238
 ---
 
 # EStaff 5/22/23
 
 - Marsh/Wyman - lot of Q&A back and forth
--
+- Arnaldo hand off is consuming most of time
+- Spam attack yesterday consumed a couple hours to knock it down
+
+  - Will take a few more hours today to unwind our changes
+
+- Last hope is John Hessessey on Wednesday
+  - Hyper local?
 
 # EStaff 4/24/23
 
