@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684779511840
+updated: 1684779706228
 created: 1673230030238
 ---
 
@@ -23,6 +23,12 @@ created: 1673230030238
 - ADP Total Source recommended us to Run, and they are not responding to us
   - Sorting out timelines internally
   - Manual check for this payroll
+  - Benefits run out at the end of the month (May 31)
+  - Natalie reached out to old broker, from years ago which and talking to her today at 3pm
+- Meeting with Ray on Friday
+  - UI visualization project - as Michelle says, no revenue
+  - Johnny working on potential projects, will send to Bob/myself when done
+  - IAEA phase 2 completed
 
 # EStaff 4/24/23
 
