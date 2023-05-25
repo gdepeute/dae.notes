@@ -2,9 +2,19 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1684780550587
+updated: 1685046907780
 created: 1673230030238
 ---
+
+# Bob/Johnny Discussion 5/25/23
+
+- 140k payroll with benefits
+- May 31 payroll is 85k with May deferred payroll for ALL
+- Bob says he's unable to hand out stock until "someone outside the company" sets the price, at which point he would offer common options to employees with vest
+  - Claims there would be acceleration on change of control
+  - Bob's owns all his shares, so not restricted
+  - Believes Bob puts more
+- Deferred comp is "top of the list" according to Bob
 
 # EStaff 5/22/23
 
