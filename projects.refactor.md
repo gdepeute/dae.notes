@@ -2,7 +2,7 @@
 id: kv4e0wfu43ayzjt9k08qb7a
 title: Refactor
 desc: ""
-updated: 1685051451933
+updated: 1685051612699
 created: 1685050966915
 ---
 
@@ -24,5 +24,31 @@ created: 1685050966915
     - [x] dae_hazards.py refactored
     - [x] dae_geomatch.py refactored
     - [x] dae_roomba.py refactored
-    - [ ] dae_notify.py factorered
-    - [ ]
+    - [ ] anti_meridian.py
+    - [ ] clone_magellan.py\*
+    - [ ] dae_am.py\*
+    - [ ] dae_api_config.py\*
+    - [ ] dae_api_setup.py\*
+    - [ ] dae_checkgeo.py\*
+    - [ ] dae_config.py\*
+    - [ ] dae_geomatch.py\*
+    - [ ] dae_geomatch_SAVE.py\*
+    - [ ] dae_hazards_bigquery.py\*
+    - [ ] dae_hazards.py\*
+    - [ ] dae_hazlife.py\*
+    - [ ] dae_historical_hazards.py\*
+    - [ ] dae_ktc.py\*
+    - [x] dae_lou.py\*
+    - [ ] dae_notify.py\*
+    - [ ] dae_summary.py\*
+    - [ ] dae_topics_orig.py\*
+    - [ ] dae_topics.py\*
+    - [ ] dae_uaa.py\*
+    - [ ] dae_users.py\*
+    - [ ] eval_assets.py\*
+    - [ ] eval_hazards.py\*
+    - [ ] expand_sample.py\*
+    - [ ] interos_poc.py\*
+    - [ ] rev_geocode.py\*
+    - [ ] service_api.py
+    - [ ] watch_topics.py\*
