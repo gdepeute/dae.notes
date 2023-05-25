@@ -2,7 +2,7 @@
 id: kv4e0wfu43ayzjt9k08qb7a
 title: Refactor
 desc: ""
-updated: 1685051323449
+updated: 1685051451933
 created: 1685050966915
 ---
 
@@ -22,4 +22,7 @@ created: 1685050966915
 - Individual components
   - DAE_AT
     - [x] dae_hazards.py refactored
-    - [x]
+    - [x] dae_geomatch.py refactored
+    - [x] dae_roomba.py refactored
+    - [ ] dae_notify.py factorered
+    - [ ]
