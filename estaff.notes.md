@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1685046907780
+updated: 1685047275557
 created: 1673230030238
 ---
 
@@ -13,8 +13,12 @@ created: 1673230030238
 - Bob says he's unable to hand out stock until "someone outside the company" sets the price, at which point he would offer common options to employees with vest
   - Claims there would be acceleration on change of control
   - Bob's owns all his shares, so not restricted
-  - Believes Bob puts more
+  - Believe Bob is owning and not vesting his stock
 - Deferred comp is "top of the list" according to Bob
+- Ryan is NOT on the balance sheet, no formal agreement in place
+  - We are not paying him anything at the moment, and don't plan to until we get out of this mess
+- Only thing on the balance sheet is Bob's loans and deferred comp
+  - Does this include Arnaldo after he leaves?
 
 # EStaff 5/22/23
 
