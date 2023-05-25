@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1684875826413
+updated: 1684876266664
 created: 1684534102990
 ---
 
@@ -15,3 +15,7 @@ Arnaldo leaving on 5/26/23
 - IT Wiki is referenced - ping Cassie if don't already have access
 
 # Arnaldo Deployment Review - 5/23/23 2pm
+
+- Reviewing DAE New Stripe Deployment Sequence (Production)
+- CodeCommit Repository per component
+  - All share dae-amibuild
