@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685135096824
+updated: 1685135706319
 created: 1684534102990
 ---
 
@@ -78,6 +78,23 @@ Arnaldo leaving on 5/26/23
 
   - Node process manager
   - Runs on Sentinel box
+  - pm2 is a command on the box (pm2 list)
+  - Issue on Meta instance, the uploder/isOk endpoint fails
+  - Database doesn't exist, thus never worked before
+  -
 
 - EC2
+
   - Some EC2 instances allow connecting with Session Manager which is easier than setting up SSH
+
+- Thomas
+
+  - Ticket #586?
+  - Meta thumbnails not being processed (#dae-aws-sites-alerts)
+  - Database Navigator (DAE-Enterprise)
+
+- Slack channels
+
+  - dae-aws-\*
+
+- 7.6 was done to Meta ONLY, has not been done on Enterprise
