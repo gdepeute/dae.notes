@@ -2,13 +2,35 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1685124201651
+updated: 1685124363497
 created: 1675461426469
 ---
 
 # Crisis24 / Topo1 Project / Mike Gilbert
 
 - Got list of layers Mike is interested in, Michelle will work on the pricing
+  - Population Density
+  - Earthquake Intensity Zones
+  - Historical Earthquakes
+  - Historical Cyclone Tracks
+  - Historical Tsunami Events
+  - Historical Tsunami Run-Up
+  - Historical Large Fires
+  - Volcano Density
+  - Volcano Locations
+  - Historic Volcanic Eruptions
+  - Global Flood Incidents
+  - CDC Travel Notices
+  - Department of State Travel Advisories
+  - Shipping Lanes Zones (USA)
+  - US National Park Service Boundaries (USA)
+  - Federal and Indian Lands (USA)
+  - Military Installation Boundaries (USA)
+- Several integrations in the product determine the pricing
+- Some are included in the base (they eat the cost)
+- He's like it to be "out of the box", everyone gets it
+  - Will depend on pricing
+- 200 users currently
 
 # Engagement with Palantir/Crisis24
 
