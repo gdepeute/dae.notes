@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685129357086
+updated: 1685129548370
 created: 1684534102990
 ---
 
@@ -36,4 +36,4 @@ Arnaldo leaving on 5/26/23
 
 - DeltaPath number I should have - can use that and SMS to that to be forwarded to my phone.
   - No idea where my Deltapath number
-  - Suggests
+  - Suggests to put the DeltaPath number in for recovery/other...
