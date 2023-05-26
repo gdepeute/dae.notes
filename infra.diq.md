@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1684876266664
+updated: 1685128866582
 created: 1684534102990
 ---
 
@@ -18,4 +18,11 @@ Arnaldo leaving on 5/26/23
 
 - Reviewing DAE New Stripe Deployment Sequence (Production)
 - CodeCommit Repository per component
+
   - All share dae-amibuild
+
+- LDAP server - used for VPN credentials and anything behind it (anything \*.us)
+  - Apache Director Studio
+  - Needs VPN connected
+  - 1Password/ldap.tenefit.wan
+  - Jenkins and \*.us respoitories
