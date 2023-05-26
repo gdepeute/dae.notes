@@ -2,9 +2,11 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1683852446924
+updated: 1685124152367
 created: 1675461426469
 ---
+
+#
 
 # Engagement with Palantir/Crisis24
 
