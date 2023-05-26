@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685134758427
+updated: 1685135096824
 created: 1684534102990
 ---
 
@@ -67,4 +67,17 @@ Arnaldo leaving on 5/26/23
       - Scripts look for instance in TechOps - certbot and monitor in eu-west-2
 
 - Elastic
+
   - Elastic and Metric agents are running on some EC2 instances, so if one pauses Elastic, some instances might start throwing errors...
+
+- GoDaddy
+
+  - In 1password
+
+- PM2 - Uploader
+
+  - Node process manager
+  - Runs on Sentinel box
+
+- EC2
+  - Some EC2 instances allow connecting with Session Manager which is easier than setting up SSH
