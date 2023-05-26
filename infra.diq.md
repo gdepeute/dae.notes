@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685134293928
+updated: 1685134758427
 created: 1684534102990
 ---
 
@@ -51,6 +51,7 @@ Arnaldo leaving on 5/26/23
   - Clean up LB's for RA
 
 - AWS Kaazing Main
+
   - Cost Center?
   - Go to Billing Dashboard under main screen
   - Elastic costing $3-4k!
@@ -64,3 +65,6 @@ Arnaldo leaving on 5/26/23
       - Will show prior and upcoming ones
     - July upcoming for repository.kaazing.us - see ticket #591
       - Scripts look for instance in TechOps - certbot and monitor in eu-west-2
+
+- Elastic
+  - Elastic and Metric agents are running on some EC2 instances, so if one pauses Elastic, some instances might start throwing errors...
