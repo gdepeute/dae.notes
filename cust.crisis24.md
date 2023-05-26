@@ -2,11 +2,13 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1685124152367
+updated: 1685124201651
 created: 1675461426469
 ---
 
-#
+# Crisis24 / Topo1 Project / Mike Gilbert
+
+- Got list of layers Mike is interested in, Michelle will work on the pricing
 
 # Engagement with Palantir/Crisis24
 
