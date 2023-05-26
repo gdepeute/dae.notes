@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685132886148
+updated: 1685133150637
 created: 1684534102990
 ---
 
@@ -33,7 +33,9 @@ Arnaldo leaving on 5/26/23
   - admin.google.com, my credentials mike.dove@tenefit.com already set up
   - There is an Archive Manager account with GDrive associated (456GB)
   - You might need to archive/download and then push nto Archive Manager GDrive
-  - In some cases you need to login as the individual user in order to perform a TakeOut (data archive)
+  - In some cases you need to login as the individual user in order to perform a TakeOut (data archive), and might need to disable 2FA
+  - When user passwords are changed, they are stored in Archive Manager entry in 1Password
+  - When Delete User, asks if you want to Transfer, select Archive Manager, and it will push the data there
 
 - DeltaPath number I should have - can use that and SMS to that to be forwarded to my phone.
   - No idea where my Deltapath number
