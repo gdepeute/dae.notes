@@ -2,7 +2,7 @@
 id: pamfjr2m652j0p05ecrllpb
 title: Diq
 desc: ""
-updated: 1685128866582
+updated: 1685129357086
 created: 1684534102990
 ---
 
@@ -22,7 +22,18 @@ Arnaldo leaving on 5/26/23
   - All share dae-amibuild
 
 - LDAP server - used for VPN credentials and anything behind it (anything \*.us)
+
   - Apache Director Studio
   - Needs VPN connected
   - 1Password/ldap.tenefit.wan
   - Jenkins and \*.us respoitories
+
+- GMail
+
+  - admin.google.com, my credentials mike.dove@tenefit.com already set up
+  - There is an Archive Manager account with GDrive associated (456GB)
+  - You might need to archive/download and then push nto Archive Manager GDrive
+
+- DeltaPath number I should have - can use that and SMS to that to be forwarded to my phone.
+  - No idea where my Deltapath number
+  - Suggests
