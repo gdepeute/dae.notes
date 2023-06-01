@@ -2,7 +2,7 @@
 id: apjf9eubaor6pdhri877evz
 title: Ray
 desc: ""
-updated: 1685661289274
+updated: 1685661696744
 created: 1685660846798
 ---
 
@@ -27,3 +27,6 @@ created: 1685660846798
   - This is 35 man weeks, or 17-18 weeks for Johnny/Thomas
 - UFERS going a different route that prior years
   - Goes via Janice (?), much more restrictive and require more documentation
+- Two remaining projects
+  - Asset protection
+  - Push notification / mobile location tracking
