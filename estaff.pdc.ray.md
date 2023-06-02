@@ -2,7 +2,7 @@
 id: apjf9eubaor6pdhri877evz
 title: Ray
 desc: ""
-updated: 1685663575390
+updated: 1685665547936
 created: 1685660846798
 ---
 
@@ -44,3 +44,12 @@ created: 1685660846798
     - For example, separate hazard type layers in his mind is like the floods, dealing with a UI issue (too much noise)
   - Suggest heat maps would be something we might work on
 - Ray has a discretionary pool of $ he's built up over the years for "emergencies"
+- Maintenance contract is $25k/month
+- Johnny spending 3/4 of his time on NEW projects - $20k/month
+- Ray could make up an extra $5k to be total of $50k
+- Still $50+k short on monthly cash flow
+- Now Ray proposes a higher amount (maybe total of $75k/month)
+  - He understands how fucked we are, but he's also feeling screwed
+- He REALLY needs existing projects done by September - critical
+- He's willing for us to bill ahead, but we need to get "some" work done
+- Will help to create a buffer for 3-4 months to get us to September
