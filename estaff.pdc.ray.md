@@ -2,7 +2,7 @@
 id: apjf9eubaor6pdhri877evz
 title: Ray
 desc: ""
-updated: 1685661696744
+updated: 1685663575390
 created: 1685660846798
 ---
 
@@ -30,3 +30,17 @@ created: 1685660846798
 - Two remaining projects
   - Asset protection
   - Push notification / mobile location tracking
+- UFERS, pushing for deadlines in 12 months (term of UFER) + 1 year (if he can't get then he'd take 6 months)
+- Ray's thoughts, having discussions on his side
+  - Simplifying the application
+  - Remove unused/less used features
+  - Remove/review data layers
+  - Map engine swap
+  - Wants sister to be able to use the application (heinous - goes against what our customers need)
+  - Trying to find workarounds to add new features because the foundation was done wrong
+  - Flood combining was done to address a UI limitation (noise/filtering)
+  - "Reimagine" the application - FFS
+  - A lot of what's on Johnny's list, he believes that we need to reimagine in a simplified app.
+    - For example, separate hazard type layers in his mind is like the floods, dealing with a UI issue (too much noise)
+  - Suggest heat maps would be something we might work on
+- Ray has a discretionary pool of $ he's built up over the years for "emergencies"
