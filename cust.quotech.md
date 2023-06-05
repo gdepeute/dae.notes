@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1685979974264
+updated: 1685980180187
 created: 1679414246957
 ---
 
@@ -33,6 +33,9 @@ created: 1679414246957
   - Tornado issue, not enough data, need to sort out
   - Access to layers
   - Top hazards - Tornados, Flood, Wildfires
+  - Delivery of more extensive data in 3-4 months
+  - Need Convex to decide what layers or what additional data they'd like
+  - Schedule a call with PDC to understand their feedback
 
 ## OliverWyman
 
