@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1685980180187
+updated: 1685980705940
 created: 1679414246957
 ---
 
@@ -36,6 +36,18 @@ created: 1679414246957
   - Delivery of more extensive data in 3-4 months
   - Need Convex to decide what layers or what additional data they'd like
   - Schedule a call with PDC to understand their feedback
+- We will continue sell SaaS and DaaS products
+- Discussion with Marsh still happening to also sell SaaS solution
+- Opportunties
+  - Marsh POC enablement
+  - AON, waiting to hear from them
+  - Another part of Marsh (UK), offer SaaS to their clients
+  - Convex discussions regarding Exposure Module
+  - Target end of year for revenue
+- Underwriters Workbench / Exposure Module - 3 months
+  - Convex as lead/initial customer
+  - Demo in September to 3-4 other insurers
+  - Other opportunities - AXA, Cox, Troisa, Aviva for September
 
 ## OliverWyman
 
