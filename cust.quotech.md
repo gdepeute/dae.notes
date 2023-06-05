@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1685979069427
+updated: 1685979758562
 created: 1679414246957
 ---
 
@@ -10,7 +10,28 @@ created: 1679414246957
 
 ### Call with Guillaume - 6/5/23
 
-- Also on the call Nicholas St. John
+- Also on the call Nicholas St. John - Chief Commerical Officer
+  - 40 years in tech, last 4 years in insurance
+- Bob explaining the CAC was too high
+  - Focus on insurance, DaaS offering, exploit the PDC exclusivity
+- Bob has hooked Jeremy up with Guillaume
+- Can't sell the current UI to the Insurance companies
+  - Doesn't work, their locations continue to change
+  - Medium insurer insure 50-70M
+  - Large insurer insure up to 1B
+- Underwriters workbench, thus pull the data into their system
+- Sell the data that Quotech has integrated into their platform
+  - Two tiers of API
+  - Simple for early warning systems
+  - Second includes much more information
+  - Started the discussion with Michelle
+- Marsh/OliverWyman POC, hopefully sign POC agreement this week
+- In discussions with AON, going VERY slow
+- Cross/upselling our data into the underwriters workbench, and NOT selling the DAE UI
+- Convex is a client that uses our UI
+  - Once Quotech delivers Exposure Module within Underwriters Workbench
+  - Tornado issue, not enough data, need to sort out
+  - Access to layers
 
 ## OliverWyman
 
