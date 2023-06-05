@@ -2,7 +2,7 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1685979758562
+updated: 1685979974264
 created: 1679414246957
 ---
 
@@ -32,6 +32,7 @@ created: 1679414246957
   - Once Quotech delivers Exposure Module within Underwriters Workbench
   - Tornado issue, not enough data, need to sort out
   - Access to layers
+  - Top hazards - Tornados, Flood, Wildfires
 
 ## OliverWyman
 
