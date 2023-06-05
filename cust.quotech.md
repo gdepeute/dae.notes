@@ -2,13 +2,15 @@
 id: n9zf6xhax9jvn6m6wq6sdcj
 title: Quotech
 desc: ""
-updated: 1685978678168
+updated: 1685979069427
 created: 1679414246957
 ---
 
 # Quotech and associated customers Marsh/OliverWyman/...
 
 ### Call with Guillaume - 6/5/23
+
+- Also on the call Nicholas St. John
 
 ## OliverWyman
 
