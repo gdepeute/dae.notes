@@ -2,9 +2,21 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1685124363497
+updated: 1686164952209
 created: 1675461426469
 ---
+
+# Crisis24 / Chad Lesch / Call on 6/7/23
+
+- First 6 months steering committee meeting - successful
+- John Michel / Chad's boss / 2nd in command and GuardaWorld
+- Alex Carp / Palantir #2
+- Chad is authorized to sign the PO for the POC
+- Sounds like it won't block to get moving on the POC
+- They want to pay for data, they want to own the data
+- Different cultural approach to how "they" think about paying for data
+- Get us PO and we will get started on the POC
+- Dynamic Risk Library is the name of the product
 
 # Crisis24 / Topo1 Project / Mike Gilbert
 
