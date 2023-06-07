@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686168225254
+updated: 1686168405446
 created: 1675461426469
 ---
 
@@ -36,6 +36,10 @@ created: 1675461426469
 - See their assets, and threats to assets
 - Topo1
 - Always looking for more data to add to their platform
+- Currently has 15 customers, looking to hit 30 by the end of the year
+- Acquired by Crisis24 in January
+
+  - Being sold by the Crisis24 sales team
 
 - Got list of layers Mike is interested in, Michelle will work on the pricing
   - Population Density
