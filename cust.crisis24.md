@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686165875697
+updated: 1686166172371
 created: 1675461426469
 ---
 
@@ -27,6 +27,7 @@ created: 1675461426469
 - In the business to help western businesses to make $
 - Channel/sales strategy is unclear - outside the normal rolodex
   - Hedge fund, business developments, ... revenue centers
+- They have global maritime data 6 months in advance of all shipping/manifests/ports/...
 
 # Crisis24 / Topo1 Project / Mike Gilbert
 
