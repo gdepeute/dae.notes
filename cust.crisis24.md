@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686164952209
+updated: 1686165875697
 created: 1675461426469
 ---
 
@@ -17,6 +17,16 @@ created: 1675461426469
 - Different cultural approach to how "they" think about paying for data
 - Get us PO and we will get started on the POC
 - Dynamic Risk Library is the name of the product
+- Palantir gets 15% of the cost rigth out of the gate
+- Other data streams are flat fee (80-120k was mentioned)
+- Targeting folks "So What" and "Now What" reaction to events
+- Palladium (catalytic converter) and neon gas (silicon lasers) coming out of Ukraine
+  - impact to the world
+  - opportunities to make $
+- North Korean Missle launch immeditately impacts the Yuan in China within 96 hours
+- In the business to help western businesses to make $
+- Channel/sales strategy is unclear - outside the normal rolodex
+  - Hedge fund, business developments, ... revenue centers
 
 # Crisis24 / Topo1 Project / Mike Gilbert
 
