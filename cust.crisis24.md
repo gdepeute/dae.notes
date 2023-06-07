@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686166172371
+updated: 1686168133550
 created: 1675461426469
 ---
 
@@ -29,7 +29,12 @@ created: 1675461426469
   - Hedge fund, business developments, ... revenue centers
 - They have global maritime data 6 months in advance of all shipping/manifests/ports/...
 
-# Crisis24 / Topo1 Project / Mike Gilbert
+# Crisis24 / Topo1 Project / Mike Gilbert / Update on 6/7/23
+
+- Got the list below previously
+- Security centers - common operating picture
+- See their assets, and threats to assets
+- Topo1
 
 - Got list of layers Mike is interested in, Michelle will work on the pricing
   - Population Density
