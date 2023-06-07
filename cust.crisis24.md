@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686168405446
+updated: 1686168613723
 created: 1675461426469
 ---
 
@@ -40,6 +40,11 @@ created: 1675461426469
 - Acquired by Crisis24 in January
 
   - Being sold by the Crisis24 sales team
+
+- Building a marketplace idea in Topo1
+
+  - This is a very baaad idea
+  - But could offer individial layers that way
 
 - Got list of layers Mike is interested in, Michelle will work on the pricing
   - Population Density
