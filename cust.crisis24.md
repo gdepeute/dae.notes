@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686168133550
+updated: 1686168225254
 created: 1675461426469
 ---
 
@@ -35,6 +35,7 @@ created: 1675461426469
 - Security centers - common operating picture
 - See their assets, and threats to assets
 - Topo1
+- Always looking for more data to add to their platform
 
 - Got list of layers Mike is interested in, Michelle will work on the pricing
   - Population Density
