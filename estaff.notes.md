@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1686768551098
+updated: 1686776715819
 created: 1673230030238
 ---
 
@@ -25,6 +25,13 @@ created: 1673230030238
   - Move out expiration for IQGEO? NESIC? Palantir?
   - Move out Marsh (OliverWyman), yes.
   - Did we get Stryker (they are expired)?
+
+## Discussion with Michelle at 6/14/23 2pm
+
+- Stryker - Bob will check with Natalie in call later
+- Sitecore - Michelle
+  - 5 seats @ $30k/year
+  - Don't have cash until July, Michelle was trying to get PO
 
 # Bob/Johnny Discussion 5/25/23
 
