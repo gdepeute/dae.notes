@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1686768137610
+updated: 1686768551098
 created: 1673230030238
 ---
 
@@ -16,6 +16,7 @@ created: 1673230030238
 - Meeting with Michelle at 2pm today
 - AllScripts 120k at the end of the month
 - After payroll (today) - ~40k in bank
+- Without Bob, payroll is about $35k
 
   - Got approval from the CEO
   - Wants effective date to be 3/2024
