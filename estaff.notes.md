@@ -2,9 +2,26 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1685047275557
+updated: 1686767777596
 created: 1673230030238
 ---
+
+# EStaff 6/14/23
+
+- New insurance and payroll company - pain in the ass
+- Need to find someone to replace Zena
+- Neerav doesn't want to fund the Crisis24 PO - he doesn't want to do Development Invoices
+- Sitecore vendor onboarding
+- Haven't heard from shipping company Michelle was working with
+- Meeting with Michelle at 2pm today
+- AllScripts 120k at the end of the month
+
+  - Got approval from the CEO
+  - Wants effective date to be 3/2024
+
+- Questions
+  - Move out expiration for IQGEO?
+  - Move out Marsh?
 
 # Bob/Johnny Discussion 5/25/23
 
