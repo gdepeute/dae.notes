@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1686776715819
+updated: 1686777035456
 created: 1673230030238
 ---
 
@@ -32,6 +32,10 @@ created: 1673230030238
 - Sitecore - Michelle
   - 5 seats @ $30k/year
   - Don't have cash until July, Michelle was trying to get PO
+  - Was trying to give them a month free (June), to get PO now, billing to occur in July
+    - Something Keith offered them
+  - Plan was contract in June, PO in July, ...
+  - Michelle is under the impression they won't issue until July
 
 # Bob/Johnny Discussion 5/25/23
 
