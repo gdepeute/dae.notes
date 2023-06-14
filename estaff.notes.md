@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1686767777596
+updated: 1686767837308
 created: 1673230030238
 ---
 
@@ -20,8 +20,9 @@ created: 1673230030238
   - Wants effective date to be 3/2024
 
 - Questions
-  - Move out expiration for IQGEO?
+  - Move out expiration for IQGEO? NESIC? Palantir?
   - Move out Marsh?
+  - Did we get Stryker?
 
 # Bob/Johnny Discussion 5/25/23
 
