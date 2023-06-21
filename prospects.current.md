@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687365212921
+updated: 1687365289932
 created: 1687363951053
 ---
 
@@ -32,3 +32,4 @@ kfisher@readyzonehq.com
 ## HubSpot Trial Users Leads - Initial email contact sent on 6/21/23
 
 tampemm7@gmail.com
+nareshpatil025@gmail.com
