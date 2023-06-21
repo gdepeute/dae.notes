@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687364749489
+updated: 1687364824578
 created: 1687363951053
 ---
 
@@ -25,5 +25,7 @@ bernadus.hananto@cartenz.co.id
 candace@planet.com
 ritu.malhotra@pwc.com
 warrenlarson1077@gmail.com
+pratisig.consulting@gmail.com
+MCovert@readyzonehq.com
 
 ## HubSpot Trial Users Leads - Initial email contact sent on 6/21/23
