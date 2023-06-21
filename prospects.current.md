@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687364253757
+updated: 1687364367548
 created: 1687363951053
 ---
 
@@ -13,5 +13,7 @@ created: 1687363951053
 nicholasfarr@iem-consult.com
 mado.takahashi@ntt.com
 amonrubia@acciona.com
+visantiagog.bec@acciona.com
+ali@phcglobal.com
 
 ## HubSpot Trial Users Leads - Initial email contact sent on 6/21/23
