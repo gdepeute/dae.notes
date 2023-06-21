@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687364533691
+updated: 1687364598990
 created: 1687363951053
 ---
 
@@ -19,5 +19,7 @@ fernando.ramos@pcppi.com.ph
 DKienmoser@munichre.com
 angelina.gibson@pge.com
 lynda.arakelian@telluscivicscience.com
+svnpty2510@gmail.com
+osvan@outlook.co.id
 
 ## HubSpot Trial Users Leads - Initial email contact sent on 6/21/23
