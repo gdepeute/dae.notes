@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687365491056
+updated: 1687365564361
 created: 1687363951053
 ---
 
@@ -39,3 +39,6 @@ bellavalentine558@gmail.com
 nbauman@stellar22.com
 ytnew42@gmail.com
 vimiha345@esa.com
+sojihaf@ecommerce.com
+
+antonio.guglielmelli@gmail.com
