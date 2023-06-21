@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687364598990
+updated: 1687364673951
 created: 1687363951053
 ---
 
@@ -21,5 +21,7 @@ angelina.gibson@pge.com
 lynda.arakelian@telluscivicscience.com
 svnpty2510@gmail.com
 osvan@outlook.co.id
+bernadus.hananto@cartenz.co.id
+candace@planet.com
 
 ## HubSpot Trial Users Leads - Initial email contact sent on 6/21/23
