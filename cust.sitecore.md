@@ -2,7 +2,7 @@
 id: ws7a57g20ikr2p1jfr0zna7
 title: Sitecore
 desc: ""
-updated: 1687395973854
+updated: 1687396022867
 created: 1687395871888
 ---
 
@@ -12,4 +12,4 @@ created: 1687395871888
 - Have previously set up and use Everbridge - communication module
   - Difficult to use
   - When something goes wrong, too hard/slow to react
--
+- Contract has been signed, invoice progressing
