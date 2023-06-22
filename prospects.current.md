@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687394607888
+updated: 1687394912525
 created: 1687363951053
 ---
 
@@ -33,13 +33,13 @@ kfisher@readyzonehq.com
 
 tampemm7@gmail.com
 nareshpatil025@gmail.com
-dellnet@staff.com
+dellnet@staff.com - EMAIL BOUNCED
 eleanor.evans@coldstoppers.com
 bellavalentine558@gmail.com
 nbauman@stellar22.com
 ytnew42@gmail.com
 vimiha345@esa.com - EMAIL BOUNCED
-sojihaf@ecommerce.com
+sojihaf@ecommerce.com - EMAIL BOUNCED
 antonio.guglielmelli@gmail.com
 jcordero0821@yahoo.com
 ashutoshkumar6200498930@gmail.com
