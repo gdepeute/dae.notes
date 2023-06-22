@@ -2,7 +2,7 @@
 id: ws7a57g20ikr2p1jfr0zna7
 title: Sitecore
 desc: ""
-updated: 1687396273300
+updated: 1687397065369
 created: 1687395871888
 ---
 
@@ -19,3 +19,9 @@ created: 1687395871888
 - Sitecore locations
 - He purchased 5 licenses
   - Will send us the names for the additional licenses
+- Team
+  - Rohinee CIO - SF
+  - Mark L - London
+  - Muto - Malaysis
+  - Max - Canada
+  - Rachel - Dublin
