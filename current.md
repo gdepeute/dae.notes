@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1687802665419
+updated: 1687803518637
 created: 1604337051940
 ---
 
@@ -10,13 +10,14 @@ created: 1604337051940
 
 - Mutu training for Sitecore
   - proposed 6/27 9:30am California
-  - per Bob, awaiting PO
+  - per Bob, awaiting PO, but move forward anyway
 - Muto asking for clarification on alert
   - cover in training?
 - Lightning Strike Density Layer Issues
   - reported by Telus (Todd Maki)
 - Send PDC details regarding Convexin call on 6/26/23
 - Enable Crisis24 POC
+  - Wait until invoice is moved along?
 - Enable Topo1 at the same time?
 - DaaS agreements and attribution clause?
 
