@@ -2,15 +2,19 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1687801315195
+updated: 1687802665419
 created: 1604337051940
 ---
 
 # Current Tracking Items
 
-- Mutu training for Sitecore - proposed 6/27 9:30am California - per Bob, awaiting PO
-- Muto asking for clarification on alert - cover in training?
-- Lightning Strike Density Layer Issues - reported by Telus (Todd Maki)
+- Mutu training for Sitecore
+  - proposed 6/27 9:30am California
+  - per Bob, awaiting PO
+- Muto asking for clarification on alert
+  - cover in training?
+- Lightning Strike Density Layer Issues
+  - reported by Telus (Todd Maki)
 - Send PDC details regarding Convexin call on 6/26/23
 - Enable Crisis24 POC
 - Enable Topo1 at the same time?
