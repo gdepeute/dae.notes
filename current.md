@@ -2,9 +2,17 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1679619506860
+updated: 1687800732325
 created: 1604337051940
 ---
+
+# Current Tracking Items
+
+- Lightning Strike Density Layer Issues - reported by Telus (Todd Maki)
+- Send PDC details regarding Convexin call on 6/26/23
+- Enable Crisis24 POC
+- Enable Topo1 at the same time?
+- DaaS agreements and attribution clause?
 
 # Debug Test Kafka reachability issue
 
