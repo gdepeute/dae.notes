@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687394912525
+updated: 1687801009968
 created: 1687363951053
 ---
 
@@ -14,7 +14,7 @@ nicholasfarr@iem-consult.com
 mado.takahashi@ntt.com
 amonrubia@acciona.com
 visantiagog.bec@acciona.com
-ali@phcglobal.com
+ali@phcglobal.com - RESPONDED 6/23 - Having call on 6/26 or 6/27
 fernando.ramos@pcppi.com.ph
 DKienmoser@munichre.com
 angelina.gibson@pge.com
@@ -40,7 +40,7 @@ nbauman@stellar22.com
 ytnew42@gmail.com
 vimiha345@esa.com - EMAIL BOUNCED
 sojihaf@ecommerce.com - EMAIL BOUNCED
-antonio.guglielmelli@gmail.com
+antonio.guglielmelli@gmail.com - RESPONDED - Runs a similar system to ours, saw the information at IAEA and was interested to learn more. - No interest in purchasing at this time
 jcordero0821@yahoo.com
 ashutoshkumar6200498930@gmail.com
 jefrydalegi575@gmail.com
