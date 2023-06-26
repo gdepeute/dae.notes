@@ -2,15 +2,16 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1687802759477
+updated: 1687802837394
 created: 1673230030238
 ---
 
 # EStaff
 
 - Payroll should LAND by Friday - Bob processed today
-- UofH wants meeting with 8/10 to understand what our business plan is
+- UofH wants meeting with 7/10 to understand what our business plan is
   - We owe them $12k
+- Bob pinged AllScripts guy today, no response
 
 # EStaff 6/14/23
 
