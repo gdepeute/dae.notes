@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687801723132
+updated: 1687801797016
 created: 1687363951053
 ---
 
@@ -47,3 +47,8 @@ jefrydalegi575@gmail.com
 pauljeremiahs22@gmail.com
 wlemke@dadesky.com
 joohyung@korea.kr
+----- Scrubbed list from HubSpot on 6/26
+mado.takahashi@ntt.com
+amanamritmehta@gmail.com
+vjwilliams22@gmail.com
+irem.sahmutoglu@gmail.com
