@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687803747261
+updated: 1687879686612
 created: 1687363951053
 ---
 
@@ -51,7 +51,6 @@ created: 1687363951053
 - wlemke@dadesky.com
 - joohyung@korea.kr
   ----- Scrubbed list from HubSpot on 6/26
-- mado.takahashi@ntt.com (Mado)
 - amanamritmehta@gmail.com (???)
 - vjwilliams22@gmail.com (Vernon)
 - irem.sahmutoglu@gmail.com (Irem)
