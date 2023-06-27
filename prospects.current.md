@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687879686612
+updated: 1687879831923
 created: 1687363951053
 ---
 
@@ -50,7 +50,7 @@ created: 1687363951053
 - pauljeremiahs22@gmail.com
 - wlemke@dadesky.com
 - joohyung@korea.kr
-  ----- Scrubbed list from HubSpot on 6/26
+  ----- Scrubbed list from HubSpot on 6/26, emails sent 6/27
 - amanamritmehta@gmail.com (???)
 - vjwilliams22@gmail.com (Vernon)
 - irem.sahmutoglu@gmail.com (Irem)
