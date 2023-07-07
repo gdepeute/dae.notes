@@ -2,11 +2,19 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1687879831923
+updated: 1688756205753
 created: 1687363951053
 ---
 
 # Current Prospects
+
+## DAE lead - from Tim Luft on 7/7/23
+
+- Organization/Agency Name: SirWay
+- Name: Dr. Konsta Sirvio
+- Title: Managing Director
+- Email: konsta.sirvio@sirway.fi
+- Phone: 408233890
 
 ## DAE Leads - Initial Email contact sent on 6/21/23
 
