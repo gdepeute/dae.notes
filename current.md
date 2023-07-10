@@ -2,24 +2,29 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1687803518637
+updated: 1689013508065
 created: 1604337051940
 ---
 
 # Current Tracking Items
 
-- Mutu training for Sitecore
-  - proposed 6/27 9:30am California
-  - per Bob, awaiting PO, but move forward anyway
-- Muto asking for clarification on alert
-  - cover in training?
+- Crisis24 POC
+- Topo1 POC
+  - Wait until we decide on proposal pricing
+  - Wait until meeting with Johnny/PDC regarding comparison to ???
 - Lightning Strike Density Layer Issues
   - reported by Telus (Todd Maki)
 - Send PDC details regarding Convexin call on 6/26/23
-- Enable Crisis24 POC
-  - Wait until invoice is moved along?
-- Enable Topo1 at the same time?
+  - ???
 - DaaS agreements and attribution clause?
+  - This needs to be in our DaaS agreements
+- PHC Health
+  - trying to schedule
+- Processing leads
+  - Trials
+  - PDC
+  - Need automatic nuture campaign for new leads, not manual process
+- BMC proposal for perpetual license
 
 # Debug Test Kafka reachability issue
 
