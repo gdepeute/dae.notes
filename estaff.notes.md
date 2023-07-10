@@ -2,9 +2,16 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1687802837394
+updated: 1689013182145
 created: 1673230030238
 ---
+
+# EStaff 7/10/23
+
+- Cobra letters shipped on 7/7, should arrive any day... Fingers crossed
+- UofH meeting on Wednesday
+  - They will want to hear about sales and marketing and revenue potential
+  -
 
 # EStaff
 
