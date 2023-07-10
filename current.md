@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1689013508065
+updated: 1689014286314
 created: 1604337051940
 ---
 
@@ -25,6 +25,8 @@ created: 1604337051940
   - PDC
   - Need automatic nuture campaign for new leads, not manual process
 - BMC proposal for perpetual license
+- OliverWyman/Marsh
+  - POC single seat API calls
 
 # Debug Test Kafka reachability issue
 
