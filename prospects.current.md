@@ -2,16 +2,16 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1689636484154
+updated: 1689636545885
 created: 1687363951053
 ---
 
 # Current Prospects
 
-## DAE leads as of 7/17
+## DAE leads as of 7/17 - sent emails on 7/17
 
 - Robin Blandford - D4H - https://d4h.com/
--
+- Hirokuni Nakanishi - Sumitomo Pharma in Japan
 
 ## DAE lead - from Tim Luft on 7/7/23
 
