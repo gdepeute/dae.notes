@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689795866022
+updated: 1689796310627
 created: 1683054386243
 ---
 
@@ -84,3 +84,110 @@ Please refer to [ARCGIS Map Service](https://developers.arcgis.com/rest/services
 We've included a simple python3 test tool for all the resources Crisis24 is licensed to receive. This includes an example of all licensed resources, and can be used to verify your credentials.
 
 Add the username/password for your `disasterawareingestion@crisis24.com` API account. That is the account we've applied the additional roles to control access to the resources above.
+
+```#!/usr/bin/env python3
+import requests
+import json
+import argparse
+
+API_PATH = "https://api-sandbox.disasteraware.com"
+API_USERNAME = "dae-asset-tracking-mdove"
+API_PASSWORD = "rWXlpnRi5Nbx"
+
+WHERE = "((status = 'E')) AND (create_date >= to_date('2023-03-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-03-02 00:00:00', 'yyyy-mm-dd hh24:mi:ss'))"
+
+hazards_paths = [API_PATH + "/hazards/active"]
+
+historical_hazards_paths = [
+    API_PATH + "/hazards_count?where=" + WHERE,
+    API_PATH + "/historical_hazards?where=" + WHERE,
+]
+
+"""
+
+Crisis24 Layers:
+
+  - (WMS) API_PATH + /services/geowebcache_wms - layer_name: pop_dens_2015
+  - (ARCGIS) API_PATH + /services/global/pdc_active_hazards/Mapserver - layer_id: 6 (Recent_Earthquakes)
+  - (ARCGIS) API_PATH + /services/global/pdc_hazard_zones/MapServer - layer id: 5 (Tectonic Plate Boundaries), layer_id: 8 (Earthquake Intensity Zones)
+  - (ARCGIS) API_PATH + /services/global/pdc_models/MapServer - layer_id: 6 (Shaking Intensity (ShakeMap Model))
+
+"""
+
+map_service_paths = [
+    API_PATH
+    + "/services/geowebcache_wms?service=wms&version=1.1.1&request=GetCapabilities",
+    API_PATH
+    + "/services/geowebcache_wms?service=wms&version=1.1.1&request=GetCapabilities&LAYERS=pop_dens_2015",
+    API_PATH
+    + "/services/geowebcache_wms?LAYERS=pop_dens_2015&format=image/png&version=1.1.1&service=WMS&TRANSPARENT=true&request=GetMap&bboxSR=102100&SRS=EPSG:102100&WIDTH=256&HEIGHT=256&BBOX=5009377.0857,15028128.50729,10018754.17139,20037509.91734&STYLES=",
+    API_PATH + "/services/global/pdc_active_hazards/MapServer?f=json",
+    API_PATH + "/services/global/pdc_active_hazards/MapServer/6?f=json",
+    API_PATH
+    + "/services/global/pdc_active_hazards/MapServer/6/query?f=json&geometryType=esriGeometryEnvelope&outSR=4326&returnGeometry=true&geometry=%7B%22xmin%22%3A15028131.25709%2C%22ymin%22%3A-20048966.10401%2C%22xmax%22%3A20037508.34279%2C%22ymax%22%3A-5621521.48619%2C%22spatialReference%22%3A%7B%22wkid%22%3A3857%7D%7D&outFields=*",
+    API_PATH + "/services/global/pdc_hazard_zones/MapServer?f=json",
+    API_PATH + "/services/global/pdc_hazard_zones/MapServer/5?f=json",
+    API_PATH
+    + '/services/global/pdc_hazard_zones/MapServer/5/query?f=json&geometryType=esriGeometryEnvelope&outSR=4326&returnGeometry=true&geometry={"xmin":-10018754.17139,"ymin":5621521.48619,"xmax":-5009377.0857,"ymax":20048966.10401,"spatialReference":{"wkid":3857}}&outFields=*',
+    API_PATH
+    + '/services/global/pdc_hazard_zones/MapServer/5/query?f=json&geometryType=esriGeometryEnvelope&outSR=4326&returnGeometry=true&geometry={"xmin":-10018754.17139,"ymin":-5621521.48619,"xmax":-5009377.0857,"ymax":0,"spatialReference":{"wkid":3857}}&outFields=*',
+    API_PATH + "/services/global/pdc_hazard_zones/MapServer/8?f=json",
+    API_PATH
+    + "/services/global/pdc_hazard_zones/MapServer/export?format=png32&bboxSR=3857&SRS=EPSG:3857&version=10.04&BBOX=-16280475.52852,3757032.52065,-15028131.25709,5009377.37034&layers=show:8&size=256,256&transparent=true&f=image&dpi=96&imageSR=3857",
+    API_PATH + "/services/global/pdc_models/MapServer?f=json",
+    API_PATH + "/services/global/pdc_models/MapServer/6?f=json",
+    API_PATH
+    + "/services/global/pdc_models/MapServer/export?format=png32&bboxSR=3857&SRS=EPSG:3857&version=10.04&BBOX=-13775786.98567,3757032.52065,-12523442.71424,5009377.37034&layers=show:6&size=256,256&transparent=true&f=image&dpi=96&imageSR=3857",
+]
+
+crisis24_paths = hazards_paths + historical_hazards_paths + map_service_paths
+
+
+def add_arguments(parser):
+    parser.add_argument(
+        "-r",
+        dest="show_response",
+        action="store_true",
+        help="Show responses",
+    )
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    add_arguments(parser)
+    args = parser.parse_args()
+
+    # Get token
+    response = requests.post(
+        API_PATH + "/authorize",
+        json={"username": API_USERNAME, "password": API_PASSWORD},
+    )
+    if response.status_code == 200:
+        token = json.loads(response.text)["accessToken"]
+        print("Success - API Token:", token)
+
+    for path in crisis24_paths:
+        print("Executing:", path)
+        response = requests.get(path, headers={"Authorization": "Bearer " + token})
+        if response.status_code == 200:
+            if response.text[0] == "{" or response.text[0] == "[":
+                print(
+                    "Success - JSON",
+                    json.dumps(response.json(), indent=4) if args.show_response else "",
+                )
+            elif "<?xml" in response.text:
+                print("Success - XML", response.text if args.show_response else "")
+            elif "PNG" in response.text[1:4]:
+                print("Success - PNG")
+            else:
+                print("Success - UNKNOWN", response.text if args.show_response else ""),
+        else:
+            print("Error", response.status_code, response.text)
+
+        cont = input("Next?")
+        print("")
+
+
+if __name__ == "__main__":
+    main()
+```
