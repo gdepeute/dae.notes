@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689796473368
+updated: 1689796998438
 created: 1683054386243
 ---
 
@@ -97,7 +97,10 @@ API_PASSWORD = "<REPLACE_WITH_PASSWORD>"
 
 WHERE = "((status = 'E')) AND (create_date >= to_date('2023-03-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-03-02 00:00:00', 'yyyy-mm-dd hh24:mi:ss'))"
 
-hazards_paths = [API_PATH + "/hazards/active"]
+hazards_paths = [
+    API_PATH + "/hazards/active",
+    API_PATH + "/hazards/189839/alert-geography",
+]
 
 historical_hazards_paths = [
     API_PATH + "/hazards_count?where=" + WHERE,
