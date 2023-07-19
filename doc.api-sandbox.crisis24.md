@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689796411161
+updated: 1689796473368
 created: 1683054386243
 ---
 
@@ -16,6 +16,7 @@ Layers:
 
 - Population Density (WMS)
   - https://api-sandbox.disasteraware.com/services/geowebcache_wms (LAYERS=pop_dens_2015)
+    - image
 - Earthquake Locations and Magnitude (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_active_hazards/MapServer (layers=6)
     - point
