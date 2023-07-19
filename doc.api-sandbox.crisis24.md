@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1683064014668
+updated: 1689795866022
 created: 1683054386243
 ---
 
@@ -22,14 +22,14 @@ Layers:
 - Earthquake Intensity Zones (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/gloabl/pdc_hazard_zones/MapServer (layers=8)
     - polygon
-- Earthquake Shaking Intensity - ShakeMap Model (ARCGIS)
-  - https://api-sandbox.disasteraware.com/services/global/pdc_models/MapServer (layers=6)
-    - polygon
 - Tectonic Plate Boundaries (ARCGIS)
   - https://api-sandbox.disasteraware.com/services/global/pdc_hazard_zones/MapServer (layers=5)
     - polyline
+- Earthquake Shaking Intensity - ShakeMap Model (ARCGIS)
+  - https://api-sandbox.disasteraware.com/services/global/pdc_models/MapServer (layers=6)
+    - polygon
 
-The credential created for Crisis24 for this POC effort has been given access to only the resources listed above. Any request outside of that list will return in error.
+The credential created for Crisis24 (disasterawareingestion@crisis24.com) for this POC effort has been given access to only the resources listed above. Any request outside of that list will return an error.
 
 ## Basic API Usage
 
@@ -45,7 +45,7 @@ You MUST supply a search term to this endpoint in order to limit the matches to 
 
 In order to determine whether your request would return fewer than 1000 matches, it is recommended you use https://api-sandbox.disasteraware.com/hazards_count with the same exact search string, and if it's a valid search, it will return the number of matches in the response.
 
-The search term loosely models a SQL-like query. The fields which can be used in a query:
+The search term models a SQL query. The fields which can be used in a query:
 
 - status = 'E'
   - Search for expired hazards
@@ -79,6 +79,8 @@ Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/servic
 
 Please refer to [ARCGIS Map Service](https://developers.arcgis.com/rest/services-reference/enterprise/map-service.htm) for details on how to query ARCGIS map services.
 
-```
+## Crisis24 Test Tool
 
-```
+We've included a simple python3 test tool for all the resources Crisis24 is licensed to receive. This includes an example of all licensed resources, and can be used to verify your credentials.
+
+Add the username/password for your `disasterawareingestion@crisis24.com` API account. That is the account we've applied the additional roles to control access to the resources above.
