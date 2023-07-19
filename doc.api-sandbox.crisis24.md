@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689798140722
+updated: 1689798299742
 created: 1683054386243
 ---
 
@@ -86,7 +86,8 @@ We've included a simple python3 test tool for all the resources Crisis24 is lice
 
 Add the username/password for your `disasterawareingestion@crisis24.com` API account. That is the account we've applied the additional roles to control access to the resources above.
 
-```#!/usr/bin/env python3
+```python
+#!/usr/bin/env python3
 import requests
 import json
 import argparse
