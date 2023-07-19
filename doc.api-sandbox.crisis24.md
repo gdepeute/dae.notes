@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689796998438
+updated: 1689798140722
 created: 1683054386243
 ---
 
@@ -36,7 +36,7 @@ The credential created for Crisis24 (disasterawareingestion@crisis24.com) for th
 
 The basic API documentation resides at https://api-docs.disasteraware.com. For the Crisis24 POC, any time you see a reference to https://api.disasteraware.com, replace with https://api-sandbox.disasteraware.com.
 
-As shown in the documentaiton, a authorization token MUST be submitted with every request to the API with the exception of the /authorize endpoint. The authorization tokens expire after 15 minutes, therefore make sure you are sending a valid token with your requests. If you need a new authorization token, please hit the /authorize endpoint again.
+As shown in the documentation, an authorization token MUST be submitted with every request to the API with the exception of the /authorize endpoint. The authorization tokens expire after 15 minutes, therefore make sure you are sending a valid token with your requests. If you need a new authorization token, please hit the /authorize endpoint again.
 
 ## Accessing Historical Hazards
 
@@ -66,7 +66,7 @@ The search term models a SQL query. The fields which can be used in a query:
   - Hazard creation date, typically used to check between range of dates:
     - Example: create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')
 
-Multi-field example. Searchs for expired WILDFIRE hazard of type EVENT, severity WARNING, created between 5/1/23 and 5/31/23 with "namefoo" (case insensitive) in the hazard_name and "commentfoo" (case insensitive) in the comment_text
+Multi-field example. Searches for expired WILDFIRE hazard of type EVENT, severity WARNING, created between 5/1/23 and 5/31/23 with "namefoo" (case insensitive) in the hazard_name and "commentfoo" (case insensitive) in the comment_text
 
 ```
 https://api-sandbox.disasteraware.com/hazards_count?where=((category_id = 'EVENT')) AND (UPPER(comment_text) LIKE '%COMMENTFOO%') AND (create_date >= to_date('2023-05-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-05-31 00:00:00', 'yyyy-mm-dd hh24:mi:ss')) AND (UPPER(hazard_name) LIKE '%NAMEFOO%') AND ((severity_id = 'WARNING')) AND ((status = 'E')) AND ((type_id = 'WILDFIRE'))
@@ -74,7 +74,7 @@ https://api-sandbox.disasteraware.com/hazards_count?where=((category_id = 'EVENT
 
 ## Accessing WMS Map Servers
 
-Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/services/wms/reference.html#operations) for details on how to query WMS map servcies.
+Please refer to [WMS Reference](https://docs.geoserver.org/stable/en/user/services/wms/reference.html#operations) for details on how to query WMS map services.
 
 ## Accessing ARCGIS Map Servers
 
