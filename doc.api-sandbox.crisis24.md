@@ -2,7 +2,7 @@
 id: tvv9uvy133xemeu0kzaq6k3
 title: Crisis24
 desc: ""
-updated: 1689798746524
+updated: 1689798882897
 created: 1683054386243
 ---
 
@@ -94,8 +94,8 @@ import argparse
 
 API_PREFIX = "https:/"
 API_PATH = API_PREFIX + "/api-sandbox.disasteraware.com"
-API_USERNAME = "dae-asset-tracking-mdove"
-API_PASSWORD = "rWXlpnRi5Nbx"
+API_USERNAME = "<API_USERNAME>"
+API_PASSWORD = "<API_PASSWORD>"
 
 WHERE = "((status = 'E')) AND (create_date >= to_date('2023-03-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss') AND create_date <= to_date('2023-03-02 00:00:00', 'yyyy-mm-dd hh24:mi:ss'))"
 
