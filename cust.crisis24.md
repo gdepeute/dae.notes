@@ -2,9 +2,11 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1686168613723
+updated: 1689872440563
 created: 1675461426469
 ---
+
+# Crisis24 - 7/20/23
 
 # Crisis24 / Chad Lesch / Call on 6/7/23
 
