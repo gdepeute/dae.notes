@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1689874059851
+updated: 1689874638636
 created: 1675461426469
 ---
 
@@ -16,6 +16,15 @@ created: 1675461426469
   - Weather Alerts layer marked as 2022
   - Issue regarding layers and when they are updated (stale)?
 - Chad to show us his presentation for IQGEO/NESIC
+  - People who manage travel risk
+  - GSOC, ...
+  - "deeper analysis of topics & events to drive further success"
+  - Chad asked, "Why aren't we pursuing revenue centers and not just travel risk
+  - Combine with other information, can provide value outside of those groups
+  - "Increase revenue, decrease losses"
+  - CAP is GPT-4 system seeded with ONLY their vetted data
+  - GPT doesn't give you the source information
+  - They will provide sourcing info with their responses
 
 # Crisis24 / Chad Lesch / Call on 6/7/23
 
