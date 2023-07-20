@@ -2,7 +2,7 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1689874638636
+updated: 1689875091712
 created: 1675461426469
 ---
 
@@ -25,6 +25,7 @@ created: 1675461426469
   - CAP is GPT-4 system seeded with ONLY their vetted data
   - GPT doesn't give you the source information
   - They will provide sourcing info with their responses
+  - Palantir really good at sucking in the data/data streams, Crisis24 bringing the AI side
 
 # Crisis24 / Chad Lesch / Call on 6/7/23
 
