@@ -2,11 +2,20 @@
 id: mfx9mmod8isg5dwnltt0oom
 title: Crisis24
 desc: ""
-updated: 1689872440563
+updated: 1689874059851
 created: 1675461426469
 ---
 
 # Crisis24 - 7/20/23
+
+- Chad Lesch
+- Mike Gilbert / Thomas Lee
+- Discuss Mike/Thomas feedback
+- Discuss Chad Lesch
+- Layers
+  - Weather Alerts layer marked as 2022
+  - Issue regarding layers and when they are updated (stale)?
+- Chad to show us his presentation for IQGEO/NESIC
 
 # Crisis24 / Chad Lesch / Call on 6/7/23
 
