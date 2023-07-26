@@ -2,7 +2,7 @@
 id: 87b9lonc8wcjdqierbst95r
 title: Ax
 desc: ""
-updated: 1690384401543
+updated: 1690384861697
 created: 1690383505561
 ---
 
@@ -19,4 +19,7 @@ created: 1690383505561
   - Historical data on Paris flooding
   - Air Quality - what about Purple Air
   - In DA can see the nuclear power plants, but not in DAE, check with Cassie
-    - Undersea cables also in DA but not in DAE
+- Undersea cables also in DA but not in DAE
+- Mitigation measures, how and waht to do when hazard X happens
+  - Suggestions for folks how to mitigate the disasters
+- Remove Guillaume
