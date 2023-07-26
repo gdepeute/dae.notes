@@ -2,7 +2,7 @@
 id: 87b9lonc8wcjdqierbst95r
 title: Ax
 desc: ""
-updated: 1690384984615
+updated: 1690385025379
 created: 1690383505561
 ---
 
@@ -14,7 +14,8 @@ created: 1690383505561
 - Elisa Rodrigo Verdu / based in Barcelona
   - Health and Safety officer
   - Wants to restart monthly checkin's that Sheila used to do
-- ## Clean up credentialed users
+- Clean up credentialed users
+  - Remove Guillaume
 - Feels things are more US-centric
   - Historical data on Paris flooding
   - Air Quality - what about Purple Air
@@ -22,6 +23,5 @@ created: 1690383505561
 - Undersea cables also in DA but not in DAE
 - Mitigation measures, how and waht to do when hazard X happens
   - Suggestions for folks how to mitigate the disasters
-- Remove Guillaume
 - 9/6 next meeting, same time
--
+- GSX Dallas in September
