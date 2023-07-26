@@ -2,7 +2,7 @@
 id: 87b9lonc8wcjdqierbst95r
 title: Ax
 desc: ""
-updated: 1690384861697
+updated: 1690384984615
 created: 1690383505561
 ---
 
@@ -23,3 +23,5 @@ created: 1690383505561
 - Mitigation measures, how and waht to do when hazard X happens
   - Suggestions for folks how to mitigate the disasters
 - Remove Guillaume
+- 9/6 next meeting, same time
+-
