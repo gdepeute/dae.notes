@@ -2,7 +2,7 @@
 id: 87b9lonc8wcjdqierbst95r
 title: Ax
 desc: ""
-updated: 1690383994474
+updated: 1690384224415
 created: 1690383505561
 ---
 
@@ -14,8 +14,8 @@ created: 1690383505561
 - Elisa Rodrigo Verdu / based in Barcelona
   - Health and Safety officer
   - Wants to restart monthly checkin's that Sheila used to do
-- Clean up credentialed users
-  -
+- ## Clean up credentialed users
 - Feels things are more US-centric
   - Historical data on Paris flooding
-  - Air Quality
+  - Air Quality - what about Purple Air
+  - In DA can see the nuclear power plants, but not in DAE
