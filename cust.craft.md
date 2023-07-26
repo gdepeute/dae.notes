@@ -2,7 +2,7 @@
 id: 8uqjdbl59xjcbqad05yikpp
 title: Craft
 desc: ""
-updated: 1690389920151
+updated: 1690391487529
 created: 1690387348056
 ---
 
@@ -19,4 +19,9 @@ created: 1690387348056
 - Ashley Aruffo - Product Team
 - Send over API docs, and hazardification spreadsheets for natural and man-made hazards
 - Suggested they sign up for trial to review the data
+
   - Interested in data side, and surface for their clients
+
+  - ![Craft Top](images/Craft-Top-Level.png)
+  - ![Craft Cases](images/Craft-Cases.png)
+  - ![Craft Alerts](images/Craft-Alerts.png)
