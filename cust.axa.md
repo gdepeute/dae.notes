@@ -2,7 +2,7 @@
 id: 87b9lonc8wcjdqierbst95r
 title: Ax
 desc: ""
-updated: 1690384224415
+updated: 1690384401543
 created: 1690383505561
 ---
 
@@ -18,4 +18,5 @@ created: 1690383505561
 - Feels things are more US-centric
   - Historical data on Paris flooding
   - Air Quality - what about Purple Air
-  - In DA can see the nuclear power plants, but not in DAE
+  - In DA can see the nuclear power plants, but not in DAE, check with Cassie
+    - Undersea cables also in DA but not in DAE
