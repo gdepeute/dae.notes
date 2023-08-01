@@ -2,7 +2,7 @@
 id: qpq72qo6bf7z6dyz53h9v54
 title: Meta
 desc: ""
-updated: 1690910828344
+updated: 1690911065561
 created: 1690909684258
 ---
 
@@ -46,3 +46,4 @@ created: 1690909684258
 - Kaushik would like to hear about new features/functionality/...
   - Feels like he wants something f2f, partner advisory council, ...
   - Wants something more proactive/f2f/asking questions/...
+- Checked on aalani@fb.com in the analytics, expected.
