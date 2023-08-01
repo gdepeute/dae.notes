@@ -2,7 +2,7 @@
 id: qpq72qo6bf7z6dyz53h9v54
 title: Meta
 desc: ""
-updated: 1690910040144
+updated: 1690910115368
 created: 1690909684258
 ---
 
@@ -21,4 +21,6 @@ created: 1690909684258
   - Baldwin was lead on the private instance and getting that rolled over
   - Johnny mentioned he would be happy to "customize" their private instance
   - Example: spam of alerts from floods, time consuming and problematic
+    - Would like to do some changes to floods and wildfires to reduce the noise
+    - Initially training might be useful, but clearly they'd like parameter changes
     -
