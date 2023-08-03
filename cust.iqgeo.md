@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1691079071957
+updated: 1691079334370
 created: 1673313346674
 ---
 
@@ -10,6 +10,15 @@ created: 1673313346674
 
 - NESIC doesn't see added value into the shipping sector
 - Hitomi best qualified on our app, has some suggestions for potential sales
+- Doesn't believe to continue to NESIC, as they aren't able to sell
+- Hitomi suggests checking in the IQGEO customer base
+  - Some customers don't have any systems in place yet
+  - She shared list of potential prospects
+    - NTT, KDDI, Okinawa, ...
+  - Stop trial with NESIC
+  - Position product in the IQGEO customer base
+  - If trial needs to happen, Hitomi would reach out to us
+- AND IQGEO doesn't have the bandwidth to deal with dry holes like with NESIC
 
 # IQGeo
 
