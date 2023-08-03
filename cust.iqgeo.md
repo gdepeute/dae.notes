@@ -2,9 +2,14 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1683928887020
+updated: 1691079071957
 created: 1673313346674
 ---
+
+# Call with Christian 0n 8/3/23
+
+- NESIC doesn't see added value into the shipping sector
+- Hitomi best qualified on our app, has some suggestions for potential sales
 
 # IQGeo
 
