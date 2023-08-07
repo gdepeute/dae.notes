@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1691435234096
+updated: 1691436567243
 created: 1604337051940
 ---
 
@@ -15,6 +15,9 @@ created: 1604337051940
 - Everbridge / Thursday
 - Claire / PHC
   - Rescheduling to next Monday (hopefully)
+- Rosanna / Craft.co
+  - Trialed 3 years ago, back looking at data
+  - Sent sample hazards and detailed email on 8/7/23
 
 # Older Tracking Items
 
