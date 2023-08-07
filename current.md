@@ -2,11 +2,21 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1689014286314
+updated: 1691435234096
 created: 1604337051940
 ---
 
-# Current Tracking Items
+# Current Tracking Items - 8/7/23
+
+- Kyle started
+  - Email access granted, Slack access granted
+- Gary Frost / PLF
+  - Sent email clarifying his desires for map services
+- Everbridge / Thursday
+- Claire / PHC
+  - Rescheduling to next Monday (hopefully)
+
+# Older Tracking Items
 
 - Crisis24 POC
 - Topo1 POC
