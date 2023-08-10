@@ -2,7 +2,7 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1691678269320
+updated: 1691678704417
 created: 1691676249745
 ---
 
@@ -43,4 +43,5 @@ created: 1691676249745
 - How to use the API
 - What type of historic data
 - Ivan asked about whether data provides any risk data as a part of the API
+  - Which "risk factors" included in the data set? None!
 - Send them Jeremy's
