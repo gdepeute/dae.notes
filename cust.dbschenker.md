@@ -2,7 +2,7 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1691676628369
+updated: 1691677669407
 created: 1691676249745
 ---
 
@@ -30,3 +30,15 @@ created: 1691676249745
   - Acturary
   - Capture the requirements / requirements engineer
 - Jan Peter Carstensen / Data scientists lead on the team
+
+- They work with other insurance companies on natural hazard modelling
+- Mentioned our work with AXA, Marsh, Convex
+
+  - They are working with AXA (Germany) - lead insurer for freight forwarding and cargo
+  - Cargo they use AIG/Chubb
+  - Marsh playing a role on the non-marine side
+  - Ulrich would like the contacts at AXA and Marsh
+  - Need NDA in place
+
+- How to use the API
+- What type of historic date
