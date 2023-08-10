@@ -2,7 +2,7 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1691679212030
+updated: 1691679688368
 created: 1691676249745
 ---
 
@@ -13,6 +13,8 @@ created: 1691676249745
   - 14 years
   - Freight business a LOT longer
 - Ulrich Kutter / Head of Global Insurance Solutions / Department Head
+  - Based in Singapore
+
   - Broker hubs
   - Digitalization
   - 3 years
