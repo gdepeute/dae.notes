@@ -2,7 +2,7 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1691677669407
+updated: 1691678269320
 created: 1691676249745
 ---
 
@@ -41,4 +41,6 @@ created: 1691676249745
   - Need NDA in place
 
 - How to use the API
-- What type of historic date
+- What type of historic data
+- Ivan asked about whether data provides any risk data as a part of the API
+- Send them Jeremy's
