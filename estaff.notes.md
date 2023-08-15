@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692125028788
+updated: 1692125299831
 created: 1673230030238
 ---
 
@@ -12,6 +12,10 @@ created: 1673230030238
 
   - Won't be earlier that next week
   - Demo by Johnny, Johnny suggested Todd from PDC
+
+- IAEA Phase 3 - reach out to Brian
+
+  - Will it be out of testing by end of September, what else is needed?
 
 - My items
 
