@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692122895195
+updated: 1692123598240
 created: 1673230030238
 ---
 
@@ -25,6 +25,8 @@ created: 1673230030238
 - Questions
   - Benefits / Cobra
   - Payroll
+    - May 31, Jun 15, Jun 30, Jul ?? - did NOT have witholding
+  - Invites sent for ADP sites
 
 # EStaff 7/10/23
 
