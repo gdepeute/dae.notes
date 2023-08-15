@@ -2,9 +2,29 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1689013182145
+updated: 1692122895195
 created: 1673230030238
 ---
+
+# EStaff 8/15/23
+
+- Everbridge Meeting Prep
+
+  - Won't be earlier that next week
+  - Demo by Johnny, Johnny suggested Todd from PDC
+
+- My items
+
+  - Resolved downtime over the weekend, alert on swagger endpoint which unclear why it was there. Might have been "manually" disabled. "Fixed" in CDK. Pinging Arnaldo
+  - Asset Tracking POC migration
+  - API analytics, migration of custom authorizer moved to main API
+  - Kyle support
+  - Daimler/Mercedes updates
+  - Billing continuation updates
+
+- Questions
+  - Benefits / Cobra
+  - Payroll
 
 # EStaff 7/10/23
 
