@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692123598240
+updated: 1692123782101
 created: 1673230030238
 ---
 
@@ -26,6 +26,8 @@ created: 1673230030238
   - Benefits / Cobra
   - Payroll
     - May 31, Jun 15, Jun 30, Jul ?? - did NOT have witholding
+    - 5 payrolls MISSED witholdings altogether
+    - PLUS deferred income of $30k or so
   - Invites sent for ADP sites
 
 # EStaff 7/10/23
