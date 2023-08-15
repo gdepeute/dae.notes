@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692123940649
+updated: 1692125028788
 created: 1673230030238
 ---
 
@@ -21,6 +21,8 @@ created: 1673230030238
   - Kyle support
   - Daimler/Mercedes updates
   - Billing continuation updates
+
+- Website pointer from PDC to us - change?
 
 - Questions
   - Benefits / Cobra
