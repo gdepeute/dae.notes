@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1692224216211
+updated: 1692224866482
 created: 1687363951053
 ---
 
@@ -14,6 +14,10 @@ created: 1687363951053
   - New vertical
   - Large banks typical customers
   - This product for small/medium banks
+  - Guess - 5 users/bank
+  - Wants baseline properties
+  - All hazards
+  - List of sources
 
 ## DAE leads as of 7/17 - sent emails on 7/17
 
