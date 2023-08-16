@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1692223370472
+updated: 1692224216211
 created: 1687363951053
 ---
 
@@ -10,6 +10,10 @@ created: 1687363951053
 
 - Aryan / Bitvore
   - GDACS API
+  - Oct 1 - initial Beta customers
+  - New vertical
+  - Large banks typical customers
+  - This product for small/medium banks
 
 ## DAE leads as of 7/17 - sent emails on 7/17
 
