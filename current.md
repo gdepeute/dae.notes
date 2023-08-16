@@ -2,7 +2,7 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1692218403676
+updated: 1692218492431
 created: 1604337051940
 ---
 
@@ -14,6 +14,10 @@ created: 1604337051940
 - Nick needs Slack permissions
 - Check technical.operations@disasteraware.com for alert emails
 - Nick only has one Asana ticket left
+- Izzy
+  - IAEA phase 3
+  - fixed?
+  -
 
 # Current Tracking Items - 8/7/23
 
