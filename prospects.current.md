@@ -2,11 +2,14 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1689636545885
+updated: 1692223370472
 created: 1687363951053
 ---
 
 # Current Prospects
+
+- Aryan / Bitvore
+  - GDACS API
 
 ## DAE leads as of 7/17 - sent emails on 7/17
 
