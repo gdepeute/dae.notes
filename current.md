@@ -2,9 +2,15 @@
 id: 1ace5a9c-8da5-4362-abe5-881756feabd2
 title: Current
 desc: ""
-updated: 1691436567243
+updated: 1692218297348
 created: 1604337051940
 ---
+
+# Current 8/16
+
+- Mobile push issue fixed - didn't affect all
+- 7.9.2 client issue - code snippet removed somehow, put back in, fixed
+- Monitor issues with /swagger endpoint
 
 # Current Tracking Items - 8/7/23
 
