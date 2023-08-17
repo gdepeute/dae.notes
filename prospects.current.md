@@ -2,12 +2,17 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1692224866482
+updated: 1692277483104
 created: 1687363951053
 ---
 
 # Current Prospects
 
+- Konsta / Sirway
+  - Consultant
+  - Road management
+  - Bridge management
+  - Reporting
 - Aryan / Bitvore
   - GDACS API
   - Oct 1 - initial Beta customers
