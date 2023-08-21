@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692641200091
+updated: 1692641377961
 created: 1673230030238
 ---
 
@@ -16,7 +16,10 @@ created: 1673230030238
 - DMARC
 - Map service updates
 - BMC proposal
--
+
+- Notes:
+  - About 40k of receivables awaiting on
+  - PDC invoices (2) for $25k/each - Erin is working on, Johnny provided
 
 # EStaff 8/15/23
 
