@@ -2,14 +2,17 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692640996683
+updated: 1692641200091
 created: 1673230030238
 ---
 
 # EStaff 8/21/23
 
 - Talked to a couple prospects last week
-- Asset tracking POC migration/refactoring
+- Asset tracking POC migration/refactoring - IN PROGRESS
+- Custom authorizer switchover - IN PROGRESS
+- Cost reduction AWS - IN PROGRESS
+- SFDC code for license generation - pull it out
 - DMARC
 - Map service updates
 - BMC proposal
