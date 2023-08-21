@@ -2,11 +2,18 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1692640885531
+updated: 1692640996683
 created: 1673230030238
 ---
 
 # EStaff 8/21/23
+
+- Talked to a couple prospects last week
+- Asset tracking POC migration/refactoring
+- DMARC
+- Map service updates
+- BMC proposal
+-
 
 # EStaff 8/15/23
 
