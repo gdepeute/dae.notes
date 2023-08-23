@@ -2,11 +2,20 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1692279567384
+updated: 1692824905645
 created: 1687363951053
 ---
 
 # Current Prospects
+
+- Al / BCP / Disaster Response
+  - Nickolai
+  - Maya
+  - Ryan
+  - Elias Martinez
+- Compatability with "their" systems
+- Formed due to El Nino thru 2024
+- Earthquake - prediction of >8.8 in the sea off Peru
 
 - Konsta / Sirway - 8/17/23
 
