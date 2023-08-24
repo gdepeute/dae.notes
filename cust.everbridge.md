@@ -2,7 +2,7 @@
 id: ec7vwxbxip50ba1o0ex0eq7
 title: Everbridge
 desc: ""
-updated: 1692902260876
+updated: 1692902303547
 created: 1692901843671
 ---
 
@@ -35,4 +35,5 @@ DIQ
 
 Demos
 
--
+- Visual Command Center
+  -
