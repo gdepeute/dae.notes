@@ -2,7 +2,7 @@
 id: ec7vwxbxip50ba1o0ex0eq7
 title: Everbridge
 desc: ""
-updated: 1692903987298
+updated: 1692905570020
 created: 1692901843671
 ---
 
@@ -55,4 +55,9 @@ Demos
 - Cool way to view prior risk history / events - heatmap
   - Easy to change timeline (last 7 days, last year, ...)
 - Dashboards
+
   - Easy to create and able to schedule the creation/delivery...
+
+- DisasterAWARE Enterprise demo
+  - Each demo was about 25 mins
+  -
