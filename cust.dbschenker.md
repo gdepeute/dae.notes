@@ -2,13 +2,22 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1693231867186
+updated: 1693233133426
 created: 1691676249745
 ---
 
 # DB Schenker Meeting 8/28/23
 
 - They'd like access to historical data and some layers (and forecast data)
+- Bob talking them thru the 5% of their pricing as cost for access to our data
+- Don't want to give access to historical data without business relationship in place as it could be kept forever
+- They are "using" it within DB Schenker, not "selling" it yet
+- It's being used for their interal product for risk analysis and used to determine pricing for tranporttation
+- Which hazards are of interest
+  - Not all hazards are of interest
+  -
+- 10-50 users determining pricing purposes (using the broader app)
+  - 2-3 people for pricing is what Jan suggests (less than 5)
 
 # DB Schenker Meeting 8/10/23
 
