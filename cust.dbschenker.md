@@ -2,9 +2,13 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1691679688368
+updated: 1693231867186
 created: 1691676249745
 ---
+
+# DB Schenker Meeting 8/28/23
+
+- They'd like access to historical data and some layers (and forecast data)
 
 # DB Schenker Meeting 8/10/23
 
@@ -13,6 +17,7 @@ created: 1691676249745
   - 14 years
   - Freight business a LOT longer
 - Ulrich Kutter / Head of Global Insurance Solutions / Department Head
+
   - Based in Singapore
 
   - Broker hubs
@@ -20,6 +25,7 @@ created: 1691676249745
   - 3 years
   - Worked with AIG, Berkshire Hathaway, ...
   - Has used DIQ in the past
+
 - Anette Rakow / Digitalization Project
   - 2 years
   - Represent the business (claims likee she is like Sheila)
