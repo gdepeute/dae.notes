@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1694107778964
+updated: 1694107841676
 created: 1687363951053
 ---
 
@@ -18,7 +18,9 @@ created: 1687363951053
   - Amazon Disaster Response team - late 2022
   - Planet Labs
   - Core user base
-    - Used undergraduate
+    - Used undergraduate, collegiate, academia
+    - Bring their own models
+    -
 
 - Al / BCP / Disaster Response
   - Nickolai
