@@ -2,14 +2,18 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1694105919203
+updated: 1694106464068
 created: 1687363951053
 ---
 
 # Current Prospects
 
 - Caleb / Amazon NGA - 9/7/23
-
+  - Caleb / Enggagement manager
+  - Nick / Geospatial email
+  - NGA / NUDL
+  - Congressional funds from NGA
+  - Wants Amazon to build the data lake
 - Al / BCP / Disaster Response
   - Nickolai
   - Maya
