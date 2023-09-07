@@ -2,11 +2,13 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1692824965632
+updated: 1694105919203
 created: 1687363951053
 ---
 
 # Current Prospects
+
+- Caleb / Amazon NGA - 9/7/23
 
 - Al / BCP / Disaster Response
   - Nickolai
