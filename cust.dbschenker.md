@@ -2,13 +2,21 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1694443447575
+updated: 1694443797470
 created: 1691676249745
 ---
 
 # DB Schenker Meeting 9/11/23
 
-- Updated license
+- Updated license discussion
+- Has added additional layers (almost doubled)
+- We updated the access to the layers from $10k/user to $15k/user per year.
+- They have told us before 5 users/year
+- Jan is suggested they could start with 3 users
+- DAE SaaS could go to 5 users
+
+- They are interested in a Dedicated Theft Risk Layer.
+- Check sources for UNIGRE? Tupper? Crime data?
 
 # DB Schenker Meeting 8/28/23
 
