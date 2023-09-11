@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1694107841676
+updated: 1694108438069
 created: 1687363951053
 ---
 
@@ -20,7 +20,9 @@ created: 1687363951053
   - Core user base
     - Used undergraduate, collegiate, academia
     - Bring their own models
-    -
+  - Deployed in 2 fabrics
+    - NGA commericial / external cloud - 62TB of data
+    - NGA UC fabric (parter with NGA) - controlled but unclassified - 16PB
 
 - Al / BCP / Disaster Response
   - Nickolai
