@@ -2,9 +2,13 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1693233133426
+updated: 1694443447575
 created: 1691676249745
 ---
+
+# DB Schenker Meeting 9/11/23
+
+- Updated license
 
 # DB Schenker Meeting 8/28/23
 
