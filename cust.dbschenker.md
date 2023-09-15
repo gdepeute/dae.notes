@@ -2,7 +2,7 @@
 id: 38v29x4in0jgyoyq8rvjqwf
 title: Dbschenker
 desc: ""
-updated: 1694455335755
+updated: 1694455387920
 created: 1691676249745
 ---
 
@@ -18,7 +18,8 @@ created: 1691676249745
 - They are interested in a Dedicated Theft Risk Layer.
 - Check sources for UNIGRE? Tupper? Crime data?
 
-- They would be
+- They would be interested in shipping/container data
+  - They sent several "potential" sources of data, but all are VERY limited in what is available and pricing
 
 # DB Schenker Meeting 8/28/23
 
