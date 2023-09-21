@@ -2,19 +2,22 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1695318883818
+updated: 1695319062305
 created: 1687363951053
 ---
 
 # Current Prospects
 
 - Sony / Richie Scaggs - 9/21/23
-  - Richie Scaggs
+  - Richie Scaggs / Business Resiliency and Physical Security
   - Josh Dungus
   - San Diego based
   - Interested in monitoring assets, buildings, factories, people, travelling people
   - GSOC SaaS opportunity
-  - Potential DaaS opportunity as they are using Noggin
+  - Potential DaaS opportunity as they are using Noggin (noggin.io) based out of Australia as their integrated resilience workspace
+    - Noggin doing the integration, might be cool partnership for us to tie data into their system/customers
+  - Recomended free trial to get going, then touch base in a couple weeks
+  - Suggested I could build a map service for them with their assets to use for their trial if that would be useful
 - Caleb / Amazon NGA - 9/7/23
 
   - Caleb / Enggagement manager
