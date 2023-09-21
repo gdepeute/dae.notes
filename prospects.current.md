@@ -2,14 +2,14 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1695315413035
+updated: 1695316325927
 created: 1687363951053
 ---
 
 # Current Prospects
 
 - Sony / Richie Scaggs - 9/21/23
-
+  - Richie
 - Caleb / Amazon NGA - 9/7/23
 
   - Caleb / Enggagement manager
