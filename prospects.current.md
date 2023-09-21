@@ -2,14 +2,19 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1695316325927
+updated: 1695318883818
 created: 1687363951053
 ---
 
 # Current Prospects
 
 - Sony / Richie Scaggs - 9/21/23
-  - Richie
+  - Richie Scaggs
+  - Josh Dungus
+  - San Diego based
+  - Interested in monitoring assets, buildings, factories, people, travelling people
+  - GSOC SaaS opportunity
+  - Potential DaaS opportunity as they are using Noggin
 - Caleb / Amazon NGA - 9/7/23
 
   - Caleb / Enggagement manager
