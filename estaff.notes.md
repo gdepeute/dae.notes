@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1695060285531
+updated: 1695060727439
 created: 1673230030238
 ---
 
@@ -14,7 +14,9 @@ created: 1673230030238
   - Show to Guillaume
 - Sitecore Updates
 - BMC insanity
--
+- API reporting tool
+- Refactoring other ATPOC code base
+- Natalie email/zoom/???
 
 # EStaff 8/21/23
 
