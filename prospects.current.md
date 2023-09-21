@@ -2,12 +2,13 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1694108438069
+updated: 1695314952424
 created: 1687363951053
 ---
 
 # Current Prospects
 
+- Sony / Richie
 - Caleb / Amazon NGA - 9/7/23
 
   - Caleb / Enggagement manager
