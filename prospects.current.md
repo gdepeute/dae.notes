@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1695319062305
+updated: 1695319619817
 created: 1687363951053
 ---
 
@@ -10,7 +10,7 @@ created: 1687363951053
 
 - Sony / Richie Scaggs - 9/21/23
   - Richie Scaggs / Business Resiliency and Physical Security
-  - Josh Dungus
+  - Josh Dungus / Crisis Management/Emergency Response
   - San Diego based
   - Interested in monitoring assets, buildings, factories, people, travelling people
   - GSOC SaaS opportunity
