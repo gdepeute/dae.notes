@@ -2,9 +2,16 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1695060727439
+updated: 1695665489763
 created: 1673230030238
 ---
+
+# EStaff 9/25/23
+
+- Aucnet - might get additional uptake from them
+- Guillaume this am, API docs
+- Guillaume/Convex - seeking dates for Earthquakes/Tornados
+- Everbridge email - get the trials going
 
 # EStaff 9/18/23
 
