@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1695929887756
+updated: 1695930143133
 created: 1673313346674
 ---
 
@@ -10,6 +10,8 @@ created: 1673313346674
 
 - Partnership manager with IQGEO
 - Works closely with Christian
+- All North American sales team showing up in Denver
+- They really don't see how they are going to sell this yet
 
 # Call with Christian 0n 8/3/23
 
