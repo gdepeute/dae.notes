@@ -2,13 +2,14 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1695929746015
+updated: 1695929887756
 created: 1673313346674
 ---
 
 # Call with Jason Burger
 
-- Pat
+- Partnership manager with IQGEO
+- Works closely with Christian
 
 # Call with Christian 0n 8/3/23
 
