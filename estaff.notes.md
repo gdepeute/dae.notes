@@ -2,7 +2,7 @@
 id: 2fkjhg14th0apa5hxe64e3j
 title: Notes
 desc: ""
-updated: 1695665489763
+updated: 1695665722958
 created: 1673230030238
 ---
 
@@ -12,6 +12,7 @@ created: 1673230030238
 - Guillaume this am, API docs
 - Guillaume/Convex - seeking dates for Earthquakes/Tornados
 - Everbridge email - get the trials going
+- IQGEO - "event", additional thoughts?
 
 # EStaff 9/18/23
 

@@ -2,9 +2,13 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1691079334370
+updated: 1695929746015
 created: 1673313346674
 ---
+
+# Call with Jason Burger
+
+- Pat
 
 # Call with Christian 0n 8/3/23
 
