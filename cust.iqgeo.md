@@ -2,7 +2,7 @@
 id: gp6vj9cjwxr5yew5ytlc61o
 title: Iqgeo
 desc: ""
-updated: 1695930143133
+updated: 1695930333869
 created: 1673313346674
 ---
 
@@ -12,6 +12,8 @@ created: 1673313346674
 - Works closely with Christian
 - All North American sales team showing up in Denver
 - They really don't see how they are going to sell this yet
+- Bob suggesting Jason go talk to Christian and Hitomi to see if they would recommend signing the reseller agreement AND what commitment to make to sales
+-
 
 # Call with Christian 0n 8/3/23
 
