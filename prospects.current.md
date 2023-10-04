@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1696446849963
+updated: 1696449710026
 created: 1687363951053
 ---
 
@@ -11,6 +11,11 @@ created: 1687363951053
 - D4H / Robin Blandford
 
   - Talked with him before on 8/15
+  - Incident management (cities, )
+  - Tomorrow.io for weather/usage
+  - Hyper localized per customer
+  - Western Illinois university use the product
+  - New Zealand second biggest market (US #1, Canada #3)
 
 - Sony / Richie Scaggs - 9/21/23
   - Richie Scaggs / Business Resiliency and Physical Security
