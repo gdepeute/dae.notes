@@ -2,11 +2,15 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1695319619817
+updated: 1696446849963
 created: 1687363951053
 ---
 
 # Current Prospects
+
+- D4H / Robin Blandford
+
+  - Talked with him before on 8/15
 
 - Sony / Richie Scaggs - 9/21/23
   - Richie Scaggs / Business Resiliency and Physical Security
