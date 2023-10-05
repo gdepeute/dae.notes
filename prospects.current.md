@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1696527752749
+updated: 1696527910441
 created: 1687363951053
 ---
 
@@ -22,6 +22,7 @@ created: 1687363951053
   - User will receive filtered/analyzed actionable data to use to assist what to do
   - Global Incident Map - external site, they have data? (IED's, Bombs, Terrorism, ...)
   - MySafetyCircle
+  - Looking for NatCat data
 
 - D4H / Robin Blandford
 
