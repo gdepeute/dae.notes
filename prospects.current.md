@@ -2,11 +2,26 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1696449710026
+updated: 1696527752749
 created: 1687363951053
 ---
 
 # Current Prospects
+
+- Maurizio Ognibene - Freelance Intelligence Analyst
+
+  - NOT KELONY
+  - Based is Italy
+  - Focused on Europe, eventually ROW
+  - European Law on Manadatory Support for travellers
+  - "Duty of Care" of Business Travel
+  - Tourists as well
+  - Extraction companies - all about safety and assistance
+  - Safety and Security
+  - Built up an "algorithm" that calculates priorities within risks
+  - User will receive filtered/analyzed actionable data to use to assist what to do
+  - Global Incident Map - external site, they have data? (IED's, Bombs, Terrorism, ...)
+  - MySafetyCircle
 
 - D4H / Robin Blandford
 
