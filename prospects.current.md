@@ -2,7 +2,7 @@
 id: r7coy5wd2xc8t2xs6vgvqzg
 title: Current
 desc: ""
-updated: 1696527910441
+updated: 1696529666017
 created: 1687363951053
 ---
 
@@ -23,6 +23,10 @@ created: 1687363951053
   - Global Incident Map - external site, they have data? (IED's, Bombs, Terrorism, ...)
   - MySafetyCircle
   - Looking for NatCat data
+  - KaKafka Dam in Ukraine caused significant flooding - did we catch it?
+  - How often are flood images analyzed
+    = Alexi and Dean from Austrailia
+  - Send API docs, maybe sample data
 
 - D4H / Robin Blandford
 
